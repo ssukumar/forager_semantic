@@ -29,22 +29,23 @@ def exclude(word,df):
 
 # takes in a path to a data file to be read as a CSV, the first row will be assumed as a header 
 # accepted delimiters include commas, tabs, semicolons, pipes, and spaces
-def prepareData(path, fp):
+def prepareData(path, fp, cat):
     ### LOAD BEHAVIORAL DATA ###
     df = pd.read_csv(path, header=0, engine='python', sep=None, encoding='utf-8-sig')
     if len(df.columns) > 2:
         three_col = input("Use the third column of this data file as a time point? Type 'y' for yes or 'n' for no: ")
         if three_col == "y":
-            df = df.iloc[:, :4]
+            df = df.iloc[:, :3]
             df.columns = ['SID', 'entry', 'timepoint']
         else:
-            df = df.iloc[:, :3]
+            df = df.iloc[:, :2]
             df.columns = ['SID', 'entry']
     else:
         df.columns = ['SID', 'entry']
 
     # load labels
-    labels = pd.read_csv(os.path.join(fp,"data/lexical_data/USE_frequencies.csv"), names=['word', 'logct', 'ct']) 
+    # SHRUTHI: add a default for no cat provided
+    labels = pd.read_csv(os.path.join(fp,"data/lexical_data", cat , "USE_frequencies.csv"), names=['word', 'logct', 'ct']) 
 
     # set all replacements to actual word for all words in labels as the default
     replacements = {word: word for word in labels['word'].values}

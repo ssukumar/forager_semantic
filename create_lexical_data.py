@@ -8,7 +8,7 @@
 import pandas as pd 
 
 from forager.embeddings import embeddings
-from forager.frequency import get_frequencies
+from forager.frequency_alt import get_frequencies
 from forager.cues import get_labels_and_frequencies
 from forager.cues import phonology_funcs
 from forager.cues import create_semantic_matrix
@@ -20,8 +20,8 @@ class data:
             data class contains functions that help with creating the lexical data files.     
     '''
     
-    def __init__(self, words):
-        self.path = 'data/lexical_data/NEW'
+    def __init__(self, words, dir='NEW'):
+        self.path = os.path.join('data/lexical_data/', dir)
 
         # Check whether the specified path exists or not
         isExist = os.path.exists(self.path)
@@ -42,10 +42,10 @@ class data:
         create_semantic_matrix(self.path + '/USE_embeddings.csv', self.path)
         print("\nCreated and saved semantic similarity matrix as USE_semantic_matrix.csv inside " + self.path)  
         
-        # get phonological matrix 
-        labels, freq_matrix = get_labels_and_frequencies(self.path + '/USE_frequencies.csv')
-        phonology_funcs.create_phonological_matrix(labels, self.path)
-        print("\nCreated and saved phonological similarity matrix as USE_phon_matrix.csv inside " + self.path) 
+        # # get phonological matrix
+        # labels, freq_matrix = get_labels_and_frequencies(self.path + '/USE_frequencies.csv')
+        # phonology_funcs.create_phonological_matrix(labels, self.path)
+        # print("\nCreated and saved phonological similarity matrix as USE_phon_matrix.csv inside " + self.path)
 
 #### SAMPLE RUN CODE ####
 # data(['apple', 'mango'])

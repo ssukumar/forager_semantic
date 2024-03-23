@@ -46,7 +46,7 @@ models = ['static','dynamic','pstatic','pdynamic','all']
 switch_methods = ['simdrop','multimodal','norms_associative', 'norms_categorical', 'delta','all']
 
 #Methods
-def retrieve_data(path,fp):
+def retrieve_data(path,fp,category):
     """
     1. Verify that data path exists
 
@@ -54,14 +54,17 @@ def retrieve_data(path,fp):
     if os.path.exists(path) == False:
         ex_str = "Provided path to data \"{path}\" does not exist. Please specify a proper path".format(path=path)
         raise Exception(ex_str)
-    data = prepareData(path,fp)
+    data = prepareData(path,fp,category)
     return data
 
 def get_lexical_data():
     norms = pd.read_csv(normspath, encoding="unicode-escape")
     similarity_matrix = np.loadtxt(similaritypath,delimiter=',')
     frequency_list = np.array(pd.read_csv(frequencypath,header=None,encoding="unicode-escape")[1])
-    phon_matrix = np.loadtxt(phonpath,delimiter=',')
+    # if os.path.exists(phonpath):
+#         phon_matrix = np.loadtxt(phonpath,delimiter=',')
+#     else:
+    phon_matrix = None
     labels = pd.read_csv(frequencypath,header=None)[0].values.tolist()
     return norms, similarity_matrix, phon_matrix, frequency_list,labels
 
@@ -246,7 +249,7 @@ def run_lexical(data):
         lexical_df['Fluency_Item'] = fl_list
         lexical_df['Semantic_Similarity'] = history_vars[0]
         lexical_df['Frequency_Value'] = history_vars[2]
-        lexical_df['Phonological_Similarity'] = history_vars[4]
+        # lexical_df['Phonological_Similarity'] = history_vars[4]
         lexical_results.append(lexical_df)
     lexical_results = pd.concat(lexical_results,ignore_index=True)
     return lexical_results
@@ -274,7 +277,7 @@ def run_switches(data,switch_type):
 
 
 def indiv_desc_stats(lexical_results, switch_results = None):
-    metrics = lexical_results[['Subject', 'Semantic_Similarity', 'Frequency_Value', 'Phonological_Similarity']]
+    metrics = lexical_results[['Subject', 'Semantic_Similarity', 'Frequency_Value']] #, 'Phonological_Similarity']]
     metrics.replace(.0001, np.nan, inplace=True)
     grouped = metrics.groupby('Subject').agg(['mean', 'std'])
     grouped.columns = ['{}_{}'.format(col[0], col[1]) for col in grouped.columns]
@@ -370,6 +373,7 @@ parser.add_argument('--data', type=str,  help='specifies path to fluency lists')
 parser.add_argument('--pipeline',type=str, help='specifies which part of pipeline (lexical, switches, models) to execute')
 parser.add_argument('--model', type=str, help='specifies foraging model to use')
 parser.add_argument('--switch', type=str, help='specifies switch model to use')
+parser.add_argument('--category', type=str, help='specifies the category to use the right vocab and frequency files')
 
 args = parser.parse_args()
 
@@ -385,9 +389,17 @@ if args.pipeline == None:
 args.data = os.path.join(os.getcwd(),args.data)
 oname = 'output/' + args.data.split('/')[-1].split('.')[0] + '_forager_results.zip'
 
+if not args.category == None:
+
+    similaritypath =  os.path.join(fp,'data/lexical_data', args.category, 'USE_semantic_matrix.csv')
+    frequencypath =  os.path.join(fp,'data/lexical_data', args.category, 'USE_frequencies.csv')
+    phonpath = os.path.join(fp,'data/lexical_data', args.category, 'USE_phon_matrix.csv')
+    vocabpath = os.path.join(fp,'data/lexical_data', args.category, 'vocab.csv')
+    print(fp)
+    print(os.getcwd())
 
 if args.pipeline == 'evaluate_data':
-    data, replacement_df, processed_df = retrieve_data(args.data,fp)
+    data, replacement_df, processed_df = retrieve_data(args.data,fp, args.category)
     with zipfile.ZipFile(oname, 'w', zipfile.ZIP_DEFLATED) as zipf:
         # Save the first DataFrame as a CSV file inside the zip
         with zipf.open('evaluation_results.csv', 'w') as csvf:
@@ -409,7 +421,7 @@ if args.pipeline == 'evaluate_data':
 elif args.pipeline == 'lexical':
     dname = 'lexical_results.csv'
     # Retrieve the Data for Getting Lexical Info
-    data, replacement_df, processed_df = retrieve_data(args.data,fp)
+    data, replacement_df, processed_df = retrieve_data(args.data,fp, args.category)
     # Run subroutine for getting strictly the similarity & frequency values 
     lexical_results = run_lexical(data)
     ind_stats = indiv_desc_stats(lexical_results)
