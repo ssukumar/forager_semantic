@@ -1,0 +1,313 @@
+SID,entry,evaluation,replacement
+65d6a09286a0c99e632a46dd,water,FOUND,water
+65d6a09286a0c99e632a46dd,soda,FOUND,soda
+65d6a09286a0c99e632a46dd,Gatorade,REPLACE,gatorade
+65d6a09286a0c99e632a46dd,tea,FOUND,tea
+65d6a09286a0c99e632a46dd,windshield wiper fluid,FOUND,windshield wiper fluid
+65d6a09286a0c99e632a46dd,saliva,FOUND,saliva
+65d6a09286a0c99e632a46dd,car oil,FOUND,car oil
+65d6a09286a0c99e632a46dd,blood,FOUND,blood
+65d6a09286a0c99e632a46dd,Sweat,REPLACE,sweat
+65d6a09286a0c99e632a46dd,tears,FOUND,tears
+65d6a09286a0c99e632a46dd,alcohol,FOUND,alcohol
+65d6a09286a0c99e632a46dd,Mercury,REPLACE,mercury
+65d6a09286a0c99e632a46dd,hot glue,FOUND,hot glue
+65d6a09286a0c99e632a46dd,water,FOUND,water
+65d6a09286a0c99e632a46dd,beer,FOUND,beer
+65c25cf77dca9d7ca7d9ebdb,water,FOUND,water
+65c25cf77dca9d7ca7d9ebdb,Mercury,REPLACE,mercury
+65c25cf77dca9d7ca7d9ebdb,bleach,FOUND,bleach
+65c25cf77dca9d7ca7d9ebdb,Gatorade,REPLACE,gatorade
+65c25cf77dca9d7ca7d9ebdb,Powerade,REPLACE,powerade
+65c25cf77dca9d7ca7d9ebdb,tea,FOUND,tea
+65c25cf77dca9d7ca7d9ebdb,coffee,FOUND,coffee
+65c25cf77dca9d7ca7d9ebdb,milk,FOUND,milk
+65c25cf77dca9d7ca7d9ebdb,juice,FOUND,juice
+65c25cf77dca9d7ca7d9ebdb,window cleaner,FOUND,window cleaner
+65c25cf77dca9d7ca7d9ebdb,oil,FOUND,oil
+65c25cf77dca9d7ca7d9ebdb,avocado oil,FOUND,avocado oil
+65c25cf77dca9d7ca7d9ebdb,olive oil,FOUND,olive oil
+65c25cf77dca9d7ca7d9ebdb,canola oil,FOUND,canola oil
+65c25cf77dca9d7ca7d9ebdb,liquid nitrogen,FOUND,liquid nitrogen
+65c25cf77dca9d7ca7d9ebdb,soup,FOUND,soup
+65c25cf77dca9d7ca7d9ebdb,laundry detergent,FOUND,laundry detergent
+65c25cf77dca9d7ca7d9ebdb,softener,FOUND,softener
+65c25cf77dca9d7ca7d9ebdb,soda,FOUND,soda
+65c25cf77dca9d7ca7d9ebdb,beer,FOUND,beer
+65c25cf77dca9d7ca7d9ebdb,wine,FOUND,wine
+65c25cf77dca9d7ca7d9ebdb,vodka,FOUND,vodka
+65c25cf77dca9d7ca7d9ebdb,whiskey,FOUND,whiskey
+65c25cf77dca9d7ca7d9ebdb,bourbon,FOUND,bourbon
+65cc19b4b3d48a22dfc6756d,water,FOUND,water
+65cc19b4b3d48a22dfc6756d,coffee,FOUND,coffee
+65cc19b4b3d48a22dfc6756d,juice,FOUND,juice
+65cc19b4b3d48a22dfc6756d,tea,FOUND,tea
+65cc19b4b3d48a22dfc6756d,soap,FOUND,soap
+65cc19b4b3d48a22dfc6756d,hot sauce,FOUND,hot sauce
+65cc19b4b3d48a22dfc6756d,soy sauce,FOUND,soy sauce
+65cc19b4b3d48a22dfc6756d,vinegar,FOUND,vinegar
+65cc19b4b3d48a22dfc6756d,oil,FOUND,oil
+65cc19b4b3d48a22dfc6756d,ranch,FOUND,ranch
+65cc19b4b3d48a22dfc6756d,hydrochloric acid,FOUND,hydrochloric acid
+65cc19b4b3d48a22dfc6756d,mouth wash,FOUND,mouth wash
+65cc19b4b3d48a22dfc6756d,skincare toner,FOUND,skincare toner
+65cc19b4b3d48a22dfc6756d,liquid tylenol,FOUND,liquid tylenol
+65cc19b4b3d48a22dfc6756d,vodka,FOUND,vodka
+65cc19b4b3d48a22dfc6756d,whiskey,FOUND,whiskey
+65cc19b4b3d48a22dfc6756d,gin,FOUND,gin
+65cc19b4b3d48a22dfc6756d,wine,FOUND,wine
+65cb63e160bb47fbf9349269,water,FOUND,water
+65cb63e160bb47fbf9349269,soup,FOUND,soup
+65cb63e160bb47fbf9349269,sodas,FOUND,sodas
+65cb63e160bb47fbf9349269,juice,FOUND,juice
+65cb63e160bb47fbf9349269,wine,FOUND,wine
+65cb63e160bb47fbf9349269,beer,FOUND,beer
+65cb63e160bb47fbf9349269,liquor,FOUND,liquor
+65cb63e160bb47fbf9349269,hydrogen peroxide,FOUND,hydrogen peroxide
+65cb63e160bb47fbf9349269,milk,FOUND,milk
+65cb63e160bb47fbf9349269,soup stock,FOUND,soup stock
+65cb63e160bb47fbf9349269,urine,FOUND,urine
+65cb63e160bb47fbf9349269,blood,FOUND,blood
+65cb63e160bb47fbf9349269,tears,FOUND,tears
+65cb63e160bb47fbf9349269,sweat,FOUND,sweat
+65cb63e160bb47fbf9349269,Salsa's,REPLACE,salsa's
+65cb63e160bb47fbf9349269,honey,FOUND,honey
+60a48adfe091e410f4eaba34,water,FOUND,water
+60a48adfe091e410f4eaba34,Cola,REPLACE,cola
+60a48adfe091e410f4eaba34,alcohol,FOUND,alcohol
+60a48adfe091e410f4eaba34,detergent,FOUND,detergent
+60a48adfe091e410f4eaba34,Cheese,REPLACE,cheese
+60a48adfe091e410f4eaba34,milk,FOUND,milk
+60a48adfe091e410f4eaba34,orange juice,FOUND,orange juice
+60a48adfe091e410f4eaba34,apple juice,FOUND,apple juice
+60a48adfe091e410f4eaba34,vodka,FOUND,vodka
+60a48adfe091e410f4eaba34,rum,FOUND,rum
+60a48adfe091e410f4eaba34,whisky,FOUND,whisky
+60a48adfe091e410f4eaba34,bleach,FOUND,bleach
+60a48adfe091e410f4eaba34,tea,FOUND,tea
+60a48adfe091e410f4eaba34,coffee,FOUND,coffee
+60a48adfe091e410f4eaba34,seltzer,FOUND,seltzer
+60a48adfe091e410f4eaba34,mixed drink,FOUND,mixed drink
+60d731567049e5132e3cc4d4,water,FOUND,water
+60d731567049e5132e3cc4d4,gasoline,FOUND,gasoline
+60d731567049e5132e3cc4d4,beer,FOUND,beer
+60d731567049e5132e3cc4d4,wine,FOUND,wine
+60d731567049e5132e3cc4d4,Tequila,REPLACE,tequila
+60d731567049e5132e3cc4d4,rum,FOUND,rum
+60d731567049e5132e3cc4d4,vodka,FOUND,vodka
+60d731567049e5132e3cc4d4,fruit punch,FOUND,fruit punch
+60d731567049e5132e3cc4d4,milk,FOUND,milk
+60d731567049e5132e3cc4d4,juice,FOUND,juice
+60d731567049e5132e3cc4d4,Mercury,REPLACE,mercury
+60d731567049e5132e3cc4d4,mud,FOUND,mud
+60d731567049e5132e3cc4d4,rubbing alcohol,FOUND,rubbing alcohol
+60d731567049e5132e3cc4d4,nail polish remover	44	44.7	0.97487855,FOUND,nail polish remover	44	44.7	0.97487855
+60d731567049e5132e3cc4d4,Windex,REPLACE,windex
+60d731567049e5132e3cc4d4,Clorox,REPLACE,clorox
+60d731567049e5132e3cc4d4,bleach,FOUND,bleach
+60d731567049e5132e3cc4d4,laundry detergent,FOUND,laundry detergent
+60d731567049e5132e3cc4d4,vanilla extract,FOUND,vanilla extract
+60d731567049e5132e3cc4d4,lemon juice,FOUND,lemon juice
+60d731567049e5132e3cc4d4,chlorine,FOUND,chlorine
+60d731567049e5132e3cc4d4,soda,FOUND,soda
+60d731567049e5132e3cc4d4,tea,FOUND,tea
+60d731567049e5132e3cc4d4,coffee,FOUND,coffee
+60d731567049e5132e3cc4d4,creamer,FOUND,creamer
+60d731567049e5132e3cc4d4,smoothies,FOUND,smoothies
+60d731567049e5132e3cc4d4,lava,FOUND,lava
+60d731567049e5132e3cc4d4,kombucha,FOUND,kombucha
+60d731567049e5132e3cc4d4,seltzer,FOUND,seltzer
+63e802622f8052bd67d6c5f0,water,FOUND,water
+63e802622f8052bd67d6c5f0,milk,FOUND,milk
+63e802622f8052bd67d6c5f0,juice,FOUND,juice
+63e802622f8052bd67d6c5f0,beer,FOUND,beer
+63e802622f8052bd67d6c5f0,liquor,FOUND,liquor
+63e802622f8052bd67d6c5f0,liquid itrogen,FOUND,liquid itrogen
+63e802622f8052bd67d6c5f0,tea,FOUND,tea
+63e802622f8052bd67d6c5f0,energy drinks,FOUND,energy drinks
+63e802622f8052bd67d6c5f0,soda,FOUND,soda
+65e1f75ab3efd22e847cfbf0,soda,FOUND,soda
+65e1f75ab3efd22e847cfbf0,tea,FOUND,tea
+65e1f75ab3efd22e847cfbf0,juice,FOUND,juice
+65e1f75ab3efd22e847cfbf0,water,FOUND,water
+65e1f75ab3efd22e847cfbf0,Coca-Cola,REPLACE,coca-cola
+65e1f75ab3efd22e847cfbf0,Pepsi,REPLACE,pepsi
+65e1f75ab3efd22e847cfbf0,Fanta,REPLACE,fanta
+65e1f75ab3efd22e847cfbf0,Sprite,REPLACE,sprite
+65e1f75ab3efd22e847cfbf0,Coke Pibb,REPLACE,coke pibb
+65e1f75ab3efd22e847cfbf0,orange juice,FOUND,orange juice
+65e1f75ab3efd22e847cfbf0,apple juice,FOUND,apple juice
+65e1f75ab3efd22e847cfbf0,cranberry juice,FOUND,cranberry juice
+65e1f75ab3efd22e847cfbf0,Welch's juice,REPLACE,welch's juice
+65e1f75ab3efd22e847cfbf0,alcohol,FOUND,alcohol
+65e1f75ab3efd22e847cfbf0,dr. pepper,FOUND,dr. pepper
+65e1f75ab3efd22e847cfbf0,pibb,FOUND,pibb
+65e1f75ab3efd22e847cfbf0,lemonade,FOUND,lemonade
+65e1f75ab3efd22e847cfbf0,whiskey,FOUND,whiskey
+65e1f75ab3efd22e847cfbf0,grape juice,FOUND,grape juice
+65e1f75ab3efd22e847cfbf0,Kool-Aid,REPLACE,kool-aid
+65d54b3b524fcafb543d1b23,water,FOUND,water
+65d54b3b524fcafb543d1b23,Mountain Dew,REPLACE,mountain dew
+65d54b3b524fcafb543d1b23,Sprite,REPLACE,sprite
+65d54b3b524fcafb543d1b23,Pepsi,REPLACE,pepsi
+65d54b3b524fcafb543d1b23,Coke,REPLACE,coke
+65d54b3b524fcafb543d1b23,juice,FOUND,juice
+65d54b3b524fcafb543d1b23,apple juice,FOUND,apple juice
+65d54b3b524fcafb543d1b23,grape juice,FOUND,grape juice
+65d54b3b524fcafb543d1b23,cantaloupe juice,FOUND,cantaloupe juice
+65d54b3b524fcafb543d1b23,the ocean,FOUND,the ocean
+65d54b3b524fcafb543d1b23,Gatorade,REPLACE,gatorade
+65d54b3b524fcafb543d1b23,spring water,FOUND,spring water
+65d54b3b524fcafb543d1b23,purified water,FOUND,purified water
+65d54b3b524fcafb543d1b23,Fanta,REPLACE,fanta
+65d54b3b524fcafb543d1b23,there's,FOUND,there's
+65d54b3b524fcafb543d1b23,kombucha,FOUND,kombucha
+65e358d9c5e3ee026268b2a7,water,FOUND,water
+65e358d9c5e3ee026268b2a7,sparkling water,FOUND,sparkling water
+65e358d9c5e3ee026268b2a7,alcohol,FOUND,alcohol
+65e358d9c5e3ee026268b2a7,beers,FOUND,beers
+65e358d9c5e3ee026268b2a7,Seltzer's,REPLACE,seltzer's
+65e358d9c5e3ee026268b2a7,hard liquor,FOUND,hard liquor
+65e358d9c5e3ee026268b2a7,vodka,FOUND,vodka
+65e358d9c5e3ee026268b2a7,gin,FOUND,gin
+65e358d9c5e3ee026268b2a7,rum,FOUND,rum
+65e358d9c5e3ee026268b2a7,tequila,FOUND,tequila
+65e358d9c5e3ee026268b2a7,juices,FOUND,juices
+65e358d9c5e3ee026268b2a7,orange juice,FOUND,orange juice
+65e358d9c5e3ee026268b2a7,apple juice,FOUND,apple juice
+65e358d9c5e3ee026268b2a7,cranberry juice,FOUND,cranberry juice
+65e358d9c5e3ee026268b2a7,grape juice,FOUND,grape juice
+65e358d9c5e3ee026268b2a7,sodas,FOUND,sodas
+65e358d9c5e3ee026268b2a7,PepsiCo products	40.6	41.1	0.929476798,REPLACE,pepsico products	40.6	41.1	0.929476798
+65e358d9c5e3ee026268b2a7,mountain dew,FOUND,mountain dew
+65e358d9c5e3ee026268b2a7,car fluids,FOUND,car fluids
+65e358d9c5e3ee026268b2a7,windshield,FOUND,windshield
+65e358d9c5e3ee026268b2a7,wiper fluid,FOUND,wiper fluid
+65e358d9c5e3ee026268b2a7,oil,FOUND,oil
+65e358d9c5e3ee026268b2a7,transmission,FOUND,transmission
+65e358d9c5e3ee026268b2a7,brake fluid,FOUND,brake fluid
+65e358d9c5e3ee026268b2a7,cleaners,FOUND,cleaners
+65e358d9c5e3ee026268b2a7,bleach,FOUND,bleach
+65e358d9c5e3ee026268b2a7,ocean,FOUND,ocean
+65e358d9c5e3ee026268b2a7,ocean water,FOUND,ocean water
+65e358d9c5e3ee026268b2a7,rain,FOUND,rain
+65e358d9c5e3ee026268b2a7,liquid metals,FOUND,liquid metals
+65e358d9c5e3ee026268b2a7,olive oil,FOUND,olive oil
+65e358d9c5e3ee026268b2a7,vegetable oil,FOUND,vegetable oil
+65e358d9c5e3ee026268b2a7,canola oil,FOUND,canola oil
+65e358d9c5e3ee026268b2a7,Blood,REPLACE,blood
+65e358d9c5e3ee026268b2a7,milk,FOUND,milk
+65e358d9c5e3ee026268b2a7,almond milk,FOUND,almond milk
+65e358d9c5e3ee026268b2a7,oat milk,FOUND,oat milk
+65e862f844f1b7a803bb3c5a,urine,FOUND,urine
+65e862f844f1b7a803bb3c5a,milk,FOUND,milk
+65e862f844f1b7a803bb3c5a,blood,FOUND,blood
+65e862f844f1b7a803bb3c5a,cider,FOUND,cider
+65e862f844f1b7a803bb3c5a,wine,FOUND,wine
+65e862f844f1b7a803bb3c5a,beer,FOUND,beer
+65e862f844f1b7a803bb3c5a,Army,REPLACE,army
+65e862f844f1b7a803bb3c5a,water,FOUND,water
+65e862f844f1b7a803bb3c5a,coffee,FOUND,coffee
+65e862f844f1b7a803bb3c5a,vinegar,FOUND,vinegar
+65e862f844f1b7a803bb3c5a,alcohol,FOUND,alcohol
+65e862f844f1b7a803bb3c5a,petrol,FOUND,petrol
+65e862f844f1b7a803bb3c5a,oil,FOUND,oil
+65e862f844f1b7a803bb3c5a,diesel,FOUND,diesel
+65e862f844f1b7a803bb3c5a,gasoline,FOUND,gasoline
+65e862f844f1b7a803bb3c5a,drip,FOUND,drip
+65e862f844f1b7a803bb3c5a,cooking oil,FOUND,cooking oil
+65e862f844f1b7a803bb3c5a,hand sanitizer,FOUND,hand sanitizer
+65e862f844f1b7a803bb3c5a,fruit juice,FOUND,fruit juice
+65e862f844f1b7a803bb3c5a,coconut water,FOUND,coconut water
+5d7ff4aa50fda7001a863736,water,FOUND,water
+5d7ff4aa50fda7001a863736,orange juice,FOUND,orange juice
+5d7ff4aa50fda7001a863736,milk,FOUND,milk
+5d7ff4aa50fda7001a863736,blood,FOUND,blood
+5d7ff4aa50fda7001a863736,wine,FOUND,wine
+5d7ff4aa50fda7001a863736,alcohol,FOUND,alcohol
+5d7ff4aa50fda7001a863736,Pee,REPLACE,pee
+5d7ff4aa50fda7001a863736,coffee,FOUND,coffee
+5d7ff4aa50fda7001a863736,soda,FOUND,soda
+5d7ff4aa50fda7001a863736,tea,FOUND,tea
+5d7ff4aa50fda7001a863736,hot chocolate,FOUND,hot chocolate
+5d7ff4aa50fda7001a863736,smoothie,FOUND,smoothie
+5d7ff4aa50fda7001a863736,lemonade,FOUND,lemonade
+5d7ff4aa50fda7001a863736,oil,FOUND,oil
+5d7ff4aa50fda7001a863736,gas,FOUND,gas
+5d7ff4aa50fda7001a863736,fruit punch,FOUND,fruit punch
+63ea4ab1ce4168cbe9f63775,water,FOUND,water
+63ea4ab1ce4168cbe9f63775,Mercury,REPLACE,mercury
+63ea4ab1ce4168cbe9f63775,liquid nitrogen,FOUND,liquid nitrogen
+63ea4ab1ce4168cbe9f63775,Coca-Cola,REPLACE,coca-cola
+63ea4ab1ce4168cbe9f63775,Pepsi,REPLACE,pepsi
+63ea4ab1ce4168cbe9f63775,Diet Coke,REPLACE,diet coke
+63ea4ab1ce4168cbe9f63775,Diet Pepsi,REPLACE,diet pepsi
+63ea4ab1ce4168cbe9f63775,beer,FOUND,beer
+63ea4ab1ce4168cbe9f63775,wine,FOUND,wine
+63ea4ab1ce4168cbe9f63775,light beer,FOUND,light beer
+63ea4ab1ce4168cbe9f63775,tequila,FOUND,tequila
+63ea4ab1ce4168cbe9f63775,vodka,FOUND,vodka
+63ea4ab1ce4168cbe9f63775,scotch,FOUND,scotch
+63ea4ab1ce4168cbe9f63775,coffee,FOUND,coffee
+63ea4ab1ce4168cbe9f63775,smoothie,FOUND,smoothie
+63ea4ab1ce4168cbe9f63775,decaf coffee,FOUND,decaf coffee
+63ea4ab1ce4168cbe9f63775,milkshake,FOUND,milkshake
+63ea4ab1ce4168cbe9f63775,motor,FOUND,motor
+63ea4ab1ce4168cbe9f63775,oil,FOUND,oil
+63ea4ab1ce4168cbe9f63775,gasoline,FOUND,gasoline
+63ea4ab1ce4168cbe9f63775,paint,FOUND,paint
+63ea4ab1ce4168cbe9f63775,nail polish,FOUND,nail polish
+63ea4ab1ce4168cbe9f63775,nail polish remover,FOUND,nail polish remover
+63ea4ab1ce4168cbe9f63775,rubbing alcohol,FOUND,rubbing alcohol
+63ea4ab1ce4168cbe9f63775,calamine lotion,FOUND,calamine lotion
+63ea4ab1ce4168cbe9f63775,lotion,FOUND,lotion
+63ea4ab1ce4168cbe9f63775,Windex,REPLACE,windex
+63ea4ab1ce4168cbe9f63775,Clorox,REPLACE,clorox
+63ea4ab1ce4168cbe9f63775,bleach,FOUND,bleach
+63ea4ab1ce4168cbe9f63775,laundry detergent,FOUND,laundry detergent
+63ea4ab1ce4168cbe9f63775,hot metal,FOUND,hot metal
+63ea4ab1ce4168cbe9f63775,molten lava,FOUND,molten lava
+63ea4ab1ce4168cbe9f63775,Kool-Aid,REPLACE,kool-aid
+63ea4ab1ce4168cbe9f63775,apple juice,FOUND,apple juice
+63ea4ab1ce4168cbe9f63775,grape juice,FOUND,grape juice
+65b15afd94153c1f50c92493,water,FOUND,water
+65b15afd94153c1f50c92493,oil,FOUND,oil
+65b15afd94153c1f50c92493,blood,FOUND,blood
+65b15afd94153c1f50c92493,milk,FOUND,milk
+65b15afd94153c1f50c92493,green,FOUND,green
+65b15afd94153c1f50c92493,glue,FOUND,glue
+65b15afd94153c1f50c92493,coffee,FOUND,coffee
+65b15afd94153c1f50c92493,tea,FOUND,tea
+65b15afd94153c1f50c92493,juice,FOUND,juice
+65b15afd94153c1f50c92493,Gatorade,REPLACE,gatorade
+65b15afd94153c1f50c92493,acetone,FOUND,acetone
+65b15afd94153c1f50c92493,soup,FOUND,soup
+65b15afd94153c1f50c92493,yogurt,FOUND,yogurt
+65b15afd94153c1f50c92493,dressing,FOUND,dressing
+65b15afd94153c1f50c92493,gas,FOUND,gas
+65b15afd94153c1f50c92493,honey,FOUND,honey
+65b15afd94153c1f50c92493,helium,FOUND,helium
+65b15afd94153c1f50c92493,soda,FOUND,soda
+65b15afd94153c1f50c92493,alcohol,FOUND,alcohol
+65b15afd94153c1f50c92493,oil,FOUND,oil
+65b15afd94153c1f50c92493,ketchup,FOUND,ketchup
+65b15afd94153c1f50c92493,shampoo,FOUND,shampoo
+65b15afd94153c1f50c92493,vinegar,FOUND,vinegar
+65b15afd94153c1f50c92493,lava,FOUND,lava
+65b15afd94153c1f50c92493,paint,FOUND,paint
+65b15afd94153c1f50c92493,glue,FOUND,glue
+5f5aa60bef062519ff711fe6,orange juice,FOUND,orange juice
+5f5aa60bef062519ff711fe6,apple juice,FOUND,apple juice
+5f5aa60bef062519ff711fe6,water,FOUND,water
+5f5aa60bef062519ff711fe6,dr. pepper,FOUND,dr. pepper
+5f5aa60bef062519ff711fe6,Fanta,REPLACE,fanta
+5f5aa60bef062519ff711fe6,Coke,REPLACE,coke
+5f5aa60bef062519ff711fe6,Pepsi,REPLACE,pepsi
+5f5aa60bef062519ff711fe6,coconut water,FOUND,coconut water
+5f5aa60bef062519ff711fe6,milk,FOUND,milk
+5f5aa60bef062519ff711fe6,almond milk,FOUND,almond milk
+5f5aa60bef062519ff711fe6,lemonade,FOUND,lemonade
+5f5aa60bef062519ff711fe6,Sprite,REPLACE,sprite
+5f5aa60bef062519ff711fe6,root beer,FOUND,root beer
+5f5aa60bef062519ff711fe6,Saline,REPLACE,saline
+5f5aa60bef062519ff711fe6,Hi-C,EXCLUDE,EXCLUDE

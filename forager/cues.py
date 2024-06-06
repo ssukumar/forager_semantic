@@ -73,7 +73,7 @@ def create_history_variables(fluency_list, labels, sim_matrix, freq_matrix, phon
                 phon_list.append(0.0001)
                 phon_history.append(phon_matrix[currentwordindex,:])
 
-    return sim_list, sim_history, freq_list, freq_history,phon_list, phon_history
+    return sim_list, sim_history, freq_list, freq_history, phon_list, phon_history
 
 def get_labels_and_frequencies(path_to_frequencies):
     '''

@@ -1,0 +1,302 @@
+SID,entry,evaluation,replacement
+65d6a09286a0c99e632a46dd,cancer,FOUND,cancer
+65d6a09286a0c99e632a46dd,IBS,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,autism,FOUND,autism
+65d6a09286a0c99e632a46dd,blindness,FOUND,blindness
+65d6a09286a0c99e632a46dd,deaf,FOUND,deaf
+65d6a09286a0c99e632a46dd,anorexia,FOUND,anorexia
+65d6a09286a0c99e632a46dd,ADHD,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,ADD,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,alcoholism,FOUND,alcoholism
+65d6a09286a0c99e632a46dd,diabetes,FOUND,diabetes
+65d6a09286a0c99e632a46dd,arthritis,FOUND,arthritis
+65d6a09286a0c99e632a46dd,infertility,FOUND,infertility
+65d6a09286a0c99e632a46dd,epilepsy,FOUND,epilepsy
+65c25cf77dca9d7ca7d9ebdb,Asthma,REPLACE,asthma
+65c25cf77dca9d7ca7d9ebdb,Arthritis,REPLACE,arthritis
+65c25cf77dca9d7ca7d9ebdb,cancer,FOUND,cancer
+65c25cf77dca9d7ca7d9ebdb,leukemia,FOUND,leukemia
+65c25cf77dca9d7ca7d9ebdb,osteoporosis,FOUND,osteoporosis
+65c25cf77dca9d7ca7d9ebdb,tachycardia,FOUND,tachycardia
+65c25cf77dca9d7ca7d9ebdb,high blood pressure,FOUND,high blood pressure
+65c25cf77dca9d7ca7d9ebdb,diabetes,FOUND,diabetes
+65c25cf77dca9d7ca7d9ebdb,hernia,FOUND,hernia
+65c25cf77dca9d7ca7d9ebdb,infertile,FOUND,infertile
+65c25cf77dca9d7ca7d9ebdb,covid,FOUND,covid
+65c25cf77dca9d7ca7d9ebdb,flu,FOUND,flu
+65c25cf77dca9d7ca7d9ebdb,meningitis,FOUND,meningitis
+65c25cf77dca9d7ca7d9ebdb,gonnorhea,FOUND,gonnorhea
+65c25cf77dca9d7ca7d9ebdb,Chlamydia,REPLACE,chlamydia
+65c25cf77dca9d7ca7d9ebdb,AIDS,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,HPV,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,Hepatitis,REPLACE,hepatitis
+65c25cf77dca9d7ca7d9ebdb,Heart Attack,REPLACE,heart attack
+65c25cf77dca9d7ca7d9ebdb,Blood Clot,REPLACE,blood clot
+65c25cf77dca9d7ca7d9ebdb,whooping cough,FOUND,whooping cough
+65c25cf77dca9d7ca7d9ebdb,pneumonia,FOUND,pneumonia
+65c25cf77dca9d7ca7d9ebdb,anxiety,FOUND,anxiety
+65c25cf77dca9d7ca7d9ebdb,depression,FOUND,depression
+65c25cf77dca9d7ca7d9ebdb,schizophrenia,FOUND,schizophrenia
+65c25cf77dca9d7ca7d9ebdb,bipolar disorder,FOUND,bipolar disorder
+65c25cf77dca9d7ca7d9ebdb,amnesia,FOUND,amnesia
+65c25cf77dca9d7ca7d9ebdb,Alzheimers,REPLACE,alzheimers
+65c25cf77dca9d7ca7d9ebdb,rabies,FOUND,rabies
+65c25cf77dca9d7ca7d9ebdb,fatty liver,FOUND,fatty liver
+65b15afd94153c1f50c92493,allergies,FOUND,allergies
+65b15afd94153c1f50c92493,cancer,FOUND,cancer
+65b15afd94153c1f50c92493,diabetes,FOUND,diabetes
+65b15afd94153c1f50c92493,infertility,FOUND,infertility
+65b15afd94153c1f50c92493,heart attack,FOUND,heart attack
+65b15afd94153c1f50c92493,asthma,FOUND,asthma
+65b15afd94153c1f50c92493,eczema,FOUND,eczema
+65b15afd94153c1f50c92493,migraine,FOUND,migraine
+65b15afd94153c1f50c92493,scoliosis,FOUND,scoliosis
+65b15afd94153c1f50c92493,hearing loss,FOUND,hearing loss
+65b15afd94153c1f50c92493,seizure,FOUND,seizure
+65b15afd94153c1f50c92493,anemia,FOUND,anemia
+65b15afd94153c1f50c92493,dehydration,FOUND,dehydration
+65b15afd94153c1f50c92493,sunburn,FOUND,sunburn
+65b15afd94153c1f50c92493,swelling,FOUND,swelling
+65b15afd94153c1f50c92493,bleeding,FOUND,bleeding
+65b15afd94153c1f50c92493,toothache,FOUND,toothache
+65b15afd94153c1f50c92493,panic attack,FOUND,panic attack
+65b15afd94153c1f50c92493,constipation,FOUND,constipation
+65b15afd94153c1f50c92493,stroke,FOUND,stroke
+65b15afd94153c1f50c92493,disease,FOUND,disease
+65b15afd94153c1f50c92493,Down syndrome,REPLACE,down syndrome
+65b15afd94153c1f50c92493,hypertension,FOUND,hypertension
+65b15afd94153c1f50c92493,acne,FOUND,acne
+65cb63e160bb47fbf9349269,pregnancy,FOUND,pregnancy
+65cb63e160bb47fbf9349269,diabetes,FOUND,diabetes
+65cb63e160bb47fbf9349269,high blood pressure,FOUND,high blood pressure
+65cb63e160bb47fbf9349269,high cholesterol,FOUND,high cholesterol
+65cb63e160bb47fbf9349269,low blood pressure,FOUND,low blood pressure
+65cb63e160bb47fbf9349269,low cholesterol,FOUND,low cholesterol
+65cb63e160bb47fbf9349269,anemia,FOUND,anemia
+65cb63e160bb47fbf9349269,bulimia,FOUND,bulimia
+65cb63e160bb47fbf9349269,blind,FOUND,blind
+65cb63e160bb47fbf9349269,hard of hearing,FOUND,hard of hearing
+65cb63e160bb47fbf9349269,cancer,FOUND,cancer
+65cb63e160bb47fbf9349269,dementia,FOUND,dementia
+65cb63e160bb47fbf9349269,Alzheimer's,REPLACE,alzheimer's
+65cb63e160bb47fbf9349269,high thyroid conditions,FOUND,high thyroid conditions
+65cb63e160bb47fbf9349269,heart defects,FOUND,heart defects
+65cb63e160bb47fbf9349269,amputated limbs,FOUND,amputated limbs
+65cb63e160bb47fbf9349269,migraines,FOUND,migraines
+65cb63e160bb47fbf9349269,vertigo,FOUND,vertigo
+60d731567049e5132e3cc4d4,alopecia,FOUND,alopecia
+60d731567049e5132e3cc4d4,Type 1 Diabetes,REPLACE,type 1 diabetes
+60d731567049e5132e3cc4d4,Type 2 Diabetes,REPLACE,type 2 diabetes
+60d731567049e5132e3cc4d4,cancer,FOUND,cancer
+60d731567049e5132e3cc4d4,heart attack,FOUND,heart attack
+60d731567049e5132e3cc4d4,heart failure,FOUND,heart failure
+60d731567049e5132e3cc4d4,anemia,FOUND,anemia
+60d731567049e5132e3cc4d4,high blood pressure,FOUND,high blood pressure
+60d731567049e5132e3cc4d4,low blood pressure,FOUND,low blood pressure
+60d731567049e5132e3cc4d4,high,FOUND,high
+60d731567049e5132e3cc4d4,cholesterol,FOUND,cholesterol
+60d731567049e5132e3cc4d4,cataracts,FOUND,cataracts
+60d731567049e5132e3cc4d4,asthma,FOUND,asthma
+60d731567049e5132e3cc4d4,allergies,FOUND,allergies
+60d731567049e5132e3cc4d4,psoriasis,FOUND,psoriasis
+60d731567049e5132e3cc4d4,eczema,FOUND,eczema
+60d731567049e5132e3cc4d4,migraines,FOUND,migraines
+60d731567049e5132e3cc4d4,epilepsy,FOUND,epilepsy
+60d731567049e5132e3cc4d4,heartburn,FOUND,heartburn
+60d731567049e5132e3cc4d4,indigestion,FOUND,indigestion
+65e862f844f1b7a803bb3c5a,asthma,FOUND,asthma
+65e862f844f1b7a803bb3c5a,chicken pox,FOUND,chicken pox
+65e862f844f1b7a803bb3c5a,hiv-aids,FOUND,hiv-aids
+65e862f844f1b7a803bb3c5a,influenza,FOUND,influenza
+65e862f844f1b7a803bb3c5a,measles,FOUND,measles
+65e862f844f1b7a803bb3c5a,cold,FOUND,cold
+65e862f844f1b7a803bb3c5a,meningitis,FOUND,meningitis
+65e862f844f1b7a803bb3c5a,monkey pox,FOUND,monkey pox
+65e862f844f1b7a803bb3c5a,tuberculosis,FOUND,tuberculosis
+65e862f844f1b7a803bb3c5a,hepatitis,FOUND,hepatitis
+65e862f844f1b7a803bb3c5a,high blood pressure,FOUND,high blood pressure
+65e862f844f1b7a803bb3c5a,diabetes,FOUND,diabetes
+65e862f844f1b7a803bb3c5a,ovarian cancer,FOUND,ovarian cancer
+65e862f844f1b7a803bb3c5a,leukemia,FOUND,leukemia
+65e862f844f1b7a803bb3c5a,whooping cough,FOUND,whooping cough
+65e862f844f1b7a803bb3c5a,malaria,FOUND,malaria
+65e862f844f1b7a803bb3c5a,rabies,FOUND,rabies
+65e862f844f1b7a803bb3c5a,Q fever,REPLACE,q fever
+65e862f844f1b7a803bb3c5a,heart disease,FOUND,heart disease
+65e862f844f1b7a803bb3c5a,arthritis,FOUND,arthritis
+65e862f844f1b7a803bb3c5a,stroke,FOUND,stroke
+65e862f844f1b7a803bb3c5a,kidney failure,FOUND,kidney failure
+65e862f844f1b7a803bb3c5a,epilepsy,FOUND,epilepsy
+65e862f844f1b7a803bb3c5a,dementia,FOUND,dementia
+65e862f844f1b7a803bb3c5a,Parkinson's disease,REPLACE,parkinson's disease
+65e862f844f1b7a803bb3c5a,bipolar disorder,FOUND,bipolar disorder
+65e862f844f1b7a803bb3c5a,food allergy,FOUND,food allergy
+65d54b3b524fcafb543d1b23,multiple sclerosis,FOUND,multiple sclerosis
+65d54b3b524fcafb543d1b23,heart attack,FOUND,heart attack
+65d54b3b524fcafb543d1b23,heart disease,FOUND,heart disease
+65d54b3b524fcafb543d1b23,pulmonary embolism,FOUND,pulmonary embolism
+65d54b3b524fcafb543d1b23,atrial fibrillation,FOUND,atrial fibrillation
+65d54b3b524fcafb543d1b23,Parkinson's disease,REPLACE,parkinson's disease
+65d54b3b524fcafb543d1b23,Amnesia,REPLACE,amnesia
+65d54b3b524fcafb543d1b23,glaucoma,FOUND,glaucoma
+65d54b3b524fcafb543d1b23,aspasia,FOUND,aspasia
+65d54b3b524fcafb543d1b23,anxiety,FOUND,anxiety
+65d54b3b524fcafb543d1b23,depression,FOUND,depression
+65d54b3b524fcafb543d1b23,schizophrenia,FOUND,schizophrenia
+65d54b3b524fcafb543d1b23,schizophrenic,FOUND,schizophrenic
+65d54b3b524fcafb543d1b23,bipolar disorder,FOUND,bipolar disorder
+5f5aa60bef062519ff711fe6,dementia,FOUND,dementia
+5f5aa60bef062519ff711fe6,cervical cancer,FOUND,cervical cancer
+5f5aa60bef062519ff711fe6,rectal cancer,FOUND,rectal cancer
+5f5aa60bef062519ff711fe6,cancer,FOUND,cancer
+5f5aa60bef062519ff711fe6,osteoporosis,FOUND,osteoporosis
+5f5aa60bef062519ff711fe6,rheumatoid,FOUND,rheumatoid
+5f5aa60bef062519ff711fe6,rheumatoid arthritis,FOUND,rheumatoid arthritis
+5f5aa60bef062519ff711fe6,plantars fasciitis,FOUND,plantars fasciitis
+5f5aa60bef062519ff711fe6,fasciitis,FOUND,fasciitis
+5f5aa60bef062519ff711fe6,ADHD,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,bipolar disorder,FOUND,bipolar disorder
+5f5aa60bef062519ff711fe6,Parkinson's,REPLACE,parkinson's
+5f5aa60bef062519ff711fe6,Hodgkin's lymphoma,REPLACE,hodgkin's lymphoma
+5f5aa60bef062519ff711fe6,autism,FOUND,autism
+5f5aa60bef062519ff711fe6,sickle cell anemia,FOUND,sickle cell anemia
+5f5aa60bef062519ff711fe6,diarrhea,FOUND,diarrhea
+5f5aa60bef062519ff711fe6,constipation,FOUND,constipation
+5f5aa60bef062519ff711fe6,hemorrhaging,FOUND,hemorrhaging
+5f5aa60bef062519ff711fe6,aneurysm,FOUND,aneurysm
+5f5aa60bef062519ff711fe6,blood clotting,FOUND,blood clotting
+63e802622f8052bd67d6c5f0,cancer,FOUND,cancer
+63e802622f8052bd67d6c5f0,allergies,FOUND,allergies
+63e802622f8052bd67d6c5f0,Down syndrome,REPLACE,down syndrome
+63e802622f8052bd67d6c5f0,autism,FOUND,autism
+63e802622f8052bd67d6c5f0,ADHD,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,dementia,FOUND,dementia
+63e802622f8052bd67d6c5f0,diabetes,FOUND,diabetes
+63e802622f8052bd67d6c5f0,depression,FOUND,depression
+63e802622f8052bd67d6c5f0,anxiety,FOUND,anxiety
+63e802622f8052bd67d6c5f0,asthma,FOUND,asthma
+60a48adfe091e410f4eaba34,asthma,FOUND,asthma
+60a48adfe091e410f4eaba34,lymphedema,FOUND,lymphedema
+60a48adfe091e410f4eaba34,diabetes,FOUND,diabetes
+60a48adfe091e410f4eaba34,Alzheimer's,REPLACE,alzheimer's
+60a48adfe091e410f4eaba34,Parkinson's,REPLACE,parkinson's
+60a48adfe091e410f4eaba34,depression,FOUND,depression
+60a48adfe091e410f4eaba34,anxiety,FOUND,anxiety
+60a48adfe091e410f4eaba34,OCD,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,anemia,FOUND,anemia
+60a48adfe091e410f4eaba34,high cholesterol,FOUND,high cholesterol
+60a48adfe091e410f4eaba34,high blood pressure,FOUND,high blood pressure
+60a48adfe091e410f4eaba34,obesity,FOUND,obesity
+60a48adfe091e410f4eaba34,epilepsy,FOUND,epilepsy
+60a48adfe091e410f4eaba34,kidney disease,FOUND,kidney disease
+60a48adfe091e410f4eaba34,liver disease,FOUND,liver disease
+60a48adfe091e410f4eaba34,cancer,FOUND,cancer
+60a48adfe091e410f4eaba34,AIDS,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,gonorrhea,FOUND,gonorrhea
+60a48adfe091e410f4eaba34,herpes,FOUND,herpes
+60a48adfe091e410f4eaba34,meningitis,FOUND,meningitis
+65e1f75ab3efd22e847cfbf0,diabetes,FOUND,diabetes
+65e1f75ab3efd22e847cfbf0,lung cancer,FOUND,lung cancer
+65e1f75ab3efd22e847cfbf0,breast cancer,FOUND,breast cancer
+65e1f75ab3efd22e847cfbf0,uterine cancer,FOUND,uterine cancer
+65e1f75ab3efd22e847cfbf0,lupus,FOUND,lupus
+65e1f75ab3efd22e847cfbf0,lymphedema,FOUND,lymphedema
+65e1f75ab3efd22e847cfbf0,bipolar,FOUND,bipolar
+65e1f75ab3efd22e847cfbf0,schizophrenia,FOUND,schizophrenia
+65e1f75ab3efd22e847cfbf0,acute gastritis,FOUND,acute gastritis
+65e1f75ab3efd22e847cfbf0,chronic gastritis,FOUND,chronic gastritis
+65e1f75ab3efd22e847cfbf0,diverticulosis,FOUND,diverticulosis
+65e1f75ab3efd22e847cfbf0,diverticulitis,FOUND,diverticulitis
+65e1f75ab3efd22e847cfbf0,mouth cancer,FOUND,mouth cancer
+65e1f75ab3efd22e847cfbf0,gout,FOUND,gout
+65e1f75ab3efd22e847cfbf0,edema,FOUND,edema
+65e1f75ab3efd22e847cfbf0,tumor,FOUND,tumor
+65e1f75ab3efd22e847cfbf0,leukemia,FOUND,leukemia
+65e1f75ab3efd22e847cfbf0,Lymphoma,REPLACE,lymphoma
+65e1f75ab3efd22e847cfbf0,skin cancer,FOUND,skin cancer
+65e1f75ab3efd22e847cfbf0,keratosis pilaris,FOUND,keratosis pilaris
+65e1f75ab3efd22e847cfbf0,pyloric stenosis,FOUND,pyloric stenosis
+65e1f75ab3efd22e847cfbf0,endometriosis,FOUND,endometriosis
+65e1f75ab3efd22e847cfbf0,adenomyosis,FOUND,adenomyosis
+65e1f75ab3efd22e847cfbf0,anxiety,FOUND,anxiety
+65e1f75ab3efd22e847cfbf0,asthma,FOUND,asthma
+65e1f75ab3efd22e847cfbf0,pregnancy,FOUND,pregnancy
+65e1f75ab3efd22e847cfbf0,pancreatic cancer,FOUND,pancreatic cancer
+65e1f75ab3efd22e847cfbf0,colon cancer,FOUND,colon cancer
+65cc19b4b3d48a22dfc6756d,covid,FOUND,covid
+65cc19b4b3d48a22dfc6756d,cancer,FOUND,cancer
+65cc19b4b3d48a22dfc6756d,pregnant,FOUND,pregnant
+65cc19b4b3d48a22dfc6756d,endometriosis,FOUND,endometriosis
+65cc19b4b3d48a22dfc6756d,common cold,FOUND,common cold
+65cc19b4b3d48a22dfc6756d,tetanus,FOUND,tetanus
+65cc19b4b3d48a22dfc6756d,Alzheimer's,REPLACE,alzheimer's
+65cc19b4b3d48a22dfc6756d,dementia,FOUND,dementia
+65cc19b4b3d48a22dfc6756d,rabies,FOUND,rabies
+65cc19b4b3d48a22dfc6756d,hypothermia,FOUND,hypothermia
+65cc19b4b3d48a22dfc6756d,pneumonia,FOUND,pneumonia
+65e358d9c5e3ee026268b2a7,pulmonary diseases,FOUND,pulmonary diseases
+65e358d9c5e3ee026268b2a7,pulmonary fibrosis,FOUND,pulmonary fibrosis
+65e358d9c5e3ee026268b2a7,cystic fibrosis,FOUND,cystic fibrosis
+65e358d9c5e3ee026268b2a7,chronic obstructive pulmonary disorder,FOUND,chronic obstructive pulmonary disorder
+65e358d9c5e3ee026268b2a7,interstitial lung disease,FOUND,interstitial lung disease
+65e358d9c5e3ee026268b2a7,pulmonary arterial hypertension,FOUND,pulmonary arterial hypertension
+65e358d9c5e3ee026268b2a7,regular pulmonary hypertension,FOUND,regular pulmonary hypertension
+65e358d9c5e3ee026268b2a7,asthma,FOUND,asthma
+65e358d9c5e3ee026268b2a7,covid,FOUND,covid
+65e358d9c5e3ee026268b2a7,persistent pneumonia,FOUND,persistent pneumonia
+65e358d9c5e3ee026268b2a7,obesity,FOUND,obesity
+65e358d9c5e3ee026268b2a7,diabetes,FOUND,diabetes
+65e358d9c5e3ee026268b2a7,heart disease,FOUND,heart disease
+65e358d9c5e3ee026268b2a7,heart attacks,FOUND,heart attacks
+65e358d9c5e3ee026268b2a7,Strokes,REPLACE,strokes
+65e358d9c5e3ee026268b2a7,anemia,FOUND,anemia
+65e358d9c5e3ee026268b2a7,sickle cell,FOUND,sickle cell
+65e358d9c5e3ee026268b2a7,cancer,FOUND,cancer
+65e358d9c5e3ee026268b2a7,types of cancers,FOUND,types of cancers
+65e358d9c5e3ee026268b2a7,anorexia,FOUND,anorexia
+65e358d9c5e3ee026268b2a7,multiple sclerosis,FOUND,multiple sclerosis
+65e358d9c5e3ee026268b2a7,osteoporosis,FOUND,osteoporosis
+65e358d9c5e3ee026268b2a7,arthritis,FOUND,arthritis
+5d7ff4aa50fda7001a863736,diabetes,FOUND,diabetes
+5d7ff4aa50fda7001a863736,autism,FOUND,autism
+5d7ff4aa50fda7001a863736,tuberculosis,FOUND,tuberculosis
+5d7ff4aa50fda7001a863736,bronchitis,FOUND,bronchitis
+5d7ff4aa50fda7001a863736,anemia,FOUND,anemia
+5d7ff4aa50fda7001a863736,depression,FOUND,depression
+5d7ff4aa50fda7001a863736,Lyme's disease,REPLACE,lyme's disease
+5d7ff4aa50fda7001a863736,Lupus,REPLACE,lupus
+5d7ff4aa50fda7001a863736,endometriosis,FOUND,endometriosis
+5d7ff4aa50fda7001a863736,OSIS,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,PCOS,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,Huntington's disease,REPLACE,huntington's disease
+5d7ff4aa50fda7001a863736,cancer,FOUND,cancer
+5d7ff4aa50fda7001a863736,breast cancer,FOUND,breast cancer
+5d7ff4aa50fda7001a863736,lung cancer,FOUND,lung cancer
+5d7ff4aa50fda7001a863736,Down syndrome,REPLACE,down syndrome
+5d7ff4aa50fda7001a863736,arthritis,FOUND,arthritis
+5d7ff4aa50fda7001a863736,cystic acne,FOUND,cystic acne
+5d7ff4aa50fda7001a863736,lymphoma,FOUND,lymphoma
+63ea4ab1ce4168cbe9f63775,hernia,FOUND,hernia
+63ea4ab1ce4168cbe9f63775,broken bone,FOUND,broken bone
+63ea4ab1ce4168cbe9f63775,infection,FOUND,infection
+63ea4ab1ce4168cbe9f63775,diabetes,FOUND,diabetes
+63ea4ab1ce4168cbe9f63775,depression,FOUND,depression
+63ea4ab1ce4168cbe9f63775,rash,FOUND,rash
+63ea4ab1ce4168cbe9f63775,common cold,FOUND,common cold
+63ea4ab1ce4168cbe9f63775,norovirus,FOUND,norovirus
+63ea4ab1ce4168cbe9f63775,coronavirus,FOUND,coronavirus
+63ea4ab1ce4168cbe9f63775,rhinovirus,FOUND,rhinovirus
+63ea4ab1ce4168cbe9f63775,AIDS,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,HIV,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,prediabetes,FOUND,prediabetes
+63ea4ab1ce4168cbe9f63775,high blood pressure,FOUND,high blood pressure
+63ea4ab1ce4168cbe9f63775,torn ligament,FOUND,torn ligament
+63ea4ab1ce4168cbe9f63775,strained tendon,FOUND,strained tendon
+63ea4ab1ce4168cbe9f63775,bruise,FOUND,bruise
+63ea4ab1ce4168cbe9f63775,collapsed lung,FOUND,collapsed lung
+63ea4ab1ce4168cbe9f63775,chronic pain,FOUND,chronic pain
+63ea4ab1ce4168cbe9f63775,stiff joints,FOUND,stiff joints
+63ea4ab1ce4168cbe9f63775,shingles,FOUND,shingles
+63ea4ab1ce4168cbe9f63775,chicken pox,FOUND,chicken pox
+63ea4ab1ce4168cbe9f63775,hepatitis,FOUND,hepatitis
+63ea4ab1ce4168cbe9f63775,gonorrhea,FOUND,gonorrhea

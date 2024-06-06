@@ -1,18 +1,29 @@
 vocab
+a vase
+accordion
 accordion
 acoustic guitar
+acoustic guitar
 algoza
+alto sax
 alto saxophone
+alto saxophone
+ammonia
 anasazi flute
 angklung
 anklung
+arm cymbals
+armored
 baglama
+bagpipes
 bagpipes
 balalaika
 baliset
 bamboo flute
 banjo
+banjo
 bansuri
+baritone
 baritone saxophone
 baroque bassoon
 baroque cello
@@ -22,23 +33,35 @@ baroque oboe
 baroque trumpet
 baroque violin
 baryton
+bass
+bass
 bass clarinet
+bass clarinet
+bass drum
+bass guitar
 bass guitar
 bassoon
+bassoon
 been
+bells
 bin
 bodhraan
 bodhrán
 bongo
+bongo
+bongos
 bouzouki
 bowed psaltery
 cajón
 celesta
 cello
+cello
+cellos
 chapman stick
 charango
 chenda
 cimbalom
+clarinet
 clarinet
 classical guitar
 claves
@@ -46,9 +69,14 @@ clavichord
 clavinet
 concertina
 conga
+conga
 contrabassoon
 cornamuse
 cornet
+cowbell
+cowbell
+cymbal
+cymbals
 cymbals
 daf
 damaru
@@ -63,10 +91,16 @@ dilruba
 djembe
 dolu
 dombra
+double bass
+drawings
 drum
+drum
+drums
 dulcimer
 ektara
 electric guitar
+electric guitar
+electric keyboard
 electric keyboard
 english horn
 erhu
@@ -76,7 +110,9 @@ fiddle
 fife
 flugelhorn
 flute
+flute
 flute (bansuri)
+french horn
 french horn
 friction drum
 gamelan
@@ -84,15 +120,20 @@ ghatam
 ghungroo
 glass armonica
 glockenspiel
+glockenspiel
 goblet drum
+guitar
 guitar
 hammered dulcimer
 handbells
 handpan
 hang drum
 harmonica
+harmonica
 harmonium
 harp
+harp
+harpsichord
 hurdy-gurdy
 ikembe
 irish bouzouki
@@ -104,18 +145,28 @@ kalimba
 kanjira
 kantele
 kazoo
+kazoo
+keyboard
+keytar
 khanjari
 khol
+kimbrell's
 koto
 lap harp
 lira da braccio
 lur
 lute
+lutz
 lyre
 mandolin
+mandolin
+maracas
+maracas
+marimba
 marimba
 mbira
 mellotron
+microphone
 mohan veena
 morin khuur
 morsing
@@ -126,6 +177,7 @@ nagara
 ney
 nose flute
 nyckelharpa
+oboe
 oboe
 ocarina
 octobass
@@ -138,6 +190,8 @@ panchavadyam
 pandeiro
 panpipes
 piano
+piano
+piccolo
 piccolo
 piccolo trumpet
 pipa
@@ -152,6 +206,8 @@ rainstick
 ratchet
 rav vast
 recorder
+recorder
+reed pipes
 requinto
 rudra veena
 santoor
@@ -160,38 +216,53 @@ sarangi
 sarinda
 sarod
 saxophone
+saxophone
+scooby
 serpent
 shakers
+shallow
 shamisen
 shehnai
 sho
 shofar
+sincerely
 sitar
 slide whistle
+snare drum
 soprano saxophone
+sousaphone
 sousaphone
 sousen
 steel drum
 suling
 surbahar
 synthesizer
+synthesizer
 taal
 tabla
 taiko drum
+tambourine
 tambourine
 tambura
 tanpura
 tar
 tenor horn
 tenor saxophone
+tenor saxophone
 thavil
 theremin
 timpani
+timpani drum
 tres
 triangle
+triangle
+trombone
 trombone
 trumpet
+trumpet
+trumpets
 tsymbaly
+tuba
 tuba
 tulum
 tumbi
@@ -199,11 +270,18 @@ udu
 uilleann pipes
 ukelin
 ukulele
+ukulele
 veena
+vibraphone
 vibraphone
 viol
 viola
+viola
+violas
 violin
+violin
+violins
+vocals
 vuvuzela
 wagner tuba
 washboard
@@ -212,6 +290,8 @@ xalam
 xaphoon
 xun
 xylophone
+xylophone
+xylophones
 yanggeum
 yangqin
 yaybahar

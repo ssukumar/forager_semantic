@@ -1,0 +1,280 @@
+SID,entry,evaluation,replacement
+65c25cf77dca9d7ca7d9ebdb,microwaves,REPLACE,microwave
+65c25cf77dca9d7ca7d9ebdb,fridge,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,freezer,FOUND,freezer
+65c25cf77dca9d7ca7d9ebdb,toaster,FOUND,toaster
+65c25cf77dca9d7ca7d9ebdb,stove,FOUND,stove
+65c25cf77dca9d7ca7d9ebdb,oven,FOUND,oven
+65c25cf77dca9d7ca7d9ebdb,air fryer,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,mixer,FOUND,mixer
+65c25cf77dca9d7ca7d9ebdb,coffee machine,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,cutting board,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,ice maker,FOUND,ice maker
+65c25cf77dca9d7ca7d9ebdb,rice cooker,FOUND,rice cooker
+65c25cf77dca9d7ca7d9ebdb,steamer,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,fryer,REPLACE,freezer
+65c25cf77dca9d7ca7d9ebdb,dishwasher,FOUND,dishwasher
+65c25cf77dca9d7ca7d9ebdb,sink,EXCLUDE,EXCLUDE
+65c25cf77dca9d7ca7d9ebdb,humidifier,FOUND,humidifier
+65cb63e160bb47fbf9349269,oven,FOUND,oven
+65cb63e160bb47fbf9349269,microwave,FOUND,microwave
+65cb63e160bb47fbf9349269,fridge,EXCLUDE,EXCLUDE
+65cb63e160bb47fbf9349269,coffee maker,FOUND,coffee maker
+65cb63e160bb47fbf9349269,mixers,REPLACE,mixer
+65cb63e160bb47fbf9349269,ovens,REPLACE,oven
+65cb63e160bb47fbf9349269,toaster ovens,REPLACE,toaster oven
+65cb63e160bb47fbf9349269,toasters,REPLACE,toaster
+65cb63e160bb47fbf9349269,washing machine,FOUND,washing machine
+65cb63e160bb47fbf9349269,drawing machine,REPLACE,washing machine
+65cb63e160bb47fbf9349269,dishwasher,FOUND,dishwasher
+65cb63e160bb47fbf9349269,stove fan,REPLACE,stove
+65d54b3b524fcafb543d1b23,stove top,REPLACE,stove
+65d54b3b524fcafb543d1b23,oven,FOUND,oven
+65d54b3b524fcafb543d1b23,air fryer oven,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,air fryer,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,microwave,FOUND,microwave
+65d54b3b524fcafb543d1b23,sink,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,laundry washer,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,dryer,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,TV,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,refrigerator,FOUND,refrigerator
+65d54b3b524fcafb543d1b23,stand mixer,FOUND,stand mixer
+65d54b3b524fcafb543d1b23,heater tank,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,tank heater,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,light bulbs,EXCLUDE,EXCLUDE
+65d54b3b524fcafb543d1b23,rice cooker,FOUND,rice cooker
+65d54b3b524fcafb543d1b23,slow cooker,FOUND,slow cooker
+65d54b3b524fcafb543d1b23,pressure cooker,FOUND,pressure cooker
+65d54b3b524fcafb543d1b23,timer,REPLACE,mixer
+65e1f75ab3efd22e847cfbf0,fridge,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,air fryer,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,microwave,FOUND,microwave
+65e1f75ab3efd22e847cfbf0,toaster,FOUND,toaster
+65e1f75ab3efd22e847cfbf0,coffee pot,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,French press,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,oven,FOUND,oven
+65e1f75ab3efd22e847cfbf0,Keurig,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,washer,REPLACE,dishwasher
+65e1f75ab3efd22e847cfbf0,dryer,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,dishwasher,FOUND,dishwasher
+65e1f75ab3efd22e847cfbf0,fan,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,light,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,lamp,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,the TV,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,microwave oven,EXCLUDE,EXCLUDE
+65e1f75ab3efd22e847cfbf0,heater,FOUND,heater
+60a48adfe091e410f4eaba34,refrigerator,FOUND,refrigerator
+60a48adfe091e410f4eaba34,air conditioner,FOUND,air conditioner
+60a48adfe091e410f4eaba34,stove,FOUND,stove
+60a48adfe091e410f4eaba34,microwave,FOUND,microwave
+60a48adfe091e410f4eaba34,fan,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,washer,REPLACE,dishwasher
+60a48adfe091e410f4eaba34,dryer,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,dishwasher,FOUND,dishwasher
+60a48adfe091e410f4eaba34,sink,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,toilet,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,shower,REPLACE,shoe tower
+60a48adfe091e410f4eaba34,countertop,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,toaster,FOUND,toaster
+60a48adfe091e410f4eaba34,freezer,FOUND,freezer
+60a48adfe091e410f4eaba34,furnace,EXCLUDE,EXCLUDE
+60a48adfe091e410f4eaba34,heater,FOUND,heater
+5d7ff4aa50fda7001a863736,oven,FOUND,oven
+5d7ff4aa50fda7001a863736,microwave,FOUND,microwave
+5d7ff4aa50fda7001a863736,Toaster,REPLACE,toaster
+5d7ff4aa50fda7001a863736,air fryer,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,Toaster oven,REPLACE,toaster oven
+5d7ff4aa50fda7001a863736,blender,FOUND,blender
+5d7ff4aa50fda7001a863736,stand mixer,FOUND,stand mixer
+5d7ff4aa50fda7001a863736,hand mixer,FOUND,hand mixer
+5d7ff4aa50fda7001a863736,dishwasher,FOUND,dishwasher
+5d7ff4aa50fda7001a863736,coffee maker,FOUND,coffee maker
+5d7ff4aa50fda7001a863736,refrigerator,FOUND,refrigerator
+5d7ff4aa50fda7001a863736,washer,REPLACE,dishwasher
+5d7ff4aa50fda7001a863736,and,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,dryer,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,vacuum cleaner,FOUND,vacuum cleaner
+5d7ff4aa50fda7001a863736,iron,FOUND,iron
+5d7ff4aa50fda7001a863736,freezer,FOUND,freezer
+5d7ff4aa50fda7001a863736,deep freezer,REPLACE,deep fryer
+5d7ff4aa50fda7001a863736,rice cooker,FOUND,rice cooker
+5d7ff4aa50fda7001a863736,crock pot,EXCLUDE,EXCLUDE
+5d7ff4aa50fda7001a863736,pressure cooker,FOUND,pressure cooker
+5d7ff4aa50fda7001a863736,food processor,FOUND,food processor
+5d7ff4aa50fda7001a863736,kettle,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,stove,FOUND,stove
+60d731567049e5132e3cc4d4,refrigerator,FOUND,refrigerator
+60d731567049e5132e3cc4d4,dishwasher,FOUND,dishwasher
+60d731567049e5132e3cc4d4,air fryer,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,microwave,FOUND,microwave
+60d731567049e5132e3cc4d4,toaster,FOUND,toaster
+60d731567049e5132e3cc4d4,air conditioning,REPLACE,air conditioner
+60d731567049e5132e3cc4d4,heater,FOUND,heater
+60d731567049e5132e3cc4d4,record player,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,lamp,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,washing machine,FOUND,washing machine
+60d731567049e5132e3cc4d4,dryer,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,rice cooker,FOUND,rice cooker
+60d731567049e5132e3cc4d4,crock pot,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,blender,FOUND,blender
+60d731567049e5132e3cc4d4,hand mixer,FOUND,hand mixer
+60d731567049e5132e3cc4d4,humidifier,FOUND,humidifier
+60d731567049e5132e3cc4d4,dehumidifier,FOUND,dehumidifier
+60d731567049e5132e3cc4d4,hair dryer,REPLACE,shoe dryer
+60d731567049e5132e3cc4d4,wine fridge,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,freezer,FOUND,freezer
+60d731567049e5132e3cc4d4,radio,EXCLUDE,EXCLUDE
+60d731567049e5132e3cc4d4,computer,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,dryer,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,washer,REPLACE,dishwasher
+63e802622f8052bd67d6c5f0,frigerator,REPLACE,refrigerator
+63e802622f8052bd67d6c5f0,dishwasher,FOUND,dishwasher
+63e802622f8052bd67d6c5f0,dehumidifier,FOUND,dehumidifier
+63e802622f8052bd67d6c5f0,air conditioner,FOUND,air conditioner
+63e802622f8052bd67d6c5f0,stove,FOUND,stove
+63e802622f8052bd67d6c5f0,television,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,that's,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,it,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,furnace,EXCLUDE,EXCLUDE
+63e802622f8052bd67d6c5f0,heater,FOUND,heater
+65cc19b4b3d48a22dfc6756d,toaster,FOUND,toaster
+65cc19b4b3d48a22dfc6756d,toaster oven,FOUND,toaster oven
+65cc19b4b3d48a22dfc6756d,microwave,FOUND,microwave
+65cc19b4b3d48a22dfc6756d,stove top oven,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,blender,FOUND,blender
+65cc19b4b3d48a22dfc6756d,mixer,FOUND,mixer
+65cc19b4b3d48a22dfc6756d,air fryer,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,refrigerator,FOUND,refrigerator
+65cc19b4b3d48a22dfc6756d,air conditioner,FOUND,air conditioner
+65cc19b4b3d48a22dfc6756d,rice cooker,FOUND,rice cooker
+65cc19b4b3d48a22dfc6756d,washing machine,FOUND,washing machine
+65cc19b4b3d48a22dfc6756d,fryer,REPLACE,freezer
+65cc19b4b3d48a22dfc6756d,air purifier,FOUND,air purifier
+65cc19b4b3d48a22dfc6756d,vacuum,EXCLUDE,EXCLUDE
+65cc19b4b3d48a22dfc6756d,Roomba,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,air conditioner,FOUND,air conditioner
+65e862f844f1b7a803bb3c5a,blender,FOUND,blender
+65e862f844f1b7a803bb3c5a,microwave,FOUND,microwave
+65e862f844f1b7a803bb3c5a,dryer,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,refrigerator,FOUND,refrigerator
+65e862f844f1b7a803bb3c5a,television,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,pressing iron,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,coffee maker,FOUND,coffee maker
+65e862f844f1b7a803bb3c5a,fan,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,toaster,FOUND,toaster
+65e862f844f1b7a803bb3c5a,oven,FOUND,oven
+65e862f844f1b7a803bb3c5a,dishwasher,FOUND,dishwasher
+65e862f844f1b7a803bb3c5a,kettle,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,vacuum cleaner,FOUND,vacuum cleaner
+65e862f844f1b7a803bb3c5a,lamp,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,bread maker,FOUND,bread maker
+65e862f844f1b7a803bb3c5a,heater,FOUND,heater
+65e862f844f1b7a803bb3c5a,rice cooker,FOUND,rice cooker
+65e862f844f1b7a803bb3c5a,slow cooker,FOUND,slow cooker
+65e862f844f1b7a803bb3c5a,pressure cooker,FOUND,pressure cooker
+65e862f844f1b7a803bb3c5a,gas coooker,REPLACE,egg cooker
+65e862f844f1b7a803bb3c5a,air purifier,FOUND,air purifier
+65e862f844f1b7a803bb3c5a,mixer,FOUND,mixer
+65e862f844f1b7a803bb3c5a,air fryer,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Appliance plug,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,stove,FOUND,stove
+65e862f844f1b7a803bb3c5a,griller,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,grilling pan,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Crock-Pot,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,light bulb,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,torch,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,Electric drill,REPLACE,electric grill
+65e862f844f1b7a803bb3c5a,kitchen wood,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,hotpot,EXCLUDE,EXCLUDE
+65e862f844f1b7a803bb3c5a,kettle,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,microwave,FOUND,microwave
+5f5aa60bef062519ff711fe6,oven,FOUND,oven
+5f5aa60bef062519ff711fe6,refrigerator,FOUND,refrigerator
+5f5aa60bef062519ff711fe6,toaster,FOUND,toaster
+5f5aa60bef062519ff711fe6,air fryer,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,blender,FOUND,blender
+5f5aa60bef062519ff711fe6,coffee maker,FOUND,coffee maker
+5f5aa60bef062519ff711fe6,ice maker,FOUND,ice maker
+5f5aa60bef062519ff711fe6,TV,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,surround sound system,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,sink,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,shower,REPLACE,shoe tower
+5f5aa60bef062519ff711fe6,thermostat,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,fire alarm,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,AC unit,EXCLUDE,EXCLUDE
+5f5aa60bef062519ff711fe6,boiler,REPLACE,blender
+5f5aa60bef062519ff711fe6,waffle maker,FOUND,waffle maker
+63ea4ab1ce4168cbe9f63775,blender,FOUND,blender
+63ea4ab1ce4168cbe9f63775,microwaves,REPLACE,microwave
+63ea4ab1ce4168cbe9f63775,coffee maker,FOUND,coffee maker
+63ea4ab1ce4168cbe9f63775,coffee grinder,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,dishwasher,FOUND,dishwasher
+63ea4ab1ce4168cbe9f63775,oven,FOUND,oven
+63ea4ab1ce4168cbe9f63775,stove,FOUND,stove
+63ea4ab1ce4168cbe9f63775,hot plate,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,air fryer,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,deep fryer,FOUND,deep fryer
+63ea4ab1ce4168cbe9f63775,slow cooker,FOUND,slow cooker
+63ea4ab1ce4168cbe9f63775,pressure cooker,FOUND,pressure cooker
+63ea4ab1ce4168cbe9f63775,refrigerator,FOUND,refrigerator
+63ea4ab1ce4168cbe9f63775,freezer,FOUND,freezer
+63ea4ab1ce4168cbe9f63775,washing machine,FOUND,washing machine
+63ea4ab1ce4168cbe9f63775,dryer,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,vacuum cleaner,FOUND,vacuum cleaner
+63ea4ab1ce4168cbe9f63775,floor cleaner,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,clothes iron,REPLACE,clothes rack
+63ea4ab1ce4168cbe9f63775,Clothes steamer,EXCLUDE,EXCLUDE
+63ea4ab1ce4168cbe9f63775,toaster,FOUND,toaster
+63ea4ab1ce4168cbe9f63775,toaster oven,FOUND,toaster oven
+63ea4ab1ce4168cbe9f63775,food processor,FOUND,food processor
+63ea4ab1ce4168cbe9f63775,stand mixer,FOUND,stand mixer
+63ea4ab1ce4168cbe9f63775,hand mixer,FOUND,hand mixer
+63ea4ab1ce4168cbe9f63775,electric griddle,REPLACE,electric grill
+63ea4ab1ce4168cbe9f63775,electric kettle,FOUND,electric kettle
+63ea4ab1ce4168cbe9f63775,waffle iron,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,fridge,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,freezer,FOUND,freezer
+65e358d9c5e3ee026268b2a7,oven,FOUND,oven
+65e358d9c5e3ee026268b2a7,stove top,REPLACE,stove
+65e358d9c5e3ee026268b2a7,Keurig,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,coffee maker,FOUND,coffee maker
+65e358d9c5e3ee026268b2a7,microwave,FOUND,microwave
+65e358d9c5e3ee026268b2a7,toaster,FOUND,toaster
+65e358d9c5e3ee026268b2a7,NuWave Oven,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,crock pot,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,instapot,REPLACE,instant pot
+65e358d9c5e3ee026268b2a7,rice cooker,FOUND,rice cooker
+65e358d9c5e3ee026268b2a7,cooker,REPLACE,egg cooker
+65e358d9c5e3ee026268b2a7,hard boiled egg cooker,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,dishwasher,FOUND,dishwasher
+65e358d9c5e3ee026268b2a7,washer,REPLACE,dishwasher
+65e358d9c5e3ee026268b2a7,dryer,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,hot water kettle,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,food processor,FOUND,food processor
+65e358d9c5e3ee026268b2a7,juicer,FOUND,juicer
+65e358d9c5e3ee026268b2a7,waffle maker,FOUND,waffle maker
+65e358d9c5e3ee026268b2a7,Griddle,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,Grill,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,blender,FOUND,blender
+65e358d9c5e3ee026268b2a7,mixer,FOUND,mixer
+65e358d9c5e3ee026268b2a7,immersion blender,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,air fryer,EXCLUDE,EXCLUDE
+65e358d9c5e3ee026268b2a7,vacuum,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,stove,FOUND,stove
+65d6a09286a0c99e632a46dd,washer,REPLACE,dishwasher
+65d6a09286a0c99e632a46dd,dryer,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,dishwasher,FOUND,dishwasher
+65d6a09286a0c99e632a46dd,air fryer,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,toaster oven,FOUND,toaster oven
+65d6a09286a0c99e632a46dd,toaster,FOUND,toaster
+65d6a09286a0c99e632a46dd,a,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,blender,FOUND,blender
+65d6a09286a0c99e632a46dd,a,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,juicer,FOUND,juicer
+65d6a09286a0c99e632a46dd,fridge,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,freezer,FOUND,freezer
+65d6a09286a0c99e632a46dd,dehydrator,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,a TV,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,furniture,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,mini fridge,EXCLUDE,EXCLUDE
+65d6a09286a0c99e632a46dd,microwave,FOUND,microwave

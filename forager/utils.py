@@ -69,7 +69,7 @@ def prepareData(path, fp, cat):
                 # get closest match in vocab and check edit distance
                 closest_word = difflib.get_close_matches(word, labels['word'].values,1)
 
-                if len(closest_word)>0 and nltk.edit_distance(word, closest_word[0]) <= 2:
+                if len(closest_word)>0 and nltk.edit_distance(word, closest_word[0]) <= 4:
                     replacements[word] = closest_word[0]
                 elif choice == "e":
                     # exclude this word from the list
@@ -112,15 +112,21 @@ def prepareData(path, fp, cat):
         
         # Stratify data into fluency lists
         data = []
+        lists = df.groupby("SID")
         if 'timepoint' in df.columns:
-            lists = df.groupby(["SID", "timepoint"])
+            for sub, frame in lists:
+                list = frame["entry"].values.tolist()
+                list2 = frame["timepoint"].values.tolist()
+                subj_data = (sub, list,list2)
+                data.append(subj_data)
         else: 
             lists = df.groupby("SID")
+            for sub, frame in lists:
+                list = frame["entry"].values.tolist()
+                subj_data = (sub, list)
+                data.append(subj_data)
         
-        for sub, frame in lists:
-            list = frame["entry"].values.tolist()
-            subj_data = (sub, list)
-            data.append(subj_data)    
+        
         return data, replacement_df, df
     
     else:

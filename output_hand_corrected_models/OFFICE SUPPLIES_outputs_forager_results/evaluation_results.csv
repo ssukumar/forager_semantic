@@ -1,0 +1,362 @@
+SID,entry,timepoint,evaluation,replacement
+65512e3cc12f463bc327b7c3,pens,1.6,REPLACE,pen
+65512e3cc12f463bc327b7c3,pencils,3.4,REPLACE,pencil
+65512e3cc12f463bc327b7c3,markers,4.4,REPLACE,marker
+65512e3cc12f463bc327b7c3,paper,9.7,FOUND,paper
+65512e3cc12f463bc327b7c3,printer,12.6,FOUND,printer
+65512e3cc12f463bc327b7c3,printer ink,15.2,REPLACE,printer
+65512e3cc12f463bc327b7c3,scissors,19.1,FOUND,scissors
+65512e3cc12f463bc327b7c3,stapler,29.2,FOUND,stapler
+65512e3cc12f463bc327b7c3,staple remover,30.3,FOUND,staple remover
+65512e3cc12f463bc327b7c3,scissors,43.9,FOUND,scissors
+65512e3cc12f463bc327b7c3,markers,47.7,REPLACE,marker
+65512e3cc12f463bc327b7c3,computers,54.1,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,garbage cans,67.3,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,desks,76.4,REPLACE,desk pad
+65512e3cc12f463bc327b7c3,Mouse,96.0,REPLACE,mouse
+65512e3cc12f463bc327b7c3,Snacks,99.2,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,paper,3.2,FOUND,paper
+5f6c102b6ec04317fc9a8127,pens,4.1,REPLACE,pen
+5f6c102b6ec04317fc9a8127,scissors,8.9,FOUND,scissors
+5f6c102b6ec04317fc9a8127,calculator,12.6,FOUND,calculator
+5f6c102b6ec04317fc9a8127,exacto knife,16.7,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,stapler,22.4,FOUND,stapler
+5f6c102b6ec04317fc9a8127,eraser,26.4,FOUND,eraser
+5f6c102b6ec04317fc9a8127,magnifying glass,32.3,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,Sharpie pen,34.9,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,pen,36.8,FOUND,pen
+5f6c102b6ec04317fc9a8127,sticky notes,40.8,REPLACE,sticky note
+5f6c102b6ec04317fc9a8127,charger,54.8,REPLACE,sharpener
+5f6c102b6ec04317fc9a8127,paper clips,69.3,REPLACE,paperclip
+5f6c102b6ec04317fc9a8127,whiteout,82.0,REPLACE,whiteboard
+5f6c102b6ec04317fc9a8127,highlighter,96.1,FOUND,highlighter
+5f6c102b6ec04317fc9a8127,glue,103.3,FOUND,glue
+5f6c102b6ec04317fc9a8127,index cards,109.6,REPLACE,index card
+5c1942e200849900010afdcd,scissors,1.9,FOUND,scissors
+5c1942e200849900010afdcd,sticky notes,2.7,REPLACE,sticky note
+5c1942e200849900010afdcd,stablers,4.7,REPLACE,stapler
+5c1942e200849900010afdcd,pens,5.7,REPLACE,pen
+5c1942e200849900010afdcd,pencils,6.7,REPLACE,pencil
+5c1942e200849900010afdcd,glue,7.4,FOUND,glue
+5c1942e200849900010afdcd,holder,9.8,REPLACE,folder
+5c1942e200849900010afdcd,paper,10.5,FOUND,paper
+5c1942e200849900010afdcd,calendar,11.4,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,calculator,12.2,FOUND,calculator
+5c1942e200849900010afdcd,notebook,18.2,FOUND,notebook
+5c1942e200849900010afdcd,keep charging cables,21.9,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,pen,23.1,FOUND,pen
+5c1942e200849900010afdcd,holder,24.4,REPLACE,folder
+5c1942e200849900010afdcd,tape,32.0,FOUND,tape
+5c1942e200849900010afdcd,paper clips,32.6,REPLACE,paperclip
+5c1942e200849900010afdcd,Pence,35.9,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,tax,36.6,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,Staples,43.3,REPLACE,tape
+5c1942e200849900010afdcd,glue,59.6,FOUND,glue
+5c1942e200849900010afdcd,stick,60.1,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,folders,63.6,REPLACE,folder
+5c1942e200849900010afdcd,binders,64.3,REPLACE,binder
+5c1942e200849900010afdcd,clock,67.4,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,paper holder,70.2,REPLACE,paper folder
+60da4f9aa1ced7efeecca18a,paper,1.5,FOUND,paper
+60da4f9aa1ced7efeecca18a,pens,2.3,REPLACE,pen
+60da4f9aa1ced7efeecca18a,pencils,3.1,REPLACE,pencil
+60da4f9aa1ced7efeecca18a,Sharpies,3.3,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,highlighters,5.9,REPLACE,highlighter
+60da4f9aa1ced7efeecca18a,paper clips,7.4,REPLACE,paperclip
+60da4f9aa1ced7efeecca18a,binder clips,8.8,REPLACE,binder clip
+60da4f9aa1ced7efeecca18a,folders,10.2,REPLACE,folder
+60da4f9aa1ced7efeecca18a,binders,11.6,REPLACE,binder
+60da4f9aa1ced7efeecca18a,Shredder,17.9,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,printer,19.4,FOUND,printer
+60da4f9aa1ced7efeecca18a,filing cabinet,23.5,FOUND,filing cabinet
+60da4f9aa1ced7efeecca18a,stapler,30.8,FOUND,stapler
+60da4f9aa1ced7efeecca18a,Staples,31.8,REPLACE,tape
+60da4f9aa1ced7efeecca18a,ruler,34.5,FOUND,ruler
+60da4f9aa1ced7efeecca18a,copy stamp,39.0,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,scanner,50.3,FOUND,scanner
+60da4f9aa1ced7efeecca18a,fax machine,52.3,FOUND,fax machine
+60da4f9aa1ced7efeecca18a,letter,58.9,REPLACE,letterhead
+60da4f9aa1ced7efeecca18a,sealer,59.7,REPLACE,stapler
+60da4f9aa1ced7efeecca18a,envelope,60.6,FOUND,envelope
+60da4f9aa1ced7efeecca18a,lope,61.5,REPLACE,envelope
+60da4f9aa1ced7efeecca18a,stamps,67.5,REPLACE,stapler
+60da4f9aa1ced7efeecca18a,Notepad,72.1,REPLACE,note pad
+60da4f9aa1ced7efeecca18a,legal pad,75.8,FOUND,legal pad
+60da4f9aa1ced7efeecca18a,composition book,78.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,tablet,81.8,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,computer,82.7,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,water cooler,90.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,backpack,98.2,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,eraser,103.8,FOUND,eraser
+60da4f9aa1ced7efeecca18a,glue,106.4,FOUND,glue
+60da4f9aa1ced7efeecca18a,stick,106.9,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,scissors,109.2,FOUND,scissors
+60da4f9aa1ced7efeecca18a,thumbtack,112.3,FOUND,thumbtack
+6595e3b4dc9090390e4edb5f,Desk,6.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,office chair,7.4,REPLACE,office chair mat
+6595e3b4dc9090390e4edb5f,monitor,9.8,FOUND,monitor
+6595e3b4dc9090390e4edb5f,computer,10.6,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,laptop,11.4,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,hard drive,12.8,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,USB,13.7,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,binder,15.0,FOUND,binder
+6595e3b4dc9090390e4edb5f,folder,16.8,FOUND,folder
+6595e3b4dc9090390e4edb5f,pen,18.5,FOUND,pen
+6595e3b4dc9090390e4edb5f,paper,20.6,FOUND,paper
+6595e3b4dc9090390e4edb5f,tape,21.4,FOUND,tape
+6595e3b4dc9090390e4edb5f,paper clips,22.5,REPLACE,paperclip
+6595e3b4dc9090390e4edb5f,calendar,32.4,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,cabinet,34.5,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,too far,37.2,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,highlighter,41.8,FOUND,highlighter
+6595e3b4dc9090390e4edb5f,hole puncher,44.5,REPLACE,hole punch
+6595e3b4dc9090390e4edb5f,rubber bands,59.7,REPLACE,rubber band
+6595e3b4dc9090390e4edb5f,calculator,62.5,FOUND,calculator
+6595e3b4dc9090390e4edb5f,envelope,63.2,FOUND,envelope
+6595e3b4dc9090390e4edb5f,Notepad,68.0,REPLACE,note pad
+6595e3b4dc9090390e4edb5f,paper shredder,71.5,FOUND,paper shredder
+6595e3b4dc9090390e4edb5f,scanner,72.8,FOUND,scanner
+6595e3b4dc9090390e4edb5f,router,77.1,REPLACE,ruler
+6595e3b4dc9090390e4edb5f,keyboard,79.7,FOUND,keyboard
+6595e3b4dc9090390e4edb5f,mouse,80.4,FOUND,mouse
+6595e3b4dc9090390e4edb5f,Board,84.8,REPLACE,keyboard
+6595e3b4dc9090390e4edb5f,Expo Markers,85.8,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Extension Cord,90.0,REPLACE,extension cord
+6595e3b4dc9090390e4edb5f,Lamp,94.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Pencil,96.4,REPLACE,pencil
+6595e3b4dc9090390e4edb5f,Eraser,97.1,REPLACE,eraser
+6595e3b4dc9090390e4edb5f,White out,114.6,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Marker,115.0,REPLACE,marker
+6595e3b4dc9090390e4edb5f,Scissors,115.6,REPLACE,scissors
+61035836646fb6ee2152f950,pen,1.9,FOUND,pen
+61035836646fb6ee2152f950,pencil,2.6,FOUND,pencil
+61035836646fb6ee2152f950,gel pen,4.2,REPLACE,pen
+61035836646fb6ee2152f950,mechanical pencil,5.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,ballpoint pen,13.0,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,fountain pen,14.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,Post-It note,17.3,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,stapler,18.5,FOUND,stapler
+61035836646fb6ee2152f950,paper clip,25.1,REPLACE,paperclip
+61035836646fb6ee2152f950,copy paper,28.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,cardstock,31.2,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,printer,36.0,FOUND,printer
+61035836646fb6ee2152f950,Sharpie,40.1,REPLACE,sharpener
+61035836646fb6ee2152f950,Shredder,44.7,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,laminator,51.9,FOUND,laminator
+61035836646fb6ee2152f950,ink cartridge,60.1,FOUND,ink cartridge
+61035836646fb6ee2152f950,white out,72.5,REPLACE,whiteboard
+61035836646fb6ee2152f950,three-hole punch,77.7,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,binder,80.2,FOUND,binder
+61035836646fb6ee2152f950,folder,80.9,FOUND,folder
+61035836646fb6ee2152f950,envelope,83.1,FOUND,envelope
+61035836646fb6ee2152f950,packing tape,86.5,FOUND,packing tape
+61035836646fb6ee2152f950,highlighter,92.4,FOUND,highlighter
+61035836646fb6ee2152f950,eraser,97.1,FOUND,eraser
+61035836646fb6ee2152f950,LED,109.5,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,pencil box,118.6,REPLACE,pencil
+5e8a76b3939b3072dc76fb5c,pens,1.1,REPLACE,pen
+5e8a76b3939b3072dc76fb5c,pencils,2.8,REPLACE,pencil
+5e8a76b3939b3072dc76fb5c,paper,3.5,FOUND,paper
+5e8a76b3939b3072dc76fb5c,calculators,5.4,REPLACE,calculator
+5e8a76b3939b3072dc76fb5c,paper clips,6.4,REPLACE,paperclip
+5e8a76b3939b3072dc76fb5c,stapler,8.9,FOUND,stapler
+5e8a76b3939b3072dc76fb5c,Staples,9.8,REPLACE,tape
+5e8a76b3939b3072dc76fb5c,notecards,11.7,REPLACE,note pad
+5e8a76b3939b3072dc76fb5c,index cards,12.7,REPLACE,index card
+5e8a76b3939b3072dc76fb5c,printer paper,20.5,FOUND,printer paper
+5e8a76b3939b3072dc76fb5c,printer,22.7,FOUND,printer
+5e8a76b3939b3072dc76fb5c,computer,25.0,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,mouse,27.1,FOUND,mouse
+5e8a76b3939b3072dc76fb5c,keyboard,27.7,FOUND,keyboard
+5e8a76b3939b3072dc76fb5c,fax machine,40.6,FOUND,fax machine
+5e8a76b3939b3072dc76fb5c,construction paper,50.5,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,scissors,51.5,FOUND,scissors
+5e8a76b3939b3072dc76fb5c,markers,53.7,REPLACE,marker
+5e8a76b3939b3072dc76fb5c,highlighters,55.1,REPLACE,highlighter
+5e8a76b3939b3072dc76fb5c,rulers,60.0,REPLACE,ruler
+5e8a76b3939b3072dc76fb5c,tractors,61.6,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,projectors,66.2,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,tape,81.2,FOUND,tape
+5e8a76b3939b3072dc76fb5c,glue,82.6,FOUND,glue
+5e8a76b3939b3072dc76fb5c,hot glue gun,89.6,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,Whiteout,98.3,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,key card,118.9,REPLACE,keyboard
+5d3cc9010e510a00013df6f6,stapler,4.1,FOUND,stapler
+5d3cc9010e510a00013df6f6,Staples,7.3,REPLACE,tape
+5d3cc9010e510a00013df6f6,pencils,15.5,REPLACE,pencil
+5d3cc9010e510a00013df6f6,paper,22.0,FOUND,paper
+5d3cc9010e510a00013df6f6,paper clips,25.4,REPLACE,paperclip
+5d3cc9010e510a00013df6f6,clips,26.0,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,printer,29.7,FOUND,printer
+5d3cc9010e510a00013df6f6,computer,33.2,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,desk,37.3,REPLACE,desk pad
+5d3cc9010e510a00013df6f6,filing cabinets,41.5,REPLACE,filing cabinet
+5d3cc9010e510a00013df6f6,paperweight,66.7,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,markers,82.8,REPLACE,marker
+5d3cc9010e510a00013df6f6,white out,86.9,REPLACE,whiteboard
+5d3cc9010e510a00013df6f6,envelopes,102.5,REPLACE,envelope
+5d3cc9010e510a00013df6f6,folders,114.6,REPLACE,folder
+5d3cc9010e510a00013df6f6,notebooks,115.4,REPLACE,notebook
+5fc6df58f380620a09116434,pens,0.4,REPLACE,pen
+5fc6df58f380620a09116434,papers,2.2,REPLACE,paper
+5fc6df58f380620a09116434,pencils,3.0,REPLACE,pencil
+5fc6df58f380620a09116434,Sharpie,4.0,REPLACE,sharpener
+5fc6df58f380620a09116434,highlighter,4.6,FOUND,highlighter
+5fc6df58f380620a09116434,stapler,5.6,FOUND,stapler
+5fc6df58f380620a09116434,Staples,6.4,REPLACE,tape
+5fc6df58f380620a09116434,paper clips,6.9,REPLACE,paperclip
+5fc6df58f380620a09116434,paper,9.0,FOUND,paper
+5fc6df58f380620a09116434,weight,10.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,tape,10.7,FOUND,tape
+5fc6df58f380620a09116434,glue,13.0,FOUND,glue
+5fc6df58f380620a09116434,computer,13.6,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,organizer,15.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Scotch,19.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,tape,19.7,FOUND,tape
+5fc6df58f380620a09116434,pins,23.5,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,thumb,24.3,REPLACE,thumbtack
+5fc6df58f380620a09116434,tacks,25.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,ruler,28.7,FOUND,ruler
+5fc6df58f380620a09116434,measuring tape,29.6,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,ballpoint,31.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,pens,32.2,REPLACE,pen
+5fc6df58f380620a09116434,ink,32.9,FOUND,ink
+5fc6df58f380620a09116434,Post-it notes,34.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,sticky notes,36.2,REPLACE,sticky note
+5fc6df58f380620a09116434,desk,41.2,REPLACE,desk pad
+5fc6df58f380620a09116434,chair,41.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,desk,42.1,REPLACE,desk pad
+5fc6df58f380620a09116434,coffee machine,45.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,laptop,57.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,computer screen,60.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,mouse,61.3,FOUND,mouse
+5fc6df58f380620a09116434,keyboard,61.7,FOUND,keyboard
+5fc6df58f380620a09116434,printer,66.2,FOUND,printer
+5fc6df58f380620a09116434,faxer,66.9,REPLACE,paper
+5fc6df58f380620a09116434,vending machine,67.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,copier,70.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,filing cabinet,85.5,FOUND,filing cabinet
+5fc6df58f380620a09116434,folders,86.9,REPLACE,folder
+5fc6df58f380620a09116434,bins,92.5,REPLACE,binder
+5fc6df58f380620a09116434,ink cartridges,100.3,REPLACE,ink cartridge
+5fc6df58f380620a09116434,notebooks,114.9,REPLACE,notebook
+65778c02cde55736bb830eca,Staples,3.8,REPLACE,tape
+65778c02cde55736bb830eca,copy paper,6.9,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,printer,9.5,FOUND,printer
+65778c02cde55736bb830eca,pen,11.9,FOUND,pen
+65778c02cde55736bb830eca,eraser,13.8,FOUND,eraser
+65778c02cde55736bb830eca,planner,18.8,REPLACE,scanner
+65778c02cde55736bb830eca,cheap,22.2,REPLACE,chalk
+65778c02cde55736bb830eca,scissors,23.1,FOUND,scissors
+65778c02cde55736bb830eca,binder,26.8,FOUND,binder
+65778c02cde55736bb830eca,labels,36.5,REPLACE,label
+65778c02cde55736bb830eca,Folders,39.9,REPLACE,folder
+65778c02cde55736bb830eca,pen holder,44.4,REPLACE,key holder
+65778c02cde55736bb830eca,bookkeeper,52.9,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,printer ink,59.6,REPLACE,printer
+65778c02cde55736bb830eca,binder clip,63.5,FOUND,binder clip
+65778c02cde55736bb830eca,glue,70.6,FOUND,glue
+65778c02cde55736bb830eca,ruler,71.1,FOUND,ruler
+65778c02cde55736bb830eca,rubber bands,75.2,REPLACE,rubber band
+65778c02cde55736bb830eca,sticky notes,77.2,REPLACE,sticky note
+65778c02cde55736bb830eca,Calendar,84.9,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,white out,90.3,REPLACE,whiteboard
+65778c02cde55736bb830eca,Sharpie,95.3,REPLACE,sharpener
+5ed9311e1a69d449577bb8cf,Post-it notes,2.2,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,notepad,3.3,REPLACE,note pad
+5ed9311e1a69d449577bb8cf,notebook,4.4,FOUND,notebook
+5ed9311e1a69d449577bb8cf,page highlighter,6.9,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,whiteout,8.2,REPLACE,whiteboard
+5ed9311e1a69d449577bb8cf,scissors,9.0,FOUND,scissors
+5ed9311e1a69d449577bb8cf,stapler,11.1,FOUND,stapler
+5ed9311e1a69d449577bb8cf,Staples,12.0,REPLACE,tape
+5ed9311e1a69d449577bb8cf,binder,15.2,FOUND,binder
+5ed9311e1a69d449577bb8cf,folder,16.1,FOUND,folder
+5ed9311e1a69d449577bb8cf,charger,26.5,REPLACE,sharpener
+5ed9311e1a69d449577bb8cf,bookmark,33.7,REPLACE,bookcase
+5ed9311e1a69d449577bb8cf,thumbtacks,61.4,REPLACE,thumbtack
+5ed9311e1a69d449577bb8cf,hansel's hole,77.6,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,puncher,79.9,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,a chair,83.5,REPLACE,desk chair
+5ed9311e1a69d449577bb8cf,Shredder,90.5,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,paper shredder,91.3,FOUND,paper shredder
+5ed9311e1a69d449577bb8cf,envelopes,97.1,REPLACE,envelope
+5ed9311e1a69d449577bb8cf,index cards,98.2,REPLACE,index card
+5e7fefe06c12706d47e35211,pen,2.3,FOUND,pen
+5e7fefe06c12706d47e35211,ballpoint pen,3.7,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,pencil,5.6,FOUND,pencil
+5e7fefe06c12706d47e35211,Sharpie,7.1,REPLACE,sharpener
+5e7fefe06c12706d47e35211,highlighter,8.4,FOUND,highlighter
+5e7fefe06c12706d47e35211,white out,11.6,REPLACE,whiteboard
+5e7fefe06c12706d47e35211,notebook,14.7,FOUND,notebook
+5e7fefe06c12706d47e35211,printer,15.7,FOUND,printer
+5e7fefe06c12706d47e35211,paper,17.4,FOUND,paper
+5e7fefe06c12706d47e35211,graph paper,20.0,FOUND,graph paper
+5e7fefe06c12706d47e35211,mouse,23.9,FOUND,mouse
+5e7fefe06c12706d47e35211,keyboard,24.7,FOUND,keyboard
+5e7fefe06c12706d47e35211,monitor,26.0,FOUND,monitor
+5e7fefe06c12706d47e35211,computer,29.4,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,office phone,32.5,REPLACE,office sign
+5e7fefe06c12706d47e35211,Poster,35.8,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,stapler,36.9,FOUND,stapler
+5e7fefe06c12706d47e35211,staple,40.6,REPLACE,stapler
+5e7fefe06c12706d47e35211,remover,41.3,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,tape paper,43.0,REPLACE,graph paper
+5e7fefe06c12706d47e35211,clip,45.1,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,binder,47.3,FOUND,binder
+5e7fefe06c12706d47e35211,clips,48.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,books,49.8,REPLACE,bookends
+5e7fefe06c12706d47e35211,desk,52.0,REPLACE,desk pad
+5e7fefe06c12706d47e35211,an office chair,52.9,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,folders,56.3,REPLACE,folder
+5e7fefe06c12706d47e35211,binders,57.3,REPLACE,binder
+5e7fefe06c12706d47e35211,file cabinets,60.3,REPLACE,file cabinet
+5e7fefe06c12706d47e35211,storage bins,66.8,REPLACE,storage box
+5e7fefe06c12706d47e35211,a water cooler,78.1,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,blue ink for printer,81.6,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,the printer fax machine,89.7,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,laptop,5.2,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,printer,6.7,FOUND,printer
+5c4a428161c51f0001e96b3f,copier,7.7,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,coffee,9.1,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,machine,10.2,REPLACE,fax machine
+5c4a428161c51f0001e96b3f,computer screens,21.1,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,desktop,22.5,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,cell phone,24.5,REPLACE,telephone
+5c4a428161c51f0001e96b3f,stapler,37.2,FOUND,stapler
+5c4a428161c51f0001e96b3f,envelopes,42.6,REPLACE,envelope
+5c4a428161c51f0001e96b3f,Staples,50.4,REPLACE,tape
+5c4a428161c51f0001e96b3f,highlighters,52.8,REPLACE,highlighter
+5c4a428161c51f0001e96b3f,erasers,56.3,REPLACE,eraser
+5c4a428161c51f0001e96b3f,pens,57.4,REPLACE,pen
+5c4a428161c51f0001e96b3f,pencils,57.9,REPLACE,pencil
+5c4a428161c51f0001e96b3f,iPads,60.1,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,tablets,61.3,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,office chairs,65.7,REPLACE,office chair mat
+5c4a428161c51f0001e96b3f,chairs,66.3,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Chargers keyboards,71.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,desk,76.0,REPLACE,desk pad
+5c4a428161c51f0001e96b3f,standing desks,76.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,telephones,79.7,REPLACE,telephone
+5c4a428161c51f0001e96b3f,servers,90.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Wi-Fi  routers,91.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,ink,96.8,FOUND,ink
+5c4a428161c51f0001e96b3f,toilet paper,104.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,paper towels,105.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,coffee beans,109.3,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,paper clips,2.8,REPLACE,paperclip
+60fcf1a04c245326d05076e0,Post-it notes,5.6,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,pens,7.6,REPLACE,pen
+60fcf1a04c245326d05076e0,pencils,8.4,REPLACE,pencil
+60fcf1a04c245326d05076e0,notebooks,9.4,REPLACE,notebook
+60fcf1a04c245326d05076e0,legal pads,10.8,REPLACE,legal pad
+60fcf1a04c245326d05076e0,binders,12.2,REPLACE,binder
+60fcf1a04c245326d05076e0,Staples,16.2,REPLACE,tape
+60fcf1a04c245326d05076e0,stapler,18.1,FOUND,stapler
+60fcf1a04c245326d05076e0,rubber bands,21.6,REPLACE,rubber band
+60fcf1a04c245326d05076e0,sheet protectors,32.5,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,file boxes,34.9,REPLACE,file folder
+60fcf1a04c245326d05076e0,hanging folders,37.6,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,highlighters,46.8,REPLACE,highlighter
+60fcf1a04c245326d05076e0,ruler,83.3,FOUND,ruler
+60fcf1a04c245326d05076e0,scissors,93.1,FOUND,scissors

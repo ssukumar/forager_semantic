@@ -1,0 +1,365 @@
+SID,entry,timepoint,evaluation,replacement
+65778c02cde55736bb830eca,football,2.0,FOUND,football
+65778c02cde55736bb830eca,basketball,3.0,FOUND,basketball
+65778c02cde55736bb830eca,badminton,5.6,FOUND,badminton
+65778c02cde55736bb830eca,tennis,8.1,FOUND,tennis
+65778c02cde55736bb830eca,hockey,8.8,FOUND,hockey
+65778c02cde55736bb830eca,lacrosse,10.4,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,soccer,12.1,FOUND,soccer
+65778c02cde55736bb830eca,rugby,17.8,FOUND,rugby
+65778c02cde55736bb830eca,volleyball,25.0,FOUND,volleyball
+65778c02cde55736bb830eca,baseball,29.7,FOUND,baseball
+65778c02cde55736bb830eca,flag football,30.6,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,running,36.6,REPLACE,rowing
+65778c02cde55736bb830eca,bobsledding,48.6,FOUND,bobsledding
+65778c02cde55736bb830eca,skiing,49.9,FOUND,skiing
+65778c02cde55736bb830eca,snowboarding,51.7,FOUND,snowboarding
+65778c02cde55736bb830eca,golf,58.4,FOUND,golf
+65778c02cde55736bb830eca,field hockey,65.1,REPLACE,ice hockey
+65778c02cde55736bb830eca,archery,71.1,FOUND,archery
+65778c02cde55736bb830eca,Box Lacrosse,83.1,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,cheer,91.2,REPLACE,archery
+65778c02cde55736bb830eca,gymnastics,105.5,FOUND,gymnastics
+65778c02cde55736bb830eca,ice skating,111.5,FOUND,ice skating
+61035836646fb6ee2152f950,tennis,2.0,FOUND,tennis
+61035836646fb6ee2152f950,baseball,2.7,FOUND,baseball
+61035836646fb6ee2152f950,badminton,4.1,FOUND,badminton
+61035836646fb6ee2152f950,Cricket,6.5,REPLACE,cricket
+61035836646fb6ee2152f950,bowling,7.2,REPLACE,rowing
+61035836646fb6ee2152f950,football,10.6,FOUND,football
+61035836646fb6ee2152f950,pickleball,20.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,dodgeball,20.9,REPLACE,horseball
+61035836646fb6ee2152f950,wall ball,24.3,REPLACE,volleyball
+61035836646fb6ee2152f950,skiing,30.5,FOUND,skiing
+61035836646fb6ee2152f950,snowboarding,31.5,FOUND,snowboarding
+61035836646fb6ee2152f950,surfing,34.8,FOUND,surfing
+61035836646fb6ee2152f950,running,37.9,REPLACE,rowing
+61035836646fb6ee2152f950,cycling,40.2,FOUND,cycling
+61035836646fb6ee2152f950,shooting,42.6,FOUND,shooting
+61035836646fb6ee2152f950,archery,44.6,FOUND,archery
+61035836646fb6ee2152f950,NASCAR,53.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,monster trucking,58.2,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,shot put,67.1,FOUND,shot put
+61035836646fb6ee2152f950,long jumping,70.6,REPLACE,long jump
+61035836646fb6ee2152f950,boat racing,91.2,REPLACE,horse racing
+61035836646fb6ee2152f950,paragliding,94.6,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,swimming,101.4,FOUND,swimming
+61035836646fb6ee2152f950,fishing,106.8,FOUND,fishing
+61035836646fb6ee2152f950,gaming,112.7,REPLACE,grappling
+6595e3b4dc9090390e4edb5f,basketball,5.9,FOUND,basketball
+6595e3b4dc9090390e4edb5f,baseball,6.9,FOUND,baseball
+6595e3b4dc9090390e4edb5f,football,9.5,FOUND,football
+6595e3b4dc9090390e4edb5f,soccer,12.1,FOUND,soccer
+6595e3b4dc9090390e4edb5f,tennis,12.8,FOUND,tennis
+6595e3b4dc9090390e4edb5f,badminton,14.1,FOUND,badminton
+6595e3b4dc9090390e4edb5f,volleyball,15.6,FOUND,volleyball
+6595e3b4dc9090390e4edb5f,snowboarding,21.8,FOUND,snowboarding
+6595e3b4dc9090390e4edb5f,skiing,22.9,FOUND,skiing
+6595e3b4dc9090390e4edb5f,archery,25.6,FOUND,archery
+6595e3b4dc9090390e4edb5f,softball,29.7,REPLACE,football
+6595e3b4dc9090390e4edb5f,cricket,30.9,FOUND,cricket
+6595e3b4dc9090390e4edb5f,pickleball,34.4,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,hockey,51.0,FOUND,hockey
+6595e3b4dc9090390e4edb5f,ice hockey,51.7,FOUND,ice hockey
+6595e3b4dc9090390e4edb5f,field hockey,53.1,REPLACE,ice hockey
+6595e3b4dc9090390e4edb5f,water polo,54.2,FOUND,water polo
+6595e3b4dc9090390e4edb5f,rugby,55.8,FOUND,rugby
+6595e3b4dc9090390e4edb5f,rowing,59.4,FOUND,rowing
+6595e3b4dc9090390e4edb5f,track and field,61.7,FOUND,track and field
+6595e3b4dc9090390e4edb5f,swimming,70.1,FOUND,swimming
+6595e3b4dc9090390e4edb5f,bowling,72.9,REPLACE,rowing
+6595e3b4dc9090390e4edb5f,boxing,73.7,FOUND,boxing
+6595e3b4dc9090390e4edb5f,surfing,79.2,FOUND,surfing
+6595e3b4dc9090390e4edb5f,curling,80.0,FOUND,curling
+6595e3b4dc9090390e4edb5f,figure skating,82.7,FOUND,figure skating
+6595e3b4dc9090390e4edb5f,golf,90.2,FOUND,golf
+6595e3b4dc9090390e4edb5f,table tennis,96.5,FOUND,table tennis
+6595e3b4dc9090390e4edb5f,bodybuilding,104.2,FOUND,bodybuilding
+6595e3b4dc9090390e4edb5f,cycling,108.6,FOUND,cycling
+5c4a428161c51f0001e96b3f,football,2.0,FOUND,football
+5c4a428161c51f0001e96b3f,golf,2.3,FOUND,golf
+5c4a428161c51f0001e96b3f,tennis,2.8,FOUND,tennis
+5c4a428161c51f0001e96b3f,hockey,5.6,FOUND,hockey
+5c4a428161c51f0001e96b3f,roller hockey,7.6,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,soccer,11.1,FOUND,soccer
+5c4a428161c51f0001e96b3f,growing bobsledding,15.0,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,gymnastics,17.6,FOUND,gymnastics
+5c4a428161c51f0001e96b3f,baseball,19.9,FOUND,baseball
+5c4a428161c51f0001e96b3f,racquetball,24.8,REPLACE,basketball
+5c4a428161c51f0001e96b3f,pool,25.9,REPLACE,polo
+5c4a428161c51f0001e96b3f,bowling,27.2,REPLACE,rowing
+5c4a428161c51f0001e96b3f,Disco,31.5,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,yoga,44.7,FOUND,yoga
+5c4a428161c51f0001e96b3f,bodybuilding,47.8,FOUND,bodybuilding
+5c4a428161c51f0001e96b3f,route,50.2,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,mountain climbing,50.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,ice skating,55.9,FOUND,ice skating
+5c4a428161c51f0001e96b3f,figure skating,58.3,FOUND,figure skating
+5c4a428161c51f0001e96b3f,skiing,71.3,FOUND,skiing
+5c4a428161c51f0001e96b3f,snowboarding,72.1,FOUND,snowboarding
+5c4a428161c51f0001e96b3f,ski boarding,72.5,REPLACE,skateboarding
+5c4a428161c51f0001e96b3f,F1 NASCAR,77.8,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,hot dog eating contest,99.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,yachting,105.8,REPLACE,ice yachting
+65512e3cc12f463bc327b7c3,hockey,2.0,FOUND,hockey
+65512e3cc12f463bc327b7c3,basketball,2.7,FOUND,basketball
+65512e3cc12f463bc327b7c3,golf,4.9,FOUND,golf
+65512e3cc12f463bc327b7c3,rugby,7.3,FOUND,rugby
+65512e3cc12f463bc327b7c3,Football,9.2,REPLACE,football
+65512e3cc12f463bc327b7c3,lacrosse,10.2,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,badminton,13.2,FOUND,badminton
+65512e3cc12f463bc327b7c3,tennis,14.1,FOUND,tennis
+65512e3cc12f463bc327b7c3,running,38.8,REPLACE,rowing
+65512e3cc12f463bc327b7c3,weightlifting,44.8,FOUND,weightlifting
+65512e3cc12f463bc327b7c3,cycling,49.3,FOUND,cycling
+65512e3cc12f463bc327b7c3,swimming,53.7,FOUND,swimming
+65512e3cc12f463bc327b7c3,Polo,60.9,REPLACE,polo
+65512e3cc12f463bc327b7c3,baseball,68.2,FOUND,baseball
+65512e3cc12f463bc327b7c3,cricket,72.6,FOUND,cricket
+65512e3cc12f463bc327b7c3,lacrosse,96.2,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,climbing,109.5,FOUND,climbing
+5fc6df58f380620a09116434,football,1.2,FOUND,football
+5fc6df58f380620a09116434,soccer,2.7,FOUND,soccer
+5fc6df58f380620a09116434,basketball,3.3,FOUND,basketball
+5fc6df58f380620a09116434,baseball,3.9,FOUND,baseball
+5fc6df58f380620a09116434,Cricket,4.9,REPLACE,cricket
+5fc6df58f380620a09116434,tennis,5.6,FOUND,tennis
+5fc6df58f380620a09116434,pickleball,6.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,golf,7.7,FOUND,golf
+5fc6df58f380620a09116434,F1,8.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,race cars,9.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,driving,11.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,NASA,12.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,across,12.6,REPLACE,crossfit
+5fc6df58f380620a09116434,squash,13.6,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,paddle,16.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,NBA,20.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,NFL,20.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,stadium,26.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Ashley,27.6,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,coach,28.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,bench,29.0,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Gatorade,30.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,cooler,31.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,fans,31.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,tickets,33.1,REPLACE,cricket
+5fc6df58f380620a09116434,venue,33.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,media,36.5,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,referee,39.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,crazy,43.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,expensive,43.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,International,46.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Olympics,47.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,medals,48.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,championship,49.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,rings,53.5,REPLACE,rowing
+5fc6df58f380620a09116434,sponsorships,56.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,deals,57.5,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,contracts,58.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,uniforms,61.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,pennies,62.8,REPLACE,tennis
+5fc6df58f380620a09116434,cleats,63.5,REPLACE,pilates
+5fc6df58f380620a09116434,stick,64.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,ball,66.5,REPLACE,football
+5fc6df58f380620a09116434,equipment,68.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,bag,69.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,sportsmanship,74.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,competition,77.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,teammates,80.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,friendship,81.5,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,LeBron James,87.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,snowboarding,91.0,FOUND,snowboarding
+5fc6df58f380620a09116434,skiing,93.3,FOUND,skiing
+5fc6df58f380620a09116434,Alpine,94.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,skiing,94.9,FOUND,skiing
+5fc6df58f380620a09116434,racing,95.5,REPLACE,rafting
+5fc6df58f380620a09116434,horse racing,96.9,FOUND,horse racing
+5fc6df58f380620a09116434,animals,98.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,bedding,99.8,REPLACE,bobsledding
+5fc6df58f380620a09116434,gambling,101.5,REPLACE,tumbling
+5fc6df58f380620a09116434,adrenaline,107.7,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,cycling,109.8,FOUND,cycling
+5fc6df58f380620a09116434,steroids,112.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,hydration,116.1,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,recovery,116.9,REPLACE,archery
+5d3cc9010e510a00013df6f6,baseball,3.3,FOUND,baseball
+5d3cc9010e510a00013df6f6,basketball,7.6,FOUND,basketball
+5d3cc9010e510a00013df6f6,football,12.9,FOUND,football
+5d3cc9010e510a00013df6f6,soccer,20.8,FOUND,soccer
+5d3cc9010e510a00013df6f6,Esports,37.0,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,cricket,44.4,FOUND,cricket
+5d3cc9010e510a00013df6f6,tennis,48.4,FOUND,tennis
+5d3cc9010e510a00013df6f6,pickleball,53.8,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,badminton,60.7,FOUND,badminton
+5d3cc9010e510a00013df6f6,softball,68.5,REPLACE,football
+5d3cc9010e510a00013df6f6,hockey,76.5,FOUND,hockey
+5d3cc9010e510a00013df6f6,track and field,83.1,FOUND,track and field
+5d3cc9010e510a00013df6f6,darts,91.9,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,bowling,96.4,REPLACE,rowing
+5d3cc9010e510a00013df6f6,swimming,115.1,FOUND,swimming
+5d3cc9010e510a00013df6f6,gymnastics,117.6,FOUND,gymnastics
+60da4f9aa1ced7efeecca18a,basketball,1.0,FOUND,basketball
+60da4f9aa1ced7efeecca18a,baseball,1.9,FOUND,baseball
+60da4f9aa1ced7efeecca18a,hockey,2.3,FOUND,hockey
+60da4f9aa1ced7efeecca18a,soccer,3.0,FOUND,soccer
+60da4f9aa1ced7efeecca18a,lacrosse,4.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,field hockey,5.6,REPLACE,ice hockey
+60da4f9aa1ced7efeecca18a,volleyball,9.0,FOUND,volleyball
+60da4f9aa1ced7efeecca18a,beach volleyball,10.1,REPLACE,ice volleyball
+60da4f9aa1ced7efeecca18a,ice skating,13.1,FOUND,ice skating
+60da4f9aa1ced7efeecca18a,gymnastics,17.2,FOUND,gymnastics
+60da4f9aa1ced7efeecca18a,BMX,30.6,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,wrestling,33.0,FOUND,wrestling
+60da4f9aa1ced7efeecca18a,cross country track and field,36.3,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,rugby,38.8,FOUND,rugby
+60da4f9aa1ced7efeecca18a,cricket,48.2,FOUND,cricket
+60da4f9aa1ced7efeecca18a,rounders,52.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,kickball,53.4,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,softball,58.1,REPLACE,football
+60da4f9aa1ced7efeecca18a,luge,67.4,FOUND,luge
+60da4f9aa1ced7efeecca18a,bobsled,69.8,REPLACE,bobsledding
+60da4f9aa1ced7efeecca18a,archery,74.5,FOUND,archery
+60da4f9aa1ced7efeecca18a,badminton,77.2,FOUND,badminton
+60da4f9aa1ced7efeecca18a,tennis,80.7,FOUND,tennis
+60da4f9aa1ced7efeecca18a,water polo,94.0,FOUND,water polo
+60da4f9aa1ced7efeecca18a,polo,94.9,FOUND,polo
+60da4f9aa1ced7efeecca18a,rowing,95.9,FOUND,rowing
+60da4f9aa1ced7efeecca18a,fencing,97.7,FOUND,fencing
+60da4f9aa1ced7efeecca18a,stickball,113.3,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,soccer,1.6,FOUND,soccer
+5e8a76b3939b3072dc76fb5c,basketball,2.5,FOUND,basketball
+5e8a76b3939b3072dc76fb5c,baseball,3.1,FOUND,baseball
+5e8a76b3939b3072dc76fb5c,cricket,4.0,FOUND,cricket
+5e8a76b3939b3072dc76fb5c,boxing,6.7,FOUND,boxing
+5e8a76b3939b3072dc76fb5c,UFC,7.5,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,MMA,8.4,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,tennis,10.3,FOUND,tennis
+5e8a76b3939b3072dc76fb5c,foolsports,12.9,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,Esports,13.9,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,football,25.5,FOUND,football
+5e8a76b3939b3072dc76fb5c,wrestling,26.6,FOUND,wrestling
+5e8a76b3939b3072dc76fb5c,chess,31.4,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,powerlifting,42.9,FOUND,powerlifting
+5e8a76b3939b3072dc76fb5c,weightlifting,45.1,FOUND,weightlifting
+5e8a76b3939b3072dc76fb5c,mr. Olympia,45.9,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,the Olympics,47.6,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,sliving,53.3,REPLACE,skiing
+5e8a76b3939b3072dc76fb5c,running,60.1,REPLACE,rowing
+5e8a76b3939b3072dc76fb5c,track and field,62.4,FOUND,track and field
+5e8a76b3939b3072dc76fb5c,relay race,67.8,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,pole vaulting,70.0,REPLACE,pole vault
+5e8a76b3939b3072dc76fb5c,diving,70.9,REPLACE,ice diving
+5e8a76b3939b3072dc76fb5c,discus,106.8,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,football,2.8,FOUND,football
+5f6c102b6ec04317fc9a8127,soccer,5.9,FOUND,soccer
+5f6c102b6ec04317fc9a8127,tennis,6.8,FOUND,tennis
+5f6c102b6ec04317fc9a8127,goal,8.3,REPLACE,golf
+5f6c102b6ec04317fc9a8127,basketball,10.7,FOUND,basketball
+5f6c102b6ec04317fc9a8127,baseball,11.8,FOUND,baseball
+5f6c102b6ec04317fc9a8127,boxing,12.3,FOUND,boxing
+5f6c102b6ec04317fc9a8127,volleyball,13.7,FOUND,volleyball
+5f6c102b6ec04317fc9a8127,swimming,14.8,FOUND,swimming
+5f6c102b6ec04317fc9a8127,hockey,17.6,FOUND,hockey
+5f6c102b6ec04317fc9a8127,tournament in bowling,18.3,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,table tennis,23.6,FOUND,table tennis
+5f6c102b6ec04317fc9a8127,archery,24.5,FOUND,archery
+5f6c102b6ec04317fc9a8127,skiing,27.6,FOUND,skiing
+5f6c102b6ec04317fc9a8127,softball,38.7,REPLACE,football
+5f6c102b6ec04317fc9a8127,kickball,42.7,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,rugby,53.5,FOUND,rugby
+5f6c102b6ec04317fc9a8127,skateboarding,65.8,FOUND,skateboarding
+5f6c102b6ec04317fc9a8127,bobsleigh,78.0,REPLACE,bobsledding
+5f6c102b6ec04317fc9a8127,cycling,83.0,FOUND,cycling
+5f6c102b6ec04317fc9a8127,handball,90.1,REPLACE,baseball
+5f6c102b6ec04317fc9a8127,surfing,100.1,FOUND,surfing
+5f6c102b6ec04317fc9a8127,weightlifting,106.1,FOUND,weightlifting
+5e7fefe06c12706d47e35211,basketball,0.0,FOUND,basketball
+5e7fefe06c12706d47e35211,hockey,2.9,FOUND,hockey
+5e7fefe06c12706d47e35211,soccer,3.6,FOUND,soccer
+5e7fefe06c12706d47e35211,football,5.1,FOUND,football
+5e7fefe06c12706d47e35211,water pool,6.3,REPLACE,water polo
+5e7fefe06c12706d47e35211,running,9.3,REPLACE,rowing
+5e7fefe06c12706d47e35211,Pilates,12.3,REPLACE,pilates
+5e7fefe06c12706d47e35211,cheerleading,15.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Gymnastics,18.4,REPLACE,gymnastics
+5e7fefe06c12706d47e35211,shotput,25.2,REPLACE,shot put
+5e7fefe06c12706d47e35211,dancing,38.9,REPLACE,ice dancing
+5e7fefe06c12706d47e35211,Turtles,53.4,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Joplin,56.5,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,volleyball,58.7,FOUND,volleyball
+5e7fefe06c12706d47e35211,swimming,71.1,FOUND,swimming
+5e7fefe06c12706d47e35211,diving,72.1,REPLACE,ice diving
+5e7fefe06c12706d47e35211,wrestling,77.2,FOUND,wrestling
+5e7fefe06c12706d47e35211,cycling,82.5,FOUND,cycling
+5e7fefe06c12706d47e35211,boxing,97.0,FOUND,boxing
+5e7fefe06c12706d47e35211,golf,97.9,FOUND,golf
+5e7fefe06c12706d47e35211,karate,98.5,FOUND,karate
+5e7fefe06c12706d47e35211,tennis,100.4,FOUND,tennis
+5e7fefe06c12706d47e35211,lacrosse,111.6,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,skiing,118.2,FOUND,skiing
+5e7fefe06c12706d47e35211,snowboard,119.1,REPLACE,snowboarding
+60fcf1a04c245326d05076e0,baseball,1.6,FOUND,baseball
+60fcf1a04c245326d05076e0,basketball,2.5,FOUND,basketball
+60fcf1a04c245326d05076e0,football,3.1,FOUND,football
+60fcf1a04c245326d05076e0,soccer,4.2,FOUND,soccer
+60fcf1a04c245326d05076e0,volleyball,11.0,FOUND,volleyball
+60fcf1a04c245326d05076e0,softball,11.8,REPLACE,football
+60fcf1a04c245326d05076e0,Cricket,14.3,REPLACE,cricket
+60fcf1a04c245326d05076e0,curling,14.9,FOUND,curling
+60fcf1a04c245326d05076e0,snowboarding,19.8,FOUND,snowboarding
+60fcf1a04c245326d05076e0,skiing,20.7,FOUND,skiing
+60fcf1a04c245326d05076e0,swimming,21.4,FOUND,swimming
+60fcf1a04c245326d05076e0,ice skating,22.2,FOUND,ice skating
+60fcf1a04c245326d05076e0,Javelin,31.8,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,long jump,32.8,FOUND,long jump
+60fcf1a04c245326d05076e0,high jump,39.3,FOUND,high jump
+60fcf1a04c245326d05076e0,diving,56.3,REPLACE,ice diving
+60fcf1a04c245326d05076e0,synchronized swimming,64.2,FOUND,synchronized swimming
+60fcf1a04c245326d05076e0,weightlifting,72.7,FOUND,weightlifting
+60fcf1a04c245326d05076e0,running,81.4,REPLACE,rowing
+5ed9311e1a69d449577bb8cf,soccer,2.7,FOUND,soccer
+5ed9311e1a69d449577bb8cf,football,4.3,FOUND,football
+5ed9311e1a69d449577bb8cf,tennis,5.0,FOUND,tennis
+5ed9311e1a69d449577bb8cf,rugby,6.1,FOUND,rugby
+5ed9311e1a69d449577bb8cf,darts,7.1,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,bowling,9.1,REPLACE,rowing
+5ed9311e1a69d449577bb8cf,curling track,14.5,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,javelin throw,19.7,FOUND,javelin throw
+5ed9311e1a69d449577bb8cf,water polo,26.6,FOUND,water polo
+5ed9311e1a69d449577bb8cf,hockey,27.6,FOUND,hockey
+5ed9311e1a69d449577bb8cf,baseball,29.9,FOUND,baseball
+5ed9311e1a69d449577bb8cf,football,44.7,FOUND,football
+5ed9311e1a69d449577bb8cf,Futsal,49.2,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,volleyball,51.1,FOUND,volleyball
+5ed9311e1a69d449577bb8cf,racing,55.4,REPLACE,rafting
+5ed9311e1a69d449577bb8cf,F1 racing,62.1,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,horse racing,109.6,FOUND,horse racing
+5ed9311e1a69d449577bb8cf,Billiards,117.2,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,soccer,2.0,FOUND,soccer
+5c1942e200849900010afdcd,football,3.7,FOUND,football
+5c1942e200849900010afdcd,rugby,4.4,FOUND,rugby
+5c1942e200849900010afdcd,baseball,5.6,FOUND,baseball
+5c1942e200849900010afdcd,Cricket,6.8,REPLACE,cricket
+5c1942e200849900010afdcd,tennis,7.3,FOUND,tennis
+5c1942e200849900010afdcd,pickleball,8.1,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,softball,11.4,REPLACE,football
+5c1942e200849900010afdcd,volleyball,12.2,FOUND,volleyball
+5c1942e200849900010afdcd,curling,13.2,FOUND,curling
+5c1942e200849900010afdcd,recent,16.4,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,track,17.2,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,swimming,18.1,FOUND,swimming
+5c1942e200849900010afdcd,ski,21.1,REPLACE,skiing
+5c1942e200849900010afdcd,snowboard,21.6,REPLACE,snowboarding
+5c1942e200849900010afdcd,skateboarding,23.6,FOUND,skateboarding
+5c1942e200849900010afdcd,water skating,27.6,REPLACE,ice skating
+5c1942e200849900010afdcd,voting,28.6,REPLACE,shooting
+5c1942e200849900010afdcd,surfing,31.4,FOUND,surfing
+5c1942e200849900010afdcd,skydiving,43.4,REPLACE,skiing
+5c1942e200849900010afdcd,basketball,48.7,FOUND,basketball
+5c1942e200849900010afdcd,hockey,50.4,FOUND,hockey
+5c1942e200849900010afdcd,ice hockey,51.0,FOUND,ice hockey
+5c1942e200849900010afdcd,badminton,54.9,FOUND,badminton
+5c1942e200849900010afdcd,lacrosse,88.6,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,frisbee,95.8,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,golf,96.4,FOUND,golf
+5c1942e200849900010afdcd,hunting,103.3,REPLACE,shooting

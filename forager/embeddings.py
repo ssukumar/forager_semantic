@@ -34,7 +34,7 @@ class embeddings:
         pd.DataFrame(self.words).to_csv(path_for_lexical_data + '/vocab.csv', index=False, header=['vocab'])
 
         # load USE model
-        module_url = "https://tfhub.dev/google/universal-sentence-encoder/4" #@param ["https://tfhub.dev/google/universal-sentence-encoder/4", "https://tfhub.dev/google/universal-sentence-encoder-large/5"]
+        module_url = "https://tfhub.dev/google/universal-sentence-encoder-large/5" # "https://tfhub.dev/google/universal-sentence-encoder/4" #@param ["https://tfhub.dev/google/universal-sentence-encoder/4", "https://tfhub.dev/google/universal-sentence-encoder-large/5"]
         model = hub.load(module_url)
         print ("module %s loaded" % module_url)
         

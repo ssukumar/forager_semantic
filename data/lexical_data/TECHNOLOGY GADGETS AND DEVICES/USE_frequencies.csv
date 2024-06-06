@@ -2,13 +2,18 @@
 3d printer,4.577652619865689,37814.0
 action cam,3.4214393902200495,2639.0
 action camera,3.6306312440205,4272.0
+augmented reality (ar) glasses,0.0001,1.0
 biometric door lock,1.724275869600789,53.0
 biometric scanner,3.3541084391474008,2260.0
+bluetooth car adapter,0.0001,1.0
+bluetooth car speakerphone,0.0001,1.0
+bluetooth car stereo,0.0001,1.0
 bluetooth earphones,2.3541084391474008,226.0
 bluetooth receiver,3.1922886125681202,1557.0
 bluetooth speaker,3.3857849588433355,2431.0
 dashcam,3.1550322287909704,1429.0
 digital camera,5.73060787707085,537784.0
+digital nomad backpack,0.0001,1.0
 digital pen,4.11149774880803,12927.0
 digital photo frame,3.4771212547196626,3000.0
 digital voice recorder,3.947776708464738,8867.0
@@ -16,21 +21,38 @@ drone,6.325427399844945,2115570.0
 drone camera,3.003029470553618,1007.0
 dslr camera,3.8755821043278855,7509.0
 e-reader,4.538573733806856,34560.0
+electric aroma diffuser,0.0001,1.0
+electric aromatherapy diffuser,0.0001,1.0
 electric bike,3.6952189189051508,4957.0
 electric fly swatter,1.8129133566428555,65.0
 electric food dehydrator,2.7708520116421442,590.0
+electric handheld massager,0.0001,1.0
 electric kettle,4.609754439128856,40715.0
 electric knife sharpener,3.126780577012009,1339.0
+electric mosquito trap,0.0001,1.0
+electric pet feeder,0.0001,1.0
+electric pet feeder with timer,0.0001,1.0
+electric pet grooming tool,0.0001,1.0
+electric pet hair remover,0.0001,1.0
+electric pet nail trimmer,0.0001,1.0
+electric pet water fountain,0.0001,1.0
 electric pressure cooker,3.7890163267933747,6152.0
+electric ride-on toy,0.0001,1.0
 electric scooter,3.889189612047073,7748.0
+electric scooter with app control,0.0001,1.0
 electric skateboard,2.2405492482826,174.0
+electric standing desk,0.0001,1.0
+electric standing desk converter,0.0001,1.0
 electric toothbrush,4.516403148447403,32840.0
+electric wine opener,0.0001,1.0
 electronic dartboard,2.3944516808262164,248.0
 electronic drum kit,2.9689496809813427,931.0
 electronic lock,4.286434013402093,19339.0
 electronic whiteboard,3.9607560909017727,9136.0
+fitness armband,0.0001,1.0
 fitness band,2.833784374656479,682.0
 fitness monitor,2.781755374652469,605.0
+fitness smartwatch,0.0001,1.0
 fitness tracker,3.599773939146388,3979.0
 fitness treadmill,2.012837224705172,103.0
 gaming chair,2.833147111912785,681.0
@@ -38,7 +60,10 @@ gaming console,3.950900089366387,8931.0
 gaming controller,2.6263403673750423,423.0
 gaming headset,2.509202522331103,323.0
 gaming keyboard,2.606381365110605,404.0
+gaming keypad,0.0001,1.0
 gaming mouse,2.597695185925512,396.0
+gaming mouse pad,0.0001,1.0
+gaming racing wheel,0.0001,1.0
 gps device,4.505556938663822,32030.0
 graphics tablet,4.563326800389584,36587.0
 handheld console,3.1215598441875008,1323.0
@@ -54,17 +79,31 @@ midi controller,4.359797551034401,22898.0
 mini projector,2.3521825181113627,225.0
 multi-function printer,2.629409599102719,426.0
 noise-cancelling headphones,3.2140486794119414,1637.0
+personal gps tracker,0.0001,1.0
 pocket projector,2.6263403673750423,423.0
 portable breathalyzer,2.741151598851785,551.0
+portable car air purifier,0.0001,1.0
+portable car jump starter,0.0001,1.0
 portable car vacuum cleaner,1.8388490907372552,69.0
 portable charger,3.1687920203141817,1475.0
 portable dvd player,3.881213416255019,7607.0
+portable espresso maker,0.0001,1.0
 portable game console,2.6074550232146687,405.0
+portable garment steamer,0.0001,1.0
+portable handheld vacuum,0.0001,1.0
 portable karaoke machine,2.0530784434834195,113.0
+portable massage gun,0.0001,1.0
 portable oxygen concentrator,3.1280760126687155,1343.0
+portable pet tracker,0.0001,1.0
 portable projector,3.971461405024587,9364.0
 portable scanner,3.667359546183087,4649.0
+portable security alarm,0.0001,1.0
 portable solar generator,1.662757831681574,46.0
+portable solar panel charger,0.0001,1.0
+portable tire inflator,0.0001,1.0
+portable tire pressure gauge,0.0001,1.0
+portable uv sanitizer,0.0001,1.0
+portable water flosser,0.0001,1.0
 portable water purifier,2.8382192219076257,689.0
 power bank,3.7044936970092985,5064.0
 projector,6.537010933512441,3443586.0
@@ -75,19 +114,50 @@ satellite navigation system,4.515675188002534,32785.0
 self-balancing scooter,1.9777236052888478,95.0
 selfie stick,3.433929765608464,2716.0
 sleep tracker,2.4885507165004443,308.0
+smart air purifier,0.0001,1.0
+smart air quality monitor,0.0001,1.0
+smart alcohol breathalyzer,0.0001,1.0
+smart baby monitor,0.0001,1.0
+smart bike helmet,0.0001,1.0
+smart bike lock,0.0001,1.0
 smart bulb,2.113943352306837,130.0
+smart curtain system,0.0001,1.0
+smart fitness watch,0.0001,1.0
+smart food dispenser,0.0001,1.0
+smart garden sensor,0.0001,1.0
+smart garden sprinkler,0.0001,1.0
 smart glasses,3.827885982789856,6728.0
+smart health tracker,0.0001,1.0
 smart home device,2.4216039268698313,264.0
+smart home hub,0.0001,1.0
+smart hydration reminder,0.0001,1.0
 smart irrigation system,2.290034611362518,195.0
+smart kitchen appliance,0.0001,1.0
+smart kitchen scale,0.0001,1.0
+smart kitchen thermometer,0.0001,1.0
 smart lock,3.1832698436828046,1525.0
 smart luggage,2.9745116927373285,943.0
+smart luggage tracker,0.0001,1.0
 smart mirror,2.824776462475546,668.0
+smart mosquito repellent,0.0001,1.0
 smart pen,3.243534101832062,1752.0
+smart pet collar,0.0001,1.0
+smart pet feeder,0.0001,1.0
+smart plant pot,0.0001,1.0
 smart plug,3.0813473078041325,1206.0
+smart posture corrector,0.0001,1.0
 smart scale,2.7234556720351857,529.0
 smart shower,4.143919938385837,13929.0
+smart sleep mask,0.0001,1.0
+smart sunscreen dispenser,0.0001,1.0
 smart thermostat,3.3328422669943514,2152.0
 smart tv,4.000997730357794,10023.0
+smart uv sanitizer wand,0.0001,1.0
+smart uv-c disinfection box,0.0001,1.0
+smart water bottle,0.0001,1.0
+smart water bottle holder,0.0001,1.0
+smart water purifier,0.0001,1.0
+smart window blinds,0.0001,1.0
 smartphone,5.867337828362073,736780.0
 smartwatch,4.194014546374698,15632.0
 solar charger,3.6196150057428063,4165.0
@@ -97,17 +167,52 @@ streaming device,2.952792443044092,897.0
 tablet,6.954257950746393,9000320.0
 thermal imaging camera,3.865163219506086,7331.0
 thermal printer,4.543521730675292,34956.0
+usb,6.139316026968232,1378212.0
 usb flash drive,4.8216052249491685,66314.0
 usb hub,4.1505415413740865,14143.0
 usb microphone,3.3246939138617746,2112.0
+usb-c hub,0.0001,1.0
 video baby monitor,2.635483746814912,432.0
 video doorbell,2.1367205671564067,137.0
+video game capture card,0.0001,1.0
+virtual assistant device,0.0001,1.0
+virtual reality (vr) headset,0.0001,1.0
+vr motion controller,0.0001,1.0
+vr treadmill,0.0001,1.0
 wearable activity tracker,1.9590413923210936,91.0
+wearable air purifier,0.0001,1.0
+wearable blood glucose monitor,0.0001,1.0
+wearable blood pressure monitor,0.0001,1.0
+wearable calorie tracker,0.0001,1.0
 wearable camera,3.356599435724971,2273.0
+wearable ecg monitor,0.0001,1.0
 wearable fitness tracker,2.184691430817599,153.0
+wearable gps tracker,0.0001,1.0
+wearable hydration monitor,0.0001,1.0
+wearable hydration tracker,0.0001,1.0
+wearable menstrual tracker,0.0001,1.0
+wearable mosquito repellent,0.0001,1.0
+wearable oxygen monitor,0.0001,1.0
+wearable pain relief device,0.0001,1.0
+wearable personal safety device,0.0001,1.0
+wearable pollution monitor,0.0001,1.0
+wearable posture trainer,0.0001,1.0
+wearable sleep aid,0.0001,1.0
+wearable sleep tracker,0.0001,1.0
+wearable stress tracker,0.0001,1.0
 wearable technology,4.298088569391382,19865.0
+wearable temperature monitor,0.0001,1.0
+wearable translator,0.0001,1.0
+wearable uv sterilizer,0.0001,1.0
+wearable uv tracker,0.0001,1.0
+wireless backup camera,0.0001,1.0
+wireless barcode scanner,0.0001,1.0
+wireless bike computer,0.0001,1.0
+wireless charging car mount,0.0001,1.0
+wireless charging dock,0.0001,1.0
 wireless charging pad,2.0453229787866576,111.0
 wireless earbuds,2.571708831808688,373.0
+wireless hdmi transmitter,0.0001,1.0
 wireless headphones,3.804275767129094,6372.0
 wireless keyboard,4.127590677007958,13415.0
 wireless mouse,3.910250772300148,8133.0

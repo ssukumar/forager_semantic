@@ -1,0 +1,211 @@
+SID,entry,timepoint,evaluation,replacement
+61035836646fb6ee2152f950,food,4.0,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,seeds,5.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,roses,6.8,REPLACE,rose
+61035836646fb6ee2152f950,Lilies,8.3,REPLACE,iris
+61035836646fb6ee2152f950,tulips,9.5,REPLACE,tulip
+61035836646fb6ee2152f950,peonies,13.3,REPLACE,peony
+61035836646fb6ee2152f950,daffodils,21.2,REPLACE,daffodil
+61035836646fb6ee2152f950,sunflower,22.1,FOUND,sunflower
+61035836646fb6ee2152f950,bouquet,27.9,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,stems,30.9,REPLACE,asters
+61035836646fb6ee2152f950,thorns,33.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,fertilizer,36.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,petal,49.2,REPLACE,petunia
+61035836646fb6ee2152f950,bloom,53.4,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,arrangement,64.3,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,baby's breath,81.9,FOUND,baby's breath
+61035836646fb6ee2152f950,lavender,114.5,FOUND,lavender
+5e8a76b3939b3072dc76fb5c,daisies,1.5,REPLACE,daisy
+5e8a76b3939b3072dc76fb5c,Lilies,2.9,REPLACE,iris
+5e8a76b3939b3072dc76fb5c,tulips,3.9,REPLACE,tulip
+5e8a76b3939b3072dc76fb5c,sunflowers,7.0,REPLACE,sunflower
+5e8a76b3939b3072dc76fb5c,Venus flytrap,11.4,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,mint,16.0,REPLACE,catmint
+5e8a76b3939b3072dc76fb5c,dandelions,21.0,EXCLUDE,EXCLUDE
+5e8a76b3939b3072dc76fb5c,roses,28.4,REPLACE,rose
+5e8a76b3939b3072dc76fb5c,violets,32.7,REPLACE,violet
+5e8a76b3939b3072dc76fb5c,clovers,57.2,REPLACE,clover
+5c1942e200849900010afdcd,Rose,1.1,REPLACE,rose
+5c1942e200849900010afdcd,Violet,2.7,REPLACE,violet
+5c1942e200849900010afdcd,sunflower,3.6,FOUND,sunflower
+5c1942e200849900010afdcd,daffodil,4.9,FOUND,daffodil
+5c1942e200849900010afdcd,Tiger Lily,5.6,REPLACE,tiger lily
+5c1942e200849900010afdcd,water lily,6.5,FOUND,water lily
+5c1942e200849900010afdcd,cherry blossom,10.7,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,apple blossom,11.6,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,banana flower,12.3,REPLACE,blanket flower
+5c1942e200849900010afdcd,Morning Glory,18.9,REPLACE,morning glory
+5c1942e200849900010afdcd,canna lily,21.8,FOUND,canna lily
+5c1942e200849900010afdcd,bird of paradise,24.9,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,tulip,39.4,FOUND,tulip
+5c1942e200849900010afdcd,dandelion,43.8,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,chrysanthemum,51.1,FOUND,chrysanthemum
+5c1942e200849900010afdcd,heliconia,62.7,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,Magnolia,67.4,REPLACE,magnolia
+5c1942e200849900010afdcd,apple blossom,104.2,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Lilies,1.9,REPLACE,iris
+5c4a428161c51f0001e96b3f,tulips,2.5,REPLACE,tulip
+5c4a428161c51f0001e96b3f,roses,4.4,REPLACE,rose
+5c4a428161c51f0001e96b3f,dandelion,6.7,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,cowbell,9.4,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,lavender,17.0,FOUND,lavender
+5c4a428161c51f0001e96b3f,sunflower,18.9,FOUND,sunflower
+5c4a428161c51f0001e96b3f,saffron,29.4,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,cherry blossom,37.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Citrus flowers,44.2,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Apple flowers,47.7,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,bluebells,57.1,REPLACE,bluebell
+5c4a428161c51f0001e96b3f,wildflowers,66.6,REPLACE,windflower
+5c4a428161c51f0001e96b3f,Wild Roses,67.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,daffodils,77.0,REPLACE,daffodil
+5c4a428161c51f0001e96b3f,State flowers,106.9,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,daffodils,0.7,REPLACE,daffodil
+60fcf1a04c245326d05076e0,daisies,2.6,REPLACE,daisy
+60fcf1a04c245326d05076e0,sunflowers,3.6,REPLACE,sunflower
+60fcf1a04c245326d05076e0,geraniums,6.1,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,Papi,8.4,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,Rose,14.2,REPLACE,rose
+60fcf1a04c245326d05076e0,Lily,15.2,REPLACE,lily
+60fcf1a04c245326d05076e0,cherry,21.1,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,blossom,21.7,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,chrysanthemum,27.3,FOUND,chrysanthemum
+60fcf1a04c245326d05076e0,water lily,39.9,FOUND,water lily
+60fcf1a04c245326d05076e0,moms,48.5,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,baby's breath,71.3,FOUND,baby's breath
+60fcf1a04c245326d05076e0,Blue Bell,76.0,REPLACE,bluebell
+60fcf1a04c245326d05076e0,daffodil,93.0,FOUND,daffodil
+60fcf1a04c245326d05076e0,lavender,111.9,FOUND,lavender
+5e7fefe06c12706d47e35211,lilies,2.0,REPLACE,lily
+5e7fefe06c12706d47e35211,daisies,3.3,REPLACE,daisy
+5e7fefe06c12706d47e35211,sunflowers,5.9,REPLACE,sunflower
+5e7fefe06c12706d47e35211,baby's breath,8.8,FOUND,baby's breath
+5e7fefe06c12706d47e35211,Magnolias,12.8,REPLACE,magnolia
+5e7fefe06c12706d47e35211,cactus flowers,23.9,REPLACE,cactus flower
+5e7fefe06c12706d47e35211,roses,25.8,REPLACE,rose
+5e7fefe06c12706d47e35211,tulips,27.5,REPLACE,tulip
+5e7fefe06c12706d47e35211,dandelions,33.8,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,cardamom,38.7,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Queens Anne's,68.3,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Lace,70.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Daisy,0.8,REPLACE,daisy
+5fc6df58f380620a09116434,daffodil,1.8,FOUND,daffodil
+5fc6df58f380620a09116434,Rose,2.4,REPLACE,rose
+5fc6df58f380620a09116434,peony,3.2,FOUND,peony
+5fc6df58f380620a09116434,stem,4.7,REPLACE,aster
+5fc6df58f380620a09116434,leaf,6.1,REPLACE,azalea
+5fc6df58f380620a09116434,tollup,7.9,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,baby's breath,15.0,FOUND,baby's breath
+5fc6df58f380620a09116434,moms,23.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Orchard,26.2,REPLACE,orchid
+5fc6df58f380620a09116434,pedal,29.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,pollen,31.5,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,florist,36.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,vase,41.4,REPLACE,aster
+5fc6df58f380620a09116434,gift,43.3,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,romantic,46.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Valintines day,48.2,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,recital,49.8,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,lavender,71.2,FOUND,lavender
+5ed9311e1a69d449577bb8cf,Rose's,2.8,REPLACE,rose
+5ed9311e1a69d449577bb8cf,dandelions,3.8,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,tulips,7.3,REPLACE,tulip
+5ed9311e1a69d449577bb8cf,lilies,11.6,REPLACE,lily
+5ed9311e1a69d449577bb8cf,daffodils,29.6,REPLACE,daffodil
+5ed9311e1a69d449577bb8cf,sunflowers,33.3,REPLACE,sunflower
+5ed9311e1a69d449577bb8cf,daisies,40.2,REPLACE,daisy
+5ed9311e1a69d449577bb8cf,Orchards,42.9,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,cactus,58.0,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,Lotus,66.1,EXCLUDE,EXCLUDE
+5ed9311e1a69d449577bb8cf,lavender,68.0,FOUND,lavender
+60da4f9aa1ced7efeecca18a,Dahlia,1.5,REPLACE,dahlia
+60da4f9aa1ced7efeecca18a,chrysanthemum,2.3,FOUND,chrysanthemum
+60da4f9aa1ced7efeecca18a,Rose,5.7,REPLACE,rose
+60da4f9aa1ced7efeecca18a,petunia,6.7,FOUND,petunia
+60da4f9aa1ced7efeecca18a,marigold,8.0,FOUND,marigold
+60da4f9aa1ced7efeecca18a,Forsythia,16.1,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,geranium,17.2,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,flolks,20.4,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,gardenia,24.5,FOUND,gardenia
+60da4f9aa1ced7efeecca18a,Daisy,49.9,REPLACE,daisy
+60da4f9aa1ced7efeecca18a,hyacinth,52.1,FOUND,hyacinth
+60da4f9aa1ced7efeecca18a,Willie,57.8,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,lilac,72.5,REPLACE,lily
+60da4f9aa1ced7efeecca18a,peony,99.2,FOUND,peony
+65512e3cc12f463bc327b7c3,Rose,0.6,REPLACE,rose
+65512e3cc12f463bc327b7c3,carnation,4.9,FOUND,carnation
+65512e3cc12f463bc327b7c3,Daisy,7.5,REPLACE,daisy
+65512e3cc12f463bc327b7c3,sunflower,13.5,FOUND,sunflower
+65512e3cc12f463bc327b7c3,tulip,19.7,FOUND,tulip
+65512e3cc12f463bc327b7c3,daffodil,23.6,FOUND,daffodil
+65512e3cc12f463bc327b7c3,marigold,27.0,FOUND,marigold
+65512e3cc12f463bc327b7c3,Orchid,38.3,REPLACE,orchid
+65512e3cc12f463bc327b7c3,Lily,43.9,REPLACE,lily
+65512e3cc12f463bc327b7c3,Azalea,49.8,REPLACE,azalea
+65512e3cc12f463bc327b7c3,carnation,57.8,FOUND,carnation
+65512e3cc12f463bc327b7c3,marigold,60.3,FOUND,marigold
+65512e3cc12f463bc327b7c3,violet,64.1,FOUND,violet
+65512e3cc12f463bc327b7c3,geranium,72.3,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,petunia,80.4,FOUND,petunia
+65512e3cc12f463bc327b7c3,buttercup,89.0,EXCLUDE,EXCLUDE
+65512e3cc12f463bc327b7c3,pansy,94.8,FOUND,pansy
+65778c02cde55736bb830eca,tulips,1.8,REPLACE,tulip
+65778c02cde55736bb830eca,poppies,2.9,REPLACE,poppy
+65778c02cde55736bb830eca,Lillies,4.0,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,roses,4.8,REPLACE,rose
+65778c02cde55736bb830eca,sunflowers,9.6,REPLACE,sunflower
+65778c02cde55736bb830eca,Dandelions,16.7,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,black-eyed Susans,69.6,REPLACE,black-eyed susan
+65778c02cde55736bb830eca,birds of paradise,71.1,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,baby's breath,82.1,FOUND,baby's breath
+65778c02cde55736bb830eca,Peonies,110.6,EXCLUDE,EXCLUDE
+65778c02cde55736bb830eca,orchids,113.1,REPLACE,orchid
+65778c02cde55736bb830eca,daisies,118.3,REPLACE,daisy
+5f6c102b6ec04317fc9a8127,tulips,2.8,REPLACE,tulip
+5f6c102b6ec04317fc9a8127,daisies,3.9,REPLACE,daisy
+5f6c102b6ec04317fc9a8127,roses,7.2,REPLACE,rose
+5f6c102b6ec04317fc9a8127,sunflowers,9.3,REPLACE,sunflower
+5f6c102b6ec04317fc9a8127,violets,12.4,REPLACE,violet
+5f6c102b6ec04317fc9a8127,poppies,21.1,REPLACE,poppy
+5f6c102b6ec04317fc9a8127,lavender,28.0,FOUND,lavender
+5f6c102b6ec04317fc9a8127,daffodil,42.4,FOUND,daffodil
+5f6c102b6ec04317fc9a8127,Lotus,54.8,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,cherry,58.8,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,blossom,59.4,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,Orchard,87.0,REPLACE,orchid
+6595e3b4dc9090390e4edb5f,Roses,6.4,REPLACE,rose
+6595e3b4dc9090390e4edb5f,Daisies,7.6,REPLACE,asters
+6595e3b4dc9090390e4edb5f,Lilies,9.6,REPLACE,iris
+6595e3b4dc9090390e4edb5f,Peonies,10.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,lavender,13.0,FOUND,lavender
+6595e3b4dc9090390e4edb5f,sunflower,15.6,FOUND,sunflower
+6595e3b4dc9090390e4edb5f,daffodil,18.0,FOUND,daffodil
+6595e3b4dc9090390e4edb5f,Irises,21.5,REPLACE,rose
+6595e3b4dc9090390e4edb5f,Margold,22.5,REPLACE,marigold
+6595e3b4dc9090390e4edb5f,Orchid,23.0,REPLACE,orchid
+6595e3b4dc9090390e4edb5f,Lilac,26.3,REPLACE,viola
+6595e3b4dc9090390e4edb5f,carnation,29.4,FOUND,carnation
+6595e3b4dc9090390e4edb5f,tulips,37.3,REPLACE,tulip
+6595e3b4dc9090390e4edb5f,cherry blossoms,39.2,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Plumeria,45.8,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,gardenia,48.9,FOUND,gardenia
+6595e3b4dc9090390e4edb5f,Lotus,56.9,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,honeysuckle,61.5,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Blue Bells,65.0,REPLACE,bluebell
+6595e3b4dc9090390e4edb5f,hydrangea,67.6,FOUND,hydrangea
+6595e3b4dc9090390e4edb5f,Poppy,70.2,REPLACE,poppy
+6595e3b4dc9090390e4edb5f,Jasmine,79.0,REPLACE,jasmine
+6595e3b4dc9090390e4edb5f,dahlias,88.2,REPLACE,dahlia
+6595e3b4dc9090390e4edb5f,Hibiscus,99.3,REPLACE,hibiscus
+6595e3b4dc9090390e4edb5f,forget-me-not,106.6,FOUND,forget-me-not
+6595e3b4dc9090390e4edb5f,snowdrops,107.7,REPLACE,snowdrop
+6595e3b4dc9090390e4edb5f,bird of paradise,115.3,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,dandelions,4.4,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,roses,10.1,REPLACE,rose
+5d3cc9010e510a00013df6f6,sunflowers,30.0,REPLACE,sunflower
+5d3cc9010e510a00013df6f6,Venus,54.7,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,flytrap,55.4,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,tulip,73.7,FOUND,tulip
+5d3cc9010e510a00013df6f6,Lily,88.1,REPLACE,lily
+5d3cc9010e510a00013df6f6,Daisy,95.8,REPLACE,daisy
+5d3cc9010e510a00013df6f6,chrysanthemum,102.8,FOUND,chrysanthemum

@@ -24,7 +24,7 @@ def get_frequencies(embeddings,path_for_lexical_data):
     items_and_counts = []
     for item in tqdm(items):
         query = item.replace(" ", "+")
-        print("QUERY = "+query)
+        print("QUERY = "+query)d
         # encoded_query = urllib.parse.quote(new)'
         base_url = 'https://api.ngrams.dev'
         corpus = 'eng'
@@ -43,11 +43,15 @@ def get_frequencies(embeddings,path_for_lexical_data):
 
         if 'ngrams' in response:
             if not response['ngrams']:
-                continue
+                count = 0
+                
             else:
                 count = response['ngrams'][0]['absTotalMatchCount']
-                items_and_counts.append((item, count))
-       
+            
+        else:
+            count = 0
+            
+        items_and_counts.append((item, count))
     
     item_counts_df = pd.DataFrame(items_and_counts, columns=['item','count'])
     item_counts_df['count'] = item_counts_df['count'].astype(float)

@@ -1,0 +1,567 @@
+SID,entry,timepoint,evaluation,replacement
+5e8a76b3939b3072dc76fb5c,United States,2.5,REPLACE,united states
+5e8a76b3939b3072dc76fb5c,Canada,3.8,REPLACE,canada
+5e8a76b3939b3072dc76fb5c,Mexico,4.5,REPLACE,mexico
+5e8a76b3939b3072dc76fb5c,Brazil,4.7,REPLACE,brazil
+5e8a76b3939b3072dc76fb5c,Chile,5.9,REPLACE,chile
+5e8a76b3939b3072dc76fb5c,Argentina,9.5,REPLACE,argentina
+5e8a76b3939b3072dc76fb5c,Venezuela,12.2,REPLACE,venezuela
+5e8a76b3939b3072dc76fb5c,Salvador,14.2,REPLACE,el salvador
+5e8a76b3939b3072dc76fb5c,Honduras,17.1,REPLACE,honduras
+5e8a76b3939b3072dc76fb5c,Greenland,19.7,REPLACE,greenland
+5e8a76b3939b3072dc76fb5c,Iceland,20.5,REPLACE,iceland
+5e8a76b3939b3072dc76fb5c,artika,22.0,REPLACE,latvia
+5e8a76b3939b3072dc76fb5c,Australia,22.5,REPLACE,australia
+5e8a76b3939b3072dc76fb5c,England,34.6,REPLACE,england
+5e8a76b3939b3072dc76fb5c,Germany,37.0,REPLACE,germany
+5e8a76b3939b3072dc76fb5c,France,37.4,REPLACE,france
+5e8a76b3939b3072dc76fb5c,Italy,38.2,REPLACE,italy
+5e8a76b3939b3072dc76fb5c,Spain,38.8,REPLACE,spain
+5e8a76b3939b3072dc76fb5c,Ireland,43.9,REPLACE,ireland
+5e8a76b3939b3072dc76fb5c,Scotland,44.6,REPLACE,scotland
+5e8a76b3939b3072dc76fb5c,Egypt,52.2,REPLACE,egypt
+5e8a76b3939b3072dc76fb5c,Nigeria,61.9,REPLACE,nigeria
+5e8a76b3939b3072dc76fb5c,Chad,62.9,REPLACE,chad
+5e8a76b3939b3072dc76fb5c,South Africa,63.8,REPLACE,south africa
+5e8a76b3939b3072dc76fb5c,Sudan,66.2,REPLACE,sudan
+5e8a76b3939b3072dc76fb5c,Madagascar,67.0,REPLACE,madagascar
+5e8a76b3939b3072dc76fb5c,Japan,72.9,REPLACE,japan
+5e8a76b3939b3072dc76fb5c,China,73.7,REPLACE,china
+5e8a76b3939b3072dc76fb5c,Vietnam,76.5,REPLACE,vietnam
+5e8a76b3939b3072dc76fb5c,South Korea,77.5,REPLACE,south korea
+5e8a76b3939b3072dc76fb5c,North Korea,79.1,REPLACE,north korea
+5e8a76b3939b3072dc76fb5c,Thailand,89.7,REPLACE,thailand
+5e8a76b3939b3072dc76fb5c,Russia,102.3,REPLACE,russia
+5e8a76b3939b3072dc76fb5c,Ukraine,104.1,REPLACE,ukraine
+5e8a76b3939b3072dc76fb5c,Czech Republic,112.8,REPLACE,czech republic
+5e8a76b3939b3072dc76fb5c,Dominican Republic,118.0,REPLACE,dominican republic
+5e8a76b3939b3072dc76fb5c,Costa Rica,119.1,REPLACE,costa rica
+61035836646fb6ee2152f950,USA,1.5,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,Jerusalem,3.1,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,Canada,6.8,REPLACE,canada
+61035836646fb6ee2152f950,Iraq,9.8,REPLACE,iraq
+61035836646fb6ee2152f950,Iran,10.6,REPLACE,iran
+61035836646fb6ee2152f950,Saudi Arabia,11.6,REPLACE,saudi arabia
+61035836646fb6ee2152f950,Germany,14.5,REPLACE,germany
+61035836646fb6ee2152f950,Peru,19.6,REPLACE,peru
+61035836646fb6ee2152f950,Ecuador,23.1,REPLACE,ecuador
+61035836646fb6ee2152f950,Guatemala,23.8,REPLACE,guatemala
+61035836646fb6ee2152f950,South Africa,27.3,REPLACE,south africa
+61035836646fb6ee2152f950,Belgium,37.4,REPLACE,belgium
+61035836646fb6ee2152f950,Netherlands,38.1,REPLACE,netherlands
+61035836646fb6ee2152f950,Greenland,39.2,REPLACE,greenland
+61035836646fb6ee2152f950,Ireland,41.8,REPLACE,ireland
+61035836646fb6ee2152f950,China,51.4,REPLACE,china
+61035836646fb6ee2152f950,Russia,53.5,REPLACE,russia
+61035836646fb6ee2152f950,Ukraine,54.1,REPLACE,ukraine
+61035836646fb6ee2152f950,Japan,57.7,REPLACE,japan
+61035836646fb6ee2152f950,Antarctica,62.6,EXCLUDE,EXCLUDE
+61035836646fb6ee2152f950,Columbia,71.5,REPLACE,colombia
+61035836646fb6ee2152f950,Uruguay,74.3,REPLACE,uruguay
+61035836646fb6ee2152f950,Mexico,81.1,REPLACE,mexico
+61035836646fb6ee2152f950,Thailand,97.0,REPLACE,thailand
+61035836646fb6ee2152f950,Taiwan,97.8,REPLACE,taiwan
+61035836646fb6ee2152f950,Dubai,112.6,REPLACE,cuba
+65778c02cde55736bb830eca,United States,2.5,REPLACE,united states
+65778c02cde55736bb830eca,Mexico,3.9,REPLACE,mexico
+65778c02cde55736bb830eca,Canada,4.9,REPLACE,canada
+65778c02cde55736bb830eca,Russia,11.1,REPLACE,russia
+65778c02cde55736bb830eca,Ukraine,11.8,REPLACE,ukraine
+65778c02cde55736bb830eca,France,15.4,REPLACE,france
+65778c02cde55736bb830eca,Germany,16.4,REPLACE,germany
+65778c02cde55736bb830eca,Bulgaria,19.4,REPLACE,bulgaria
+65778c02cde55736bb830eca,Hungary,20.2,REPLACE,hungary
+65778c02cde55736bb830eca,Sweden,21.8,REPLACE,sweden
+65778c02cde55736bb830eca,Denmark,23.5,REPLACE,denmark
+65778c02cde55736bb830eca,Iceland,26.5,REPLACE,iceland
+65778c02cde55736bb830eca,Greenland,28.6,REPLACE,greenland
+65778c02cde55736bb830eca,the Netherlands,30.8,REPLACE,the netherlands
+65778c02cde55736bb830eca,India,36.7,REPLACE,india
+65778c02cde55736bb830eca,Thailand,40.4,REPLACE,thailand
+65778c02cde55736bb830eca,Greece,45.3,REPLACE,greece
+65778c02cde55736bb830eca,Saudi Arabia,57.3,REPLACE,saudi arabia
+65778c02cde55736bb830eca,Nigeria,82.0,REPLACE,nigeria
+65778c02cde55736bb830eca,Morocco,84.9,REPLACE,morocco
+65778c02cde55736bb830eca,Uganda,85.8,REPLACE,uganda
+65778c02cde55736bb830eca,Somalia,89.3,REPLACE,somalia
+65778c02cde55736bb830eca,Niger,92.6,REPLACE,niger
+65778c02cde55736bb830eca,Libya,98.2,REPLACE,libya
+65778c02cde55736bb830eca,Liberia,98.9,REPLACE,liberia
+65778c02cde55736bb830eca,South Sudan,107.5,REPLACE,south sudan
+65778c02cde55736bb830eca,South Africa,110.6,REPLACE,south africa
+65778c02cde55736bb830eca,Ethiopia,114.7,REPLACE,ethiopia
+5d3cc9010e510a00013df6f6,USA,3.2,EXCLUDE,EXCLUDE
+5d3cc9010e510a00013df6f6,Canada,7.6,REPLACE,canada
+5d3cc9010e510a00013df6f6,Mexico,11.3,REPLACE,mexico
+5d3cc9010e510a00013df6f6,Panama,17.3,REPLACE,panama
+5d3cc9010e510a00013df6f6,Costa Rica,19.6,REPLACE,costa rica
+5d3cc9010e510a00013df6f6,Peru,24.9,REPLACE,peru
+5d3cc9010e510a00013df6f6,Brazil,30.9,REPLACE,brazil
+5d3cc9010e510a00013df6f6,Russia,46.1,REPLACE,russia
+5d3cc9010e510a00013df6f6,China,48.7,REPLACE,china
+5d3cc9010e510a00013df6f6,Japan,51.2,REPLACE,japan
+5d3cc9010e510a00013df6f6,North Korea,53.6,REPLACE,north korea
+5d3cc9010e510a00013df6f6,South Korea,55.8,REPLACE,south korea
+5d3cc9010e510a00013df6f6,India,59.2,REPLACE,india
+5d3cc9010e510a00013df6f6,South Africa,62.7,REPLACE,south africa
+5d3cc9010e510a00013df6f6,Nigeria,66.0,REPLACE,nigeria
+5d3cc9010e510a00013df6f6,Donna,70.5,REPLACE,tonga
+5d3cc9010e510a00013df6f6,Somalia,72.2,REPLACE,somalia
+5d3cc9010e510a00013df6f6,Ireland,79.2,REPLACE,ireland
+5d3cc9010e510a00013df6f6,England,80.1,REPLACE,england
+5d3cc9010e510a00013df6f6,Netherlands,85.1,REPLACE,netherlands
+5d3cc9010e510a00013df6f6,Spain,88.4,REPLACE,spain
+5d3cc9010e510a00013df6f6,Germany,90.6,REPLACE,germany
+5d3cc9010e510a00013df6f6,Thailand,97.6,REPLACE,thailand
+5d3cc9010e510a00013df6f6,Taiwan,98.5,REPLACE,taiwan
+5d3cc9010e510a00013df6f6,Kazakhstan,110.1,REPLACE,kazakhstan
+5d3cc9010e510a00013df6f6,Iran,112.2,REPLACE,iran
+5d3cc9010e510a00013df6f6,Pakistan,116.1,REPLACE,pakistan
+65512e3cc12f463bc327b7c3,United States,1.4,REPLACE,united states
+65512e3cc12f463bc327b7c3,Canada,4.4,REPLACE,canada
+65512e3cc12f463bc327b7c3,Mexico,6.6,REPLACE,mexico
+65512e3cc12f463bc327b7c3,Finland,9.8,REPLACE,finland
+65512e3cc12f463bc327b7c3,Germany,12.7,REPLACE,germany
+65512e3cc12f463bc327b7c3,Russia,13.5,REPLACE,russia
+65512e3cc12f463bc327b7c3,Spain,17.6,REPLACE,spain
+65512e3cc12f463bc327b7c3,Honduras,20.8,REPLACE,honduras
+65512e3cc12f463bc327b7c3,England,25.6,REPLACE,england
+65512e3cc12f463bc327b7c3,Brazil,28.8,REPLACE,brazil
+65512e3cc12f463bc327b7c3,Argentina,36.5,REPLACE,argentina
+65512e3cc12f463bc327b7c3,New Zealand,40.5,REPLACE,new zealand
+65512e3cc12f463bc327b7c3,Estonia,46.8,REPLACE,estonia
+65512e3cc12f463bc327b7c3,China,49.7,REPLACE,china
+65512e3cc12f463bc327b7c3,Japan,52.2,REPLACE,japan
+65512e3cc12f463bc327b7c3,the Philippines,55.0,REPLACE,the philippines
+65512e3cc12f463bc327b7c3,South Korea,62.7,REPLACE,south korea
+65512e3cc12f463bc327b7c3,North Korea,64.2,REPLACE,north korea
+65512e3cc12f463bc327b7c3,Iran,67.4,REPLACE,iran
+65512e3cc12f463bc327b7c3,Saudi Arabia,70.6,REPLACE,saudi arabia
+65512e3cc12f463bc327b7c3,Yemen,80.8,REPLACE,yemen
+65512e3cc12f463bc327b7c3,South Africa,82.6,REPLACE,south africa
+65512e3cc12f463bc327b7c3,Uganda,88.8,REPLACE,uganda
+65512e3cc12f463bc327b7c3,Bulgaria,98.4,REPLACE,bulgaria
+65512e3cc12f463bc327b7c3,Qatar,118.9,REPLACE,qatar
+5f6c102b6ec04317fc9a8127,United States,4.1,REPLACE,united states
+5f6c102b6ec04317fc9a8127,Japan,7.4,REPLACE,japan
+5f6c102b6ec04317fc9a8127,Albania,10.2,REPLACE,albania
+5f6c102b6ec04317fc9a8127,Germany,10.8,REPLACE,germany
+5f6c102b6ec04317fc9a8127,Canada,13.6,REPLACE,canada
+5f6c102b6ec04317fc9a8127,Italy,14.4,REPLACE,italy
+5f6c102b6ec04317fc9a8127,France,15.7,REPLACE,france
+5f6c102b6ec04317fc9a8127,turkey,17.7,FOUND,turkey
+5f6c102b6ec04317fc9a8127,Russia,18.5,REPLACE,russia
+5f6c102b6ec04317fc9a8127,Mexico,21.3,REPLACE,mexico
+5f6c102b6ec04317fc9a8127,Belgium,22.1,REPLACE,belgium
+5f6c102b6ec04317fc9a8127,Brazil,24.0,REPLACE,brazil
+5f6c102b6ec04317fc9a8127,Croatia,27.5,REPLACE,croatia
+5f6c102b6ec04317fc9a8127,India,35.8,REPLACE,india
+5f6c102b6ec04317fc9a8127,China,38.2,REPLACE,china
+5f6c102b6ec04317fc9a8127,UK,41.2,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,Birhamgatos,42.0,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,Enargentina,45.0,REPLACE,argentina
+5f6c102b6ec04317fc9a8127,Australia,49.6,REPLACE,australia
+5f6c102b6ec04317fc9a8127,Italy,54.6,REPLACE,italy
+5f6c102b6ec04317fc9a8127,Iraq,56.8,REPLACE,iraq
+5f6c102b6ec04317fc9a8127,Austria,58.8,REPLACE,austria
+5f6c102b6ec04317fc9a8127,New Zealand,64.4,REPLACE,new zealand
+5f6c102b6ec04317fc9a8127,Bolivia,69.3,REPLACE,bolivia
+5f6c102b6ec04317fc9a8127,Bulgaria,70.1,REPLACE,bulgaria
+5f6c102b6ec04317fc9a8127,Kazakhstan,77.3,REPLACE,kazakhstan
+5f6c102b6ec04317fc9a8127,Korea,80.9,EXCLUDE,EXCLUDE
+5f6c102b6ec04317fc9a8127,Morocco,90.1,REPLACE,morocco
+5f6c102b6ec04317fc9a8127,Mongolia,95.9,REPLACE,mongolia
+5f6c102b6ec04317fc9a8127,Philippines,98.7,REPLACE,philippines
+5f6c102b6ec04317fc9a8127,Vietnam,99.8,REPLACE,vietnam
+5f6c102b6ec04317fc9a8127,Pakistan,103.7,REPLACE,pakistan
+5f6c102b6ec04317fc9a8127,Qatar,107.1,REPLACE,qatar
+5f6c102b6ec04317fc9a8127,Sweden,111.0,REPLACE,sweden
+5fc6df58f380620a09116434,United States,2.5,REPLACE,united states
+5fc6df58f380620a09116434,Mexico,3.0,REPLACE,mexico
+5fc6df58f380620a09116434,Jamaica,3.5,REPLACE,jamaica
+5fc6df58f380620a09116434,Haiti,5.1,REPLACE,haiti
+5fc6df58f380620a09116434,Costa Rica,6.2,REPLACE,costa rica
+5fc6df58f380620a09116434,koala,7.1,REPLACE,somalia
+5fc6df58f380620a09116434,Nicaragua,7.5,REPLACE,nicaragua
+5fc6df58f380620a09116434,Belize,8.7,REPLACE,belize
+5fc6df58f380620a09116434,Panama,10.2,REPLACE,panama
+5fc6df58f380620a09116434,Pandora,10.9,REPLACE,andorra
+5fc6df58f380620a09116434,Argentina,14.1,REPLACE,argentina
+5fc6df58f380620a09116434,Brazil,15.9,REPLACE,brazil
+5fc6df58f380620a09116434,Panama,18.4,REPLACE,panama
+5fc6df58f380620a09116434,Venezuela,19.1,REPLACE,venezuela
+5fc6df58f380620a09116434,Colombia,20.4,REPLACE,colombia
+5fc6df58f380620a09116434,Uruguay,22.0,REPLACE,uruguay
+5fc6df58f380620a09116434,Paraguay,23.8,REPLACE,paraguay
+5fc6df58f380620a09116434,Ireland,28.9,REPLACE,ireland
+5fc6df58f380620a09116434,Wales,29.9,REPLACE,wales
+5fc6df58f380620a09116434,Scotland,30.4,REPLACE,scotland
+5fc6df58f380620a09116434,Great Britain,31.5,REPLACE,great britain
+5fc6df58f380620a09116434,United Kingdom,32.7,REPLACE,united kingdom
+5fc6df58f380620a09116434,France,33.4,REPLACE,france
+5fc6df58f380620a09116434,Germany,35.2,REPLACE,germany
+5fc6df58f380620a09116434,Sweden,37.2,REPLACE,sweden
+5fc6df58f380620a09116434,Norway,39.4,REPLACE,norway
+5fc6df58f380620a09116434,Greece,43.8,REPLACE,greece
+5fc6df58f380620a09116434,Italy,44.9,REPLACE,italy
+5fc6df58f380620a09116434,Switzerland,47.0,REPLACE,switzerland
+5fc6df58f380620a09116434,Netherlands,48.1,REPLACE,netherlands
+5fc6df58f380620a09116434,China,49.2,REPLACE,china
+5fc6df58f380620a09116434,North Korea,51.7,REPLACE,north korea
+5fc6df58f380620a09116434,South Korea,52.4,REPLACE,south korea
+5fc6df58f380620a09116434,Japan,52.7,REPLACE,japan
+5fc6df58f380620a09116434,Russia,53.3,REPLACE,russia
+5fc6df58f380620a09116434,Estonia,54.5,REPLACE,estonia
+5fc6df58f380620a09116434,Thailand,57.1,REPLACE,thailand
+5fc6df58f380620a09116434,India,58.2,REPLACE,india
+5fc6df58f380620a09116434,Vietnam,58.7,REPLACE,vietnam
+5fc6df58f380620a09116434,Philippines,59.5,REPLACE,philippines
+5fc6df58f380620a09116434,Australia,60.5,REPLACE,australia
+5fc6df58f380620a09116434,South Africa,62.4,REPLACE,south africa
+5fc6df58f380620a09116434,Kenya,63.3,REPLACE,kenya
+5fc6df58f380620a09116434,Uganda,64.7,REPLACE,uganda
+5fc6df58f380620a09116434,Madagascar,66.2,REPLACE,madagascar
+5fc6df58f380620a09116434,Egypt,67.6,REPLACE,egypt
+5fc6df58f380620a09116434,Zimbabwe,70.0,REPLACE,zimbabwe
+5fc6df58f380620a09116434,Kazakhstan,75.8,REPLACE,kazakhstan
+5fc6df58f380620a09116434,Pakistan,80.5,REPLACE,pakistan
+5fc6df58f380620a09116434,israel-palestine,82.4,EXCLUDE,EXCLUDE
+5fc6df58f380620a09116434,Afghanistan,85.4,REPLACE,afghanistan
+5fc6df58f380620a09116434,Iraq,87.3,REPLACE,iraq
+5fc6df58f380620a09116434,Iran,88.1,REPLACE,iran
+5fc6df58f380620a09116434,Austria,90.1,REPLACE,austria
+5fc6df58f380620a09116434,Czech Republic,94.5,REPLACE,czech republic
+5fc6df58f380620a09116434,Cuba,101.3,REPLACE,cuba
+5fc6df58f380620a09116434,Papanew Guinea,109.8,REPLACE,papua new guinea
+60da4f9aa1ced7efeecca18a,USA,1.3,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,Canada,2.1,REPLACE,canada
+60da4f9aa1ced7efeecca18a,Mexico,2.8,REPLACE,mexico
+60da4f9aa1ced7efeecca18a,Argentina,3.2,REPLACE,argentina
+60da4f9aa1ced7efeecca18a,Peru,4.1,REPLACE,peru
+60da4f9aa1ced7efeecca18a,Ecuador,5.2,REPLACE,ecuador
+60da4f9aa1ced7efeecca18a,El Salvador,5.8,REPLACE,el salvador
+60da4f9aa1ced7efeecca18a,Brazil,7.2,REPLACE,brazil
+60da4f9aa1ced7efeecca18a,Chile,7.5,REPLACE,chile
+60da4f9aa1ced7efeecca18a,Gwar,11.5,EXCLUDE,EXCLUDE
+60da4f9aa1ced7efeecca18a,Paraguay,12.1,REPLACE,paraguay
+60da4f9aa1ced7efeecca18a,China,17.4,REPLACE,china
+60da4f9aa1ced7efeecca18a,India,18.2,REPLACE,india
+60da4f9aa1ced7efeecca18a,England,19.4,REPLACE,england
+60da4f9aa1ced7efeecca18a,France,21.3,REPLACE,france
+60da4f9aa1ced7efeecca18a,Germany,24.0,REPLACE,germany
+60da4f9aa1ced7efeecca18a,Poland,24.9,REPLACE,poland
+60da4f9aa1ced7efeecca18a,Russia,26.1,REPLACE,russia
+60da4f9aa1ced7efeecca18a,Ukraine,26.8,REPLACE,ukraine
+60da4f9aa1ced7efeecca18a,Montenegro,27.4,REPLACE,montenegro
+60da4f9aa1ced7efeecca18a,Moldova,29.5,REPLACE,moldova
+60da4f9aa1ced7efeecca18a,Bosnia,31.4,REPLACE,bosnia
+60da4f9aa1ced7efeecca18a,Herzegovina,32.7,REPLACE,herzegovina
+60da4f9aa1ced7efeecca18a,Kazakhstan,36.0,REPLACE,kazakhstan
+60da4f9aa1ced7efeecca18a,Pakistan,36.9,REPLACE,pakistan
+60da4f9aa1ced7efeecca18a,Bangladesh,40.3,REPLACE,bangladesh
+60da4f9aa1ced7efeecca18a,South Korea,46.5,REPLACE,south korea
+60da4f9aa1ced7efeecca18a,North Korea,47.5,REPLACE,north korea
+60da4f9aa1ced7efeecca18a,Japan,48.3,REPLACE,japan
+60da4f9aa1ced7efeecca18a,Vietnam,51.2,REPLACE,vietnam
+60da4f9aa1ced7efeecca18a,Thailand,52.4,REPLACE,thailand
+60da4f9aa1ced7efeecca18a,Philippines,53.2,REPLACE,philippines
+60da4f9aa1ced7efeecca18a,laos,57.5,FOUND,laos
+60da4f9aa1ced7efeecca18a,Switzerland,59.5,REPLACE,switzerland
+60da4f9aa1ced7efeecca18a,Austria,62.9,REPLACE,austria
+60da4f9aa1ced7efeecca18a,Hungary,65.1,REPLACE,hungary
+60da4f9aa1ced7efeecca18a,Italy,70.7,REPLACE,italy
+60da4f9aa1ced7efeecca18a,Greece,71.5,REPLACE,greece
+60da4f9aa1ced7efeecca18a,Spain,72.1,REPLACE,spain
+60da4f9aa1ced7efeecca18a,Portugal,74.1,REPLACE,portugal
+60da4f9aa1ced7efeecca18a,Ireland,74.5,REPLACE,ireland
+60da4f9aa1ced7efeecca18a,Endora,80.5,REPLACE,andorra
+60da4f9aa1ced7efeecca18a,Luxemburg,81.6,REPLACE,luxembourg
+60da4f9aa1ced7efeecca18a,Vatican City,83.3,REPLACE,vatican city
+60da4f9aa1ced7efeecca18a,Iceland,92.2,REPLACE,iceland
+60da4f9aa1ced7efeecca18a,Norway,93.3,REPLACE,norway
+60da4f9aa1ced7efeecca18a,Finland,93.7,REPLACE,finland
+60da4f9aa1ced7efeecca18a,Sweden,95.0,REPLACE,sweden
+60da4f9aa1ced7efeecca18a,Denmark,99.7,REPLACE,denmark
+60da4f9aa1ced7efeecca18a,Australia,104.5,REPLACE,australia
+60da4f9aa1ced7efeecca18a,New Zealand,105.7,REPLACE,new zealand
+6595e3b4dc9090390e4edb5f,USA,5.3,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,United Kingdom,8.6,REPLACE,united kingdom
+6595e3b4dc9090390e4edb5f,Denmark,11.9,REPLACE,denmark
+6595e3b4dc9090390e4edb5f,Hungary,13.9,REPLACE,hungary
+6595e3b4dc9090390e4edb5f,Italy,17.7,REPLACE,italy
+6595e3b4dc9090390e4edb5f,Portugal,19.7,REPLACE,portugal
+6595e3b4dc9090390e4edb5f,Japan,22.5,REPLACE,japan
+6595e3b4dc9090390e4edb5f,North Korea,23.7,REPLACE,north korea
+6595e3b4dc9090390e4edb5f,South Korea,24.1,REPLACE,south korea
+6595e3b4dc9090390e4edb5f,Taiwan,25.4,REPLACE,taiwan
+6595e3b4dc9090390e4edb5f,Hong Kong,26.4,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Thailand,29.2,REPLACE,thailand
+6595e3b4dc9090390e4edb5f,Laos,32.2,REPLACE,laos
+6595e3b4dc9090390e4edb5f,Cambodia,32.9,REPLACE,cambodia
+6595e3b4dc9090390e4edb5f,Philippines,33.5,REPLACE,philippines
+6595e3b4dc9090390e4edb5f,India,38.3,REPLACE,india
+6595e3b4dc9090390e4edb5f,China,41.4,REPLACE,china
+6595e3b4dc9090390e4edb5f,Australia,45.3,REPLACE,australia
+6595e3b4dc9090390e4edb5f,Belgium,48.5,REPLACE,belgium
+6595e3b4dc9090390e4edb5f,Poland,49.4,REPLACE,poland
+6595e3b4dc9090390e4edb5f,Germany,52.6,REPLACE,germany
+6595e3b4dc9090390e4edb5f,Ireland,53.4,REPLACE,ireland
+6595e3b4dc9090390e4edb5f,France,57.1,REPLACE,france
+6595e3b4dc9090390e4edb5f,a,59.0,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,b,59.3,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,c,59.5,EXCLUDE,EXCLUDE
+6595e3b4dc9090390e4edb5f,Norway,59.7,REPLACE,norway
+6595e3b4dc9090390e4edb5f,Singapore,65.2,REPLACE,singapore
+6595e3b4dc9090390e4edb5f,Netherlands,75.8,REPLACE,netherlands
+6595e3b4dc9090390e4edb5f,Canada,76.8,REPLACE,canada
+6595e3b4dc9090390e4edb5f,Mexico,79.9,REPLACE,mexico
+6595e3b4dc9090390e4edb5f,Egypt,84.4,REPLACE,egypt
+6595e3b4dc9090390e4edb5f,South Africa,85.4,REPLACE,south africa
+6595e3b4dc9090390e4edb5f,Afghanistan,85.7,REPLACE,afghanistan
+6595e3b4dc9090390e4edb5f,Syria,86.7,REPLACE,syria
+6595e3b4dc9090390e4edb5f,Indonesia,91.7,REPLACE,indonesia
+6595e3b4dc9090390e4edb5f,Nigeria,96.7,REPLACE,nigeria
+6595e3b4dc9090390e4edb5f,turkey,97.8,FOUND,turkey
+6595e3b4dc9090390e4edb5f,Brazil,105.3,REPLACE,brazil
+6595e3b4dc9090390e4edb5f,Greece,112.4,REPLACE,greece
+5e7fefe06c12706d47e35211,United States,0.0,REPLACE,united states
+5e7fefe06c12706d47e35211,Canada,3.6,REPLACE,canada
+5e7fefe06c12706d47e35211,Mexico,4.6,REPLACE,mexico
+5e7fefe06c12706d47e35211,Greenland,5.3,REPLACE,greenland
+5e7fefe06c12706d47e35211,Iceland,7.8,REPLACE,iceland
+5e7fefe06c12706d47e35211,Finland,8.9,REPLACE,finland
+5e7fefe06c12706d47e35211,South Africa,11.1,REPLACE,south africa
+5e7fefe06c12706d47e35211,Kenya,12.3,REPLACE,kenya
+5e7fefe06c12706d47e35211,Niger,13.5,REPLACE,niger
+5e7fefe06c12706d47e35211,Egypt,15.3,REPLACE,egypt
+5e7fefe06c12706d47e35211,Democratic,18.4,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Republic of  Congo,20.6,REPLACE,republic of congo
+5e7fefe06c12706d47e35211,Italy,25.2,REPLACE,italy
+5e7fefe06c12706d47e35211,England,26.0,REPLACE,england
+5e7fefe06c12706d47e35211,Ireland,27.2,REPLACE,ireland
+5e7fefe06c12706d47e35211,France,31.3,REPLACE,france
+5e7fefe06c12706d47e35211,Singapore,34.2,REPLACE,singapore
+5e7fefe06c12706d47e35211,Japan,35.2,REPLACE,japan
+5e7fefe06c12706d47e35211,China,36.5,REPLACE,china
+5e7fefe06c12706d47e35211,Thailand,37.1,REPLACE,thailand
+5e7fefe06c12706d47e35211,Russia,39.0,REPLACE,russia
+5e7fefe06c12706d47e35211,Australia,43.0,REPLACE,australia
+5e7fefe06c12706d47e35211,Chile,47.2,REPLACE,chile
+5e7fefe06c12706d47e35211,Argentina,48.0,REPLACE,argentina
+5e7fefe06c12706d47e35211,Peru,48.7,REPLACE,peru
+5e7fefe06c12706d47e35211,Colombia,50.3,REPLACE,colombia
+5e7fefe06c12706d47e35211,Brazil,53.4,REPLACE,brazil
+5e7fefe06c12706d47e35211,Jamaica,56.0,REPLACE,jamaica
+5e7fefe06c12706d47e35211,Dominican Republic Haiti,62.0,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Czechoslovakia,65.7,REPLACE,czechoslovakia
+5e7fefe06c12706d47e35211,Romania,69.3,REPLACE,romania
+5e7fefe06c12706d47e35211,turkey,74.5,FOUND,turkey
+5e7fefe06c12706d47e35211,Iraq Iran,76.8,EXCLUDE,EXCLUDE
+5e7fefe06c12706d47e35211,Uzbekistan,78.4,REPLACE,uzbekistan
+5e7fefe06c12706d47e35211,Qatar,83.0,REPLACE,qatar
+5e7fefe06c12706d47e35211,India,91.1,REPLACE,india
+5c1942e200849900010afdcd,us,1.7,FOUND,us
+5c1942e200849900010afdcd,America,2.5,REPLACE,america
+5c1942e200849900010afdcd,Canada,2.9,REPLACE,canada
+5c1942e200849900010afdcd,Mexico,5.7,REPLACE,mexico
+5c1942e200849900010afdcd,Haiti,7.4,REPLACE,haiti
+5c1942e200849900010afdcd,Cuba,8.0,REPLACE,cuba
+5c1942e200849900010afdcd,Dominican Republic,12.3,REPLACE,dominican republic
+5c1942e200849900010afdcd,Brazil,19.2,REPLACE,brazil
+5c1942e200849900010afdcd,Argentina,19.9,REPLACE,argentina
+5c1942e200849900010afdcd,Chile,20.8,REPLACE,chile
+5c1942e200849900010afdcd,Ecuador,22.9,REPLACE,ecuador
+5c1942e200849900010afdcd,Colombia,23.7,REPLACE,colombia
+5c1942e200849900010afdcd,United Kingdom,27.0,REPLACE,united kingdom
+5c1942e200849900010afdcd,Ireland,28.9,REPLACE,ireland
+5c1942e200849900010afdcd,France,29.7,REPLACE,france
+5c1942e200849900010afdcd,Portugal,30.7,REPLACE,portugal
+5c1942e200849900010afdcd,Spain,31.7,REPLACE,spain
+5c1942e200849900010afdcd,Germany,35.6,REPLACE,germany
+5c1942e200849900010afdcd,Luxembourg,36.3,REPLACE,luxembourg
+5c1942e200849900010afdcd,Austria,37.1,REPLACE,austria
+5c1942e200849900010afdcd,Norway,42.7,REPLACE,norway
+5c1942e200849900010afdcd,Sweden,43.4,REPLACE,sweden
+5c1942e200849900010afdcd,Finland,43.9,REPLACE,finland
+5c1942e200849900010afdcd,Iceland,46.3,REPLACE,iceland
+5c1942e200849900010afdcd,Denmark,47.1,REPLACE,denmark
+5c1942e200849900010afdcd,Netherlands,48.6,REPLACE,netherlands
+5c1942e200849900010afdcd,Belgium,49.8,REPLACE,belgium
+5c1942e200849900010afdcd,Morocco,52.5,REPLACE,morocco
+5c1942e200849900010afdcd,Egypt,53.3,REPLACE,egypt
+5c1942e200849900010afdcd,South Africa,55.8,REPLACE,south africa
+5c1942e200849900010afdcd,Nigeria,56.8,REPLACE,nigeria
+5c1942e200849900010afdcd,Ethiopia,58.1,REPLACE,ethiopia
+5c1942e200849900010afdcd,Zimbabwe,60.2,REPLACE,zimbabwe
+5c1942e200849900010afdcd,hoanzeke,63.4,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,India,67.1,REPLACE,india
+5c1942e200849900010afdcd,SriLanka,67.8,REPLACE,sri lanka
+5c1942e200849900010afdcd,Thailand,68.3,REPLACE,thailand
+5c1942e200849900010afdcd,Vietnam,69.6,REPLACE,vietnam
+5c1942e200849900010afdcd,Laos,70.2,REPLACE,laos
+5c1942e200849900010afdcd,Myanmar,73.0,REPLACE,myanmar
+5c1942e200849900010afdcd,Burma,76.8,REPLACE,burma
+5c1942e200849900010afdcd,Japan,83.3,REPLACE,japan
+5c1942e200849900010afdcd,China,84.0,REPLACE,china
+5c1942e200849900010afdcd,North Korea,84.6,REPLACE,north korea
+5c1942e200849900010afdcd,South Korea,85.6,REPLACE,south korea
+5c1942e200849900010afdcd,israel-palestine,86.4,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,Indonesia,91.7,REPLACE,indonesia
+5c1942e200849900010afdcd,Malaysia,92.5,REPLACE,malaysia
+5c1942e200849900010afdcd,Papua,93.1,REPLACE,papua
+5c1942e200849900010afdcd,New Guinea,94.3,EXCLUDE,EXCLUDE
+5c1942e200849900010afdcd,Australia,94.6,REPLACE,australia
+5c1942e200849900010afdcd,New Zealand,95.9,REPLACE,new zealand
+5c1942e200849900010afdcd,Russia,99.8,REPLACE,russia
+5c1942e200849900010afdcd,Ukraine,100.5,REPLACE,ukraine
+5c1942e200849900010afdcd,Armenia,101.2,REPLACE,armenia
+5c1942e200849900010afdcd,turkey,102.4,FOUND,turkey
+5c1942e200849900010afdcd,Georgia,102.9,REPLACE,georgia
+5c1942e200849900010afdcd,Lebanon,104.9,REPLACE,lebanon
+5c1942e200849900010afdcd,Jordan,105.6,REPLACE,jordan
+5c1942e200849900010afdcd,Saudi Arabia,108.8,REPLACE,saudi arabia
+5c1942e200849900010afdcd,Afghanistan,111.1,REPLACE,afghanistan
+5c1942e200849900010afdcd,Iran,112.1,REPLACE,iran
+5c1942e200849900010afdcd,Nepal,114.6,REPLACE,nepal
+5c4a428161c51f0001e96b3f,u.s.,4.0,REPLACE,us
+5c4a428161c51f0001e96b3f,Mexico,4.9,REPLACE,mexico
+5c4a428161c51f0001e96b3f,Spain,8.6,REPLACE,spain
+5c4a428161c51f0001e96b3f,France,9.7,REPLACE,france
+5c4a428161c51f0001e96b3f,Germany,10.8,REPLACE,germany
+5c4a428161c51f0001e96b3f,Canada,15.1,REPLACE,canada
+5c4a428161c51f0001e96b3f,Russia,17.1,REPLACE,russia
+5c4a428161c51f0001e96b3f,Guatemala,19.6,REPLACE,guatemala
+5c4a428161c51f0001e96b3f,Belize,20.8,REPLACE,belize
+5c4a428161c51f0001e96b3f,El Salvador,20.9,REPLACE,el salvador
+5c4a428161c51f0001e96b3f,Honduras,23.8,REPLACE,honduras
+5c4a428161c51f0001e96b3f,Nicaragua,25.2,REPLACE,nicaragua
+5c4a428161c51f0001e96b3f,Costa Rica,26.5,REPLACE,costa rica
+5c4a428161c51f0001e96b3f,Panama,27.4,REPLACE,panama
+5c4a428161c51f0001e96b3f,Colombia,28.7,REPLACE,colombia
+5c4a428161c51f0001e96b3f,Venezuela,29.9,REPLACE,venezuela
+5c4a428161c51f0001e96b3f,Guyana,30.6,REPLACE,guyana
+5c4a428161c51f0001e96b3f,Suriname,32.7,REPLACE,suriname
+5c4a428161c51f0001e96b3f,French,32.9,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Guiana,34.5,REPLACE,guiana
+5c4a428161c51f0001e96b3f,Carrillo,36.5,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Bolivia,37.4,REPLACE,bolivia
+5c4a428161c51f0001e96b3f,Chile,38.0,REPLACE,chile
+5c4a428161c51f0001e96b3f,Argentina,38.5,REPLACE,argentina
+5c4a428161c51f0001e96b3f,Paraguay,39.1,REPLACE,paraguay
+5c4a428161c51f0001e96b3f,Uruguay,40.5,REPLACE,uruguay
+5c4a428161c51f0001e96b3f,China,43.8,REPLACE,china
+5c4a428161c51f0001e96b3f,North Korea,45.5,REPLACE,north korea
+5c4a428161c51f0001e96b3f,South Korea,47.2,REPLACE,south korea
+5c4a428161c51f0001e96b3f,Japan,47.7,REPLACE,japan
+5c4a428161c51f0001e96b3f,Taiwan,51.0,REPLACE,taiwan
+5c4a428161c51f0001e96b3f,Philippines,52.7,REPLACE,philippines
+5c4a428161c51f0001e96b3f,Indonesia,53.8,REPLACE,indonesia
+5c4a428161c51f0001e96b3f,Singapore,56.8,REPLACE,singapore
+5c4a428161c51f0001e96b3f,Malaysia,57.8,REPLACE,malaysia
+5c4a428161c51f0001e96b3f,Vietnam,58.6,REPLACE,vietnam
+5c4a428161c51f0001e96b3f,Cambodia,59.5,REPLACE,cambodia
+5c4a428161c51f0001e96b3f,Thailand,60.6,REPLACE,thailand
+5c4a428161c51f0001e96b3f,laos,62.4,FOUND,laos
+5c4a428161c51f0001e96b3f,Myanmar,67.1,REPLACE,myanmar
+5c4a428161c51f0001e96b3f,Bhutan,69.1,REPLACE,bhutan
+5c4a428161c51f0001e96b3f,Bangladesh,71.1,REPLACE,bangladesh
+5c4a428161c51f0001e96b3f,Nepal,72.7,REPLACE,nepal
+5c4a428161c51f0001e96b3f,India,73.5,REPLACE,india
+5c4a428161c51f0001e96b3f,Pakistan,74.5,REPLACE,pakistan
+5c4a428161c51f0001e96b3f,Tajikistan,75.8,REPLACE,tajikistan
+5c4a428161c51f0001e96b3f,Kyrgyzstan,77.7,REPLACE,kyrgyzstan
+5c4a428161c51f0001e96b3f,IsPakistan,79.3,REPLACE,pakistan
+5c4a428161c51f0001e96b3f,Turkmenistan,80.0,REPLACE,turkmenistan
+5c4a428161c51f0001e96b3f,Afghanistan,80.9,REPLACE,afghanistan
+5c4a428161c51f0001e96b3f,Iran,82.6,REPLACE,iran
+5c4a428161c51f0001e96b3f,Kazakhstan,82.8,REPLACE,kazakhstan
+5c4a428161c51f0001e96b3f,Iraq,85.5,REPLACE,iraq
+5c4a428161c51f0001e96b3f,Kuwait,86.2,REPLACE,kuwait
+5c4a428161c51f0001e96b3f,Qatar,90.8,REPLACE,qatar
+5c4a428161c51f0001e96b3f,United Arab,91.6,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Emirates,93.3,REPLACE,emirates
+5c4a428161c51f0001e96b3f,Oman,94.2,REPLACE,oman
+5c4a428161c51f0001e96b3f,Yemen,95.0,REPLACE,yemen
+5c4a428161c51f0001e96b3f,Saudi Arabia,96.5,REPLACE,saudi arabia
+5c4a428161c51f0001e96b3f,Jordan,97.6,REPLACE,jordan
+5c4a428161c51f0001e96b3f,syria-lebanon,98.3,EXCLUDE,EXCLUDE
+5c4a428161c51f0001e96b3f,Israel,99.5,REPLACE,israel
+5c4a428161c51f0001e96b3f,Palestine,102.4,REPLACE,palestine
+5c4a428161c51f0001e96b3f,Egypt,106.7,REPLACE,egypt
+5c4a428161c51f0001e96b3f,Cyprus,107.9,REPLACE,cyprus
+5c4a428161c51f0001e96b3f,Turkey,109.0,REPLACE,turkey
+5c4a428161c51f0001e96b3f,Greece,109.7,REPLACE,greece
+5c4a428161c51f0001e96b3f,Bulgaria,111.2,REPLACE,bulgaria
+5c4a428161c51f0001e96b3f,Romania,112.3,REPLACE,romania
+5c4a428161c51f0001e96b3f,Moldova,113.5,REPLACE,moldova
+5c4a428161c51f0001e96b3f,Ukraine,115.8,REPLACE,ukraine
+5c4a428161c51f0001e96b3f,Belarus,116.7,REPLACE,belarus
+5c4a428161c51f0001e96b3f,Lithuania,117.8,REPLACE,lithuania
+5c4a428161c51f0001e96b3f,Latvia,118.6,REPLACE,latvia
+5ed9311e1a69d449577bb8cf,Ecuador,0.3,REPLACE,ecuador
+5ed9311e1a69d449577bb8cf,United States,1.9,REPLACE,united states
+5ed9311e1a69d449577bb8cf,Mexico,2.6,REPLACE,mexico
+5ed9311e1a69d449577bb8cf,Canada,2.8,REPLACE,canada
+5ed9311e1a69d449577bb8cf,Brazil,6.9,REPLACE,brazil
+5ed9311e1a69d449577bb8cf,Colombia,7.6,REPLACE,colombia
+5ed9311e1a69d449577bb8cf,Peru,7.9,REPLACE,peru
+5ed9311e1a69d449577bb8cf,Argentina,8.9,REPLACE,argentina
+5ed9311e1a69d449577bb8cf,Bolivia,11.2,REPLACE,bolivia
+5ed9311e1a69d449577bb8cf,Chile,12.0,REPLACE,chile
+5ed9311e1a69d449577bb8cf,Japan,14.7,REPLACE,japan
+5ed9311e1a69d449577bb8cf,Spain,16.2,REPLACE,spain
+5ed9311e1a69d449577bb8cf,Portugal,18.0,REPLACE,portugal
+5ed9311e1a69d449577bb8cf,Belgium,18.3,REPLACE,belgium
+5ed9311e1a69d449577bb8cf,Italy,19.5,REPLACE,italy
+5ed9311e1a69d449577bb8cf,France,20.1,REPLACE,france
+5ed9311e1a69d449577bb8cf,Denmark,22.0,REPLACE,denmark
+5ed9311e1a69d449577bb8cf,England,23.1,REPLACE,england
+5ed9311e1a69d449577bb8cf,China,27.1,REPLACE,china
+5ed9311e1a69d449577bb8cf,Russia,27.9,REPLACE,russia
+5ed9311e1a69d449577bb8cf,turkey,30.4,FOUND,turkey
+5ed9311e1a69d449577bb8cf,Morocco,31.1,REPLACE,morocco
+5ed9311e1a69d449577bb8cf,Egypt,32.3,REPLACE,egypt
+5ed9311e1a69d449577bb8cf,Canada,45.3,REPLACE,canada
+5ed9311e1a69d449577bb8cf,Germany,51.3,REPLACE,germany
+5ed9311e1a69d449577bb8cf,South Africa,57.2,REPLACE,south africa
+5ed9311e1a69d449577bb8cf,Gianna,61.0,REPLACE,guiana
+5ed9311e1a69d449577bb8cf,sedan,64.0,REPLACE,sudan
+5ed9311e1a69d449577bb8cf,Nigeria,68.0,REPLACE,nigeria
+5ed9311e1a69d449577bb8cf,Ghana,69.0,REPLACE,ghana
+5ed9311e1a69d449577bb8cf,Cameroon,70.7,REPLACE,cameroon
+5ed9311e1a69d449577bb8cf,Australia,74.5,REPLACE,australia
+5ed9311e1a69d449577bb8cf,New Zealand,75.7,REPLACE,new zealand
+5ed9311e1a69d449577bb8cf,Cambodia,84.1,REPLACE,cambodia
+5ed9311e1a69d449577bb8cf,India,100.7,REPLACE,india
+5ed9311e1a69d449577bb8cf,Fiji,117.4,REPLACE,fiji
+60fcf1a04c245326d05076e0,America,1.6,REPLACE,america
+60fcf1a04c245326d05076e0,England,3.2,REPLACE,england
+60fcf1a04c245326d05076e0,whales,6.6,REPLACE,wales
+60fcf1a04c245326d05076e0,Canada,7.5,REPLACE,canada
+60fcf1a04c245326d05076e0,Mexico,8.6,REPLACE,mexico
+60fcf1a04c245326d05076e0,Costa Rica,9.1,REPLACE,costa rica
+60fcf1a04c245326d05076e0,Guatemala,10.4,REPLACE,guatemala
+60fcf1a04c245326d05076e0,Chile,13.1,REPLACE,chile
+60fcf1a04c245326d05076e0,South Africa,17.7,REPLACE,south africa
+60fcf1a04c245326d05076e0,Ethiopia,20.2,REPLACE,ethiopia
+60fcf1a04c245326d05076e0,Croatia,24.2,REPLACE,croatia
+60fcf1a04c245326d05076e0,France,29.6,REPLACE,france
+60fcf1a04c245326d05076e0,Belgium,30.3,REPLACE,belgium
+60fcf1a04c245326d05076e0,Germany,31.2,REPLACE,germany
+60fcf1a04c245326d05076e0,Italy,33.5,REPLACE,italy
+60fcf1a04c245326d05076e0,China,36.1,REPLACE,china
+60fcf1a04c245326d05076e0,Russia,36.8,REPLACE,russia
+60fcf1a04c245326d05076e0,Ukraine,37.2,REPLACE,ukraine
+60fcf1a04c245326d05076e0,South Korea,41.3,REPLACE,south korea
+60fcf1a04c245326d05076e0,North Korea,42.1,REPLACE,north korea
+60fcf1a04c245326d05076e0,Kenya,52.2,REPLACE,kenya
+60fcf1a04c245326d05076e0,Guam,53.7,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,Puerto Rico,68.4,EXCLUDE,EXCLUDE
+60fcf1a04c245326d05076e0,Sweden,76.6,REPLACE,sweden
+60fcf1a04c245326d05076e0,Switzerland,77.3,REPLACE,switzerland
+60fcf1a04c245326d05076e0,Denmark,77.7,REPLACE,denmark
+60fcf1a04c245326d05076e0,Norway,80.0,REPLACE,norway
+60fcf1a04c245326d05076e0,Iceland,85.2,REPLACE,iceland
+60fcf1a04c245326d05076e0,Greenland,86.0,REPLACE,greenland
+60fcf1a04c245326d05076e0,Japan,98.8,REPLACE,japan
+60fcf1a04c245326d05076e0,Singapore,101.8,REPLACE,singapore

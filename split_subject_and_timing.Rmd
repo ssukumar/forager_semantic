@@ -1,0 +1,28 @@
+---
+title: "split_subject_and_timing"
+output: html_document
+date: "2024-05-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+getwd()
+
+library(dplyr)
+library(ggplot2)
+
+```
+
+
+### Split the data with timing in the subject column
+```{r}
+output_dir = file.path('output_timing', paste0(category, forager_suffix))
+categories = c('ANIMALS','BODY PARTS', 'FRUITS', 'HOBBIES', 'HOLIDAYS', 'HOME APPLIANCES', 'LIQUIDS', 'MEANS OF TRANSPORT', 'MEDICAL CONDITIONS', 'MUSICAL INSTRUMENTS', 'OCCUPATIONS', 'TOOLS', 'VEGETABLES')
+categories = c('ANIMALS')
+for (category in categories){
+  
+  lexical_data_timing_fn = file.path(output_dir, 'lexical_results.csv')
+  lexical_data_timing_csv = read.csv(lexical_data_timing_fn, header=TRUE)
+}
+
+```

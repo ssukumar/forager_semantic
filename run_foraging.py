@@ -11,6 +11,7 @@ import os, sys
 from tqdm import tqdm
 import warnings 
 import zipfile
+import pdb
 
 warnings.simplefilter('ignore')
 
@@ -75,6 +76,7 @@ def calculate_model(model, history_vars, switch_names, switch_vecs):
     """
     model_name = []
     model_results = []
+    
     if model not in models:
         ex_str = "Specified model is invalid. Model must be one of the following: {models}".format(models=models)
         raise Exception(ex_str)
@@ -203,37 +205,70 @@ def calculate_switch(switch, fluency_list, semantic_similarity, phon_similarity,
 def run_model(data, model_type, switch_type):
     # Get Lexical Data needed for executing methods
     norms, similarity_matrix, phon_matrix, frequency_list, labels = get_lexical_data()
+    
     forager_results = []
     # Run through each fluency list in dataset
-    for i, (subj, fl_list) in enumerate(tqdm(data)):
-        print("\nRunning Model for Subject {subj}".format(subj=subj))
-        import time
-        start_time = time.time()
-        # Get History Variables 
-        history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
-        
-        # Calculate Switch Vector(s)
-        switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0],   history_vars[4], norms)
+    if len(data[0]) > 2:
+        for i, (subj, fl_list, _) in enumerate(tqdm(data)):
+            print("\nRunning Model for Subject {subj}".format(subj=subj))
+            import time
+            start_time = time.time()
+            # Get History Variables 
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
 
-        #Execute Individual Model(s) and get result(s)
-        model_names, model_results = calculate_model(model_type,history_vars, switch_names, switch_vecs)
+            # Calculate Switch Vector(s)
+            switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0],   history_vars[4], norms)
 
-        #Create Model Output Results DataFrame
-        for i, model in enumerate(model_names):
-            model_dict = dict()
-            model_dict['Subject'] = subj
-            model_dict['Model'] = model
-            model_dict['Beta_Frequency'] = model_results[i][0]
-            model_dict['Beta_Semantic'] = model_results[i][1]
-            # print(results[i])
-            # sys.exit()
-            if len(model_results[i]) == 4:
-                model_dict['Beta_Phonological'] = None
-                model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][2]
-            if len(model_results[i]) == 5:
-                model_dict['Beta_Phonological'] = model_results[i][2]
-                model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][3]
-            forager_results.append(model_dict)
+            #Execute Individual Model(s) and get result(s)
+            model_names, model_results = calculate_model(model_type,history_vars, switch_names, switch_vecs)
+
+            #Create Model Output Results DataFrame
+            for i, model in enumerate(model_names):
+                model_dict = dict()
+                model_dict['Subject'] = subj
+                model_dict['Model'] = model
+                model_dict['Beta_Frequency'] = model_results[i][0]
+                model_dict['Beta_Semantic'] = model_results[i][1]
+                # print(results[i])
+                # sys.exit()
+                if len(model_results[i]) == 4:
+                    model_dict['Beta_Phonological'] = None
+                    model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][2]
+                if len(model_results[i]) == 5:
+                    model_dict['Beta_Phonological'] = model_results[i][2]
+                    model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][3]
+                forager_results.append(model_dict)
+    else:
+    
+        for i, (subj, fl_list) in enumerate(tqdm(data)):
+            print("\nRunning Model for Subject {subj}".format(subj=subj))
+            import time
+            start_time = time.time()
+            # Get History Variables 
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
+
+            # Calculate Switch Vector(s)
+            switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0],   history_vars[4], norms)
+
+            #Execute Individual Model(s) and get result(s)
+            model_names, model_results = calculate_model(model_type,history_vars, switch_names, switch_vecs)
+
+            #Create Model Output Results DataFrame
+            for i, model in enumerate(model_names):
+                model_dict = dict()
+                model_dict['Subject'] = subj
+                model_dict['Model'] = model
+                model_dict['Beta_Frequency'] = model_results[i][0]
+                model_dict['Beta_Semantic'] = model_results[i][1]
+                # print(results[i])
+                # sys.exit()
+                if len(model_results[i]) == 4:
+                    model_dict['Beta_Phonological'] = None
+                    model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][2]
+                if len(model_results[i]) == 5:
+                    model_dict['Beta_Phonological'] = model_results[i][2]
+                    model_dict['Negative_Log_Likelihood_Optimized'] = model_results[i][3]
+                forager_results.append(model_dict)
     forager_results = pd.DataFrame(forager_results)
         
     return forager_results
@@ -242,36 +277,70 @@ def run_lexical(data):
     # Get Lexical Data needed for executing methods
     norms, similarity_matrix, phon_matrix, frequency_list, labels = get_lexical_data()
     lexical_results = []
-    for i, (subj, fl_list) in enumerate(tqdm(data)):
-        history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
-        lexical_df = pd.DataFrame()
-        lexical_df['Subject'] = len(fl_list) * [subj]
-        lexical_df['Fluency_Item'] = fl_list
-        lexical_df['Semantic_Similarity'] = history_vars[0]
-        lexical_df['Frequency_Value'] = history_vars[2]
-        # lexical_df['Phonological_Similarity'] = history_vars[4]
-        lexical_results.append(lexical_df)
+    print("\nPRINTING DATA LEN")
+    print(len(data[0]))
+    if len(data[0]) >2:
+        for i, (subj, fl_list, irt) in enumerate(tqdm(data)):
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
+            lexical_df = pd.DataFrame()
+            lexical_df['Subject'] = len(fl_list) * [subj]
+            lexical_df['Fluency_Item'] = fl_list
+            lexical_df['IRT'] = irt
+            lexical_df['Semantic_Similarity'] = history_vars[0]
+            lexical_df['Frequency_Value'] = history_vars[2]
+            # lexical_df['Phonological_Similarity'] = history_vars[4]
+            lexical_results.append(lexical_df)
+    else:
+        for i, (subj, fl_list) in enumerate(tqdm(data)):
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
+            lexical_df = pd.DataFrame()
+            lexical_df['Subject'] = len(fl_list) * [subj]
+            lexical_df['Fluency_Item'] = fl_list
+            lexical_df['Semantic_Similarity'] = history_vars[0]
+            lexical_df['Frequency_Value'] = history_vars[2]
+            # lexical_df['Phonological_Similarity'] = history_vars[4]
+            lexical_results.append(lexical_df)
     lexical_results = pd.concat(lexical_results,ignore_index=True)
     return lexical_results
 
 def run_switches(data,switch_type):
     norms, similarity_matrix, phon_matrix, frequency_list, labels = get_lexical_data()
     switch_results = []
-    for i, (subj, fl_list) in enumerate(tqdm(data)):
-        history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
-        switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0], history_vars[4], norms)
     
-        switch_df = []
-        for j, switch in enumerate(switch_vecs):
-            df = pd.DataFrame()
-            df['Subject'] = len(switch) * [subj]
-            df['Fluency_Item'] = fl_list
-            df['Switch_Value'] = switch
-            df['Switch_Method'] = switch_names[j]
-            switch_df.append(df)
+    if len(data[0]) > 2:
+        for i, (subj, fl_list, irt) in enumerate(tqdm(data)):
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
+            switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0], history_vars[4], norms)
     
-        switch_df = pd.concat(switch_df, ignore_index=True)
-        switch_results.append(switch_df)
+            switch_df = []
+            for j, switch in enumerate(switch_vecs):
+                df = pd.DataFrame()
+                df['Subject'] = len(switch) * [subj]
+                df['Fluency_Item'] = fl_list
+                df['Switch_Value'] = switch
+                df['Switch_Method'] = switch_names[j]
+                switch_df.append(df)
+                
+            switch_df = pd.concat(switch_df, ignore_index=True)
+            switch_results.append(switch_df)
+                
+    else:
+        
+        for i, (subj, fl_list) in enumerate(tqdm(data)):
+            history_vars = create_history_variables(fl_list, labels, similarity_matrix, frequency_list, phon_matrix)
+            switch_names, switch_vecs = calculate_switch(switch_type, fl_list, history_vars[0], history_vars[4], norms)
+    
+            switch_df = []
+            for j, switch in enumerate(switch_vecs):
+                df = pd.DataFrame()
+                df['Subject'] = len(switch) * [subj]
+                df['Fluency_Item'] = fl_list
+                df['Switch_Value'] = switch
+                df['Switch_Method'] = switch_names[j]
+                switch_df.append(df)
+    
+            switch_df = pd.concat(switch_df, ignore_index=True)
+            switch_results.append(switch_df)
     switch_results = pd.concat(switch_results, ignore_index=True)
     return switch_results
 
@@ -463,7 +532,7 @@ elif args.pipeline == 'switches':
     # Run subroutine for getting strictly switch outputs 
     # Run subroutine for getting model outputs
     print("Checking Data ...")
-    data, replacement_df, processed_df = retrieve_data(args.data,fp)
+    data, replacement_df, processed_df = retrieve_data(args.data,fp, args.category)
     print("Retrieving Lexical Data ...")
     lexical_results = run_lexical(data)
     print("Obtaining Switch Designations ...")
@@ -524,7 +593,7 @@ elif args.pipeline == 'models':
         parser.error(f"Please specify a proper switch method (e.g. {switch_methods})")
     # Run subroutine for getting model outputs
     print("Checking Data ...")
-    data, replacement_df, processed_df = retrieve_data(args.data,fp)
+    data, replacement_df, processed_df = retrieve_data(args.data,fp, args.category)
     print("Retrieving Lexical Data ...")
     lexical_results = run_lexical(data)
     print("Obtaining Switch Designations ...")
